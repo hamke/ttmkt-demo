@@ -16,6 +16,24 @@
 <a href="https://www.chinatalk.net/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2018/04/trendtalk-china-cover-966x200.png)</a>
 
 ***
+***
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-alipay-hk.md" target="_blank" rel="noopener noreferrer"_>알리페이홍콩(AlipayHK) 회원 가입 및 중국에서 간편 결제 방법 - 트렌드톡 매거진</a>
+
+***
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-why-china-mkt-not-good.md" target="_blank" rel="noopener noreferrer"_>당신의 중국 온라인 마케팅 방법이 효과가 없는 이유 및 추천 방법 - 트렌드톡 매거진</a>**
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-startchina-products.md" target="_blank" rel="noopener noreferrer"_>중국 마케팅 시 반드시 준비해야 하는 홍보 채널 총정리 - 트렌드톡 매거진</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-china-business-media.md" target="_blank" rel="noopener noreferrer"_>중국 비즈니스 트렌드에 대한 추천할 만한 국내외 미디어 및 블로그 (한국어, 영어, 중국어, 일본어) - 트렌드톡 매거진</a>
+
+***
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-wanghong-not-good.md" target="_blank" rel="noopener noreferrer"_>당신의 중국 왕홍 마케팅이 효과가 없는 이유 및 추천 방법 - 트렌드톡 매거진</a>**
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-wanghong-agency.md" target="_blank" rel="noopener noreferrer"_>중화권 인플루엔서(왕홍) 마케팅 주요 에이전시 정보 모음 - 트렌드톡 매거진</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-website-before-wanghong.md" target="_blank" rel="noopener noreferrer"_>중국 왕홍 마케팅을 하기 전에 웹사이트/블로그를 제작해야 하는 이유 - 트렌드톡 매거진</a>
+
+***
 **[참고] <a href="https://www.trendtalk.kr/must-read/china/" target="_blank" rel="noopener noreferrer"_>중국 온라인 마케팅 및 비즈니스에 도움이 되는 필독 추천 글 모음 총정리 - 트렌드톡 매거진</a>**
 
 - [참고] <a href="https://news.mkttalk.com/entry/꿀팁-중국-온라인-마케팅을-할-때-알아두면-좋은-추천-글-모음" target="_blank" rel="noopener noreferrer"_>중국 온라인 마케팅을 할 때 알아두면 좋은 추천 글 모음 - 마케팅톡 매거진</a>
@@ -29,14 +47,6 @@
 - [참고] <a href="https://brunch.co.kr/@chinatalk/22" target="_blank" rel="noopener noreferrer"_>중국 비즈니스와 마케팅에 도움이 되는 글 모음 - 스타트차이나 (브런치)</a>
 
 ***
-***
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-why-china-mkt-not-good.md" target="_blank" rel="noopener noreferrer"_>당신의 중국 온라인 마케팅 방법이 효과가 없는 이유 및 추천 방법 - 트렌드톡 매거진</a>**
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-startchina-products.md" target="_blank" rel="noopener noreferrer"_>중국 마케팅 시 반드시 준비해야 하는 홍보 채널 총정리 - 트렌드톡 매거진</a>
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-china-business-media.md" target="_blank" rel="noopener noreferrer"_>중국 비즈니스 트렌드에 대한 추천할 만한 국내외 미디어 및 블로그 (한국어, 영어, 중국어, 일본어) - 트렌드톡 매거진</a>
-
-***
 **[참고] <a href="https://news.trendtalk.kr/china-marketing-sns-online-app-service-list-trendtalk/" target="_blank" rel="noopener noreferrer"_>중국 마케팅 초급자를 위한 주요 온라인 SNS 서비스 총정리 - 트렌드톡 매거진</a>**
 
 - [참고] <a href="https://news.trendtalk.kr/must-register-china-web-service-for-marketing/" target="_blank" rel="noopener noreferrer"_>중국 마케팅을 하기 전에, 반드시 회원 가입해야 하는 5가지 온라인 서비스 - 트렌드톡 매거진</a>
@@ -44,13 +54,6 @@
 - [참고] <a href="https://news.trendtalk.kr/mikecrm-china-marketing-google-forms/" target="_blank" rel="noopener noreferrer"_>중국에서 구글 폼이 필요하다면 MikeCRM(麦客)을 이용해 보세요 - 트렌드톡 매거진</a>
 
 - [참고] <a href="https://news.trendtalk.kr/china-marketing-zhihu-intro/" target="_blank" rel="noopener noreferrer"_>중국 마케팅 필수 상식 : 즈후 (知乎) - 트렌드톡 매거진</a>
-
-***
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-wanghong-not-good.md" target="_blank" rel="noopener noreferrer"_>당신의 중국 왕홍 마케팅이 효과가 없는 이유 및 추천 방법 - 트렌드톡 매거진</a>**
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-wanghong-agency.md" target="_blank" rel="noopener noreferrer"_>중화권 인플루엔서(왕홍) 마케팅 주요 에이전시 정보 모음 - 트렌드톡 매거진</a>
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-website-before-wanghong.md" target="_blank" rel="noopener noreferrer"_>중국 왕홍 마케팅을 하기 전에 웹사이트/블로그를 제작해야 하는 이유 - 트렌드톡 매거진</a>
 
 ***
 [참고] <a href="https://news.mkttalk.com/entry/꿀팁-중국-관련-한인-커뮤니티-리스트-총정리-스타트차이나" target="_blank" rel="noopener noreferrer"_>중국 관련 한인 커뮤니티 리스트 총정리 - 마케팅톡 매거진</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-china-community.md" target="_blank" rel="noopener noreferrer"_>업데이트</a> )

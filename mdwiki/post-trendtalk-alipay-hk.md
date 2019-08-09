@@ -1,10 +1,10 @@
-# - 트렌드톡
+# [꿀팁] 알리페이홍콩(AlipayHK) 회원 가입 및 중국에서 간편 결제 방법 - 트렌드톡
 
 <!-- <a name="index"></a> -->
 ***
 ## ◼︎ 목차 <span style="font-size:0.5em; float:right; padding:0.5em 0 0;"><i class="fas fa-clock"></i> 업데이트 : <span class="post-year"></span>-<span class="post-month-digits"></span>-01</span>
 
-- [...](#index-00)
+- [알리페이(Alipay)와 알리페이홍콩(AlipayHK)](#index-00)
 - [...](#index-01)
 - [...](#index-02)
 - [...](#index-03)
@@ -13,19 +13,62 @@
 
 <!-- <a name="index-00"></a> -->
 ***
-## ◼︎
+## ◼︎ 알리페이(Alipay)와 알리페이홍콩(AlipayHK)
+
+<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/04/trendtalk-logo-round-120x120.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+
+중국어명으로 즈푸바오(支付宝)인 알리페이(Alipay)는 위챗페이와 함께 중국을 대표하는 모바일 결제 시스템입니다.
+
+알리페이홍콩(AlipayHK)은 알리페이가 글로벌 진출을 시도하면서 시범적으로 출시한 결제 서비스로, 홍콩금융감독기관의 검열을 받고 있습니다.
+
+홍콩 내 주요 교통 수단, 소매점에서 사용하며 다양한 할인 혜택을 제공합니다.
+
+2019년 3월부터 홍콩, 마카오 지역 뿐만 아니라, 중국 광동성(광저우, 심천 등) 내에서도 알리페이홍콩(AlipayHK)을 통해 결제가 가능하게 되었습니다.
+
+***
+<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/08/alipay-logo-120x120.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+
+<center>알리페이홍콩(AlipayHK) 공식 홈페이지 : <a href="https://www.alipayhk.com/" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"_>바로 가기</a></center>
 
 <!-- <a name="index-01"></a> -->
 ***
-## ◼︎
+## ◼︎ 알리페이홍콩(AlipayHK) 가입 방법
+
+<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/04/trendtalk-logo-round-120x120.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+
+모바일 앱스토어를 통해 "AlipayHK" 또는 "支付寶"(번체/정체)를 검색합니다.
+
+알리페이홍콩(AlipayHK) 어플리케이션을 다운로드합니다.
+
+***
+<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/08/alipay-logo-150x150.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+
+
+
+***
+<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2018/09/startchina-esender-frontpage-01-800x470.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+
+
+
+***
+<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/08/alipay-logo-150x150.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+
+
+
+
+***
+<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/08/alipay-logo-150x150.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+
+
+
 
 <!-- <a name="index-02"></a> -->
 ***
-## ◼︎
+## ◼︎ 알리페이
 
 <!-- <a name="index-03"></a> -->
 ***
-## ◼︎
+## ◼︎ 알리페이
 
 <!-- <a name="index-epilogue"></a> -->
 ***
@@ -86,12 +129,6 @@
 
 ***
 ***
-***
-- OOOOOOOOO : <a href="https://www.ttmkt.com/try/" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer"_>바로 가기</a>
-
-***
-<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/04/trendtalk-logo-round-120x120.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
-
 ***
 <center>
 
