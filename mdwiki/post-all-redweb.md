@@ -64,7 +64,7 @@ x [참고] <a href="https://blog.naver.com/mkttalk/221353284010" target="_blank"
 (미발표) [참고] <a href="https://news.taobaotalk.com/china-delivery-agency-list/" target="_blank"_>한국 배송 가능한 중국 배송대행지(배대지) 업체 모음 총정리 - 타오바오톡 매거진</a>
 
 ***
-[참고] <a href="https://news.trendtalk.kr/alipay-hongkong-register-china-mobile-pay/" target="_blank"_>알리페이홍콩(AlipayHK) 회원 가입 및 중국에서 간편 결제 방법 - 트렌드톡 매거진</a>
+[참고] <a href="https://news.trendtalk.kr/alipay-hongkong-register-china-mobile-pay/" target="_blank"_>알리페이 홍콩(AlipayHK) 회원 가입 및 중국 간편 결제 서비스 이용 방법 - 트렌드톡 매거진</a>
 
 [참고] <a href="https://news.trendtalk.kr/china-alibaba-taobao-tmall-global-brand-store-list/" target="_blank"_>[중국/알리바바] 글로벌 유명 브랜드 티몰/타오바오 공식 스토어 모음 총정리 - 트렌드톡</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-tmall-brand.md" target="_blank"_>수정 중</a> )
 
