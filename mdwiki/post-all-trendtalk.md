@@ -17,9 +17,6 @@
 
 ***
 ***
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-alipay-hk.md" target="_blank" rel="noopener noreferrer"_>알리페이홍콩(AlipayHK) 회원 가입 및 중국에서 간편 결제 방법 - 트렌드톡 매거진</a>
-
-***
 **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-why-china-mkt-not-good.md" target="_blank" rel="noopener noreferrer"_>당신의 중국 온라인 마케팅 방법이 효과가 없는 이유 및 추천 방법 - 트렌드톡 매거진</a>**
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-startchina-products.md" target="_blank" rel="noopener noreferrer"_>중국 마케팅 시 반드시 준비해야 하는 홍보 채널 총정리 - 트렌드톡 매거진</a>
