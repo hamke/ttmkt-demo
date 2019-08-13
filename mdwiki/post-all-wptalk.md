@@ -6,6 +6,9 @@
 **◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
+**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson-intro.md" target="_blank" rel="noopener noreferrer"_>워드프레스톡 레슨 커리큘럼 및 상세 소개</a>**
+
+***
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-need-wp.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스 사이트/블로그의 필요성을 아직도 못 느끼는 이유 - 워드프레스톡 매거진</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-adsense-ads-txt.md" target="_blank" rel="noopener noreferrer"_>워드프레스의 구글 애드센스 수익이 티스토리보다 높은 이유 : ads.txt - 워드프레스톡 매거진</a>
