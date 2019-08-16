@@ -49,20 +49,20 @@
 
 - 노트북 (맥북, 윈도우, 리눅스 모두 가능)
 - 로컬 서버/온라인 서버에 워드프레스 설치해 오기 (선택)
-- HTML, CSS, JavaScript, <a href="https://news.trendtalk.kr/markdown-intro/" target="_blank" rel="noopener noreferrer"_>Markdown</a> 사전 숙지 사항 읽어 오기
+- HTML, CSS, JavaScript, <a href="https://news.trendtalk.kr/markdown-intro/" rel="noopener noreferrer" target="_blank"_>Markdown</a> 사전 숙지 사항 읽어 오기
 
 ***
 ## 신청 방법
 
-- 코드톡 워드프레스 스쿨 : <a href="https://www.codetalk.kr/school/wp/" target="_blank" rel="noopener noreferrer"_>바로 가기</a>
+- 코드톡 워드프레스 스쿨 : <a href="https://www.codetalk.kr/school/wp/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
-## 데모 ( <a href="https://gist.github.com/demousers" target="_blank" rel="noopener noreferrer"_>Github(demousers)</a> )
+## 데모 ( <a href="https://gist.github.com/demousers" rel="noopener noreferrer" target="_blank"_>Github(demousers)</a> )
 
-- 자동으로 데이터 수집하기 : <a href="https://demo.ttmkt.com/class/web/fetch/" target="_blank" rel="noopener noreferrer"_>링크 1</a> | <a href="https://demousers.github.io/test/" target="_blank" rel="noopener noreferrer"_>링크 2</a>
+- 자동으로 데이터 수집하기 : <a href="https://demo.ttmkt.com/class/web/fetch/" rel="noopener noreferrer" target="_blank"_>링크 1</a> | <a href="https://demousers.github.io/test/" rel="noopener noreferrer" target="_blank"_>링크 2</a>
 
 ***
 
-<a href="https://www.codetalk.kr/" target="_blank" rel="noopener noreferrer"_>![코드톡스쿨 - 함께 배우는 코딩](https://hellotblog.files.wordpress.com/2018/11/codetalk-logo-01-966x200.png)</a>
+<a href="https://www.codetalk.kr/" rel="noopener noreferrer" target="_blank"_>![코드톡스쿨 - 함께 배우는 코딩](https://hellotblog.files.wordpress.com/2018/11/codetalk-logo-01-966x200.png)</a>
 
 ***

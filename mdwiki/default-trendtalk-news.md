@@ -89,10 +89,10 @@
 ***
 ***
 ***
-- OOOOOOOOO : <a href="https://www.ttmkt.com/try/" target="_blank" rel="noopener noreferrer"_>바로 가기</a>
+- OOOOOOOOO : <a href="https://www.ttmkt.com/try/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
-<center><a href="https://www.trendtalk.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/04/trendtalk-logo-round-120x120.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
+<center><a href="https://www.trendtalk.kr/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/trendtalk-logo-round-120x120.png" style="max-width:100%;" alt="트렌드톡 - 글로벌 마케팅 및 비즈니스 최신 정보"></a></center>
 
 ***
 <center>

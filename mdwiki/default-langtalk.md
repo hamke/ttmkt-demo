@@ -2,7 +2,7 @@
 
 
 
-<a href="https://coupa.ng/bgmq4Y" style="text-decoration:none;" target="_blank" rel="noopener noreferrer"_>
+<a href="https://coupa.ng/bgmq4Y" style="text-decoration:none;" rel="noopener noreferrer" target="_blank"_>
   <div style="text-align: center; color: #fff; background-color: #c63926; padding: 2em;">
     <span style="font-size: 14pt; font-weight:bold;">상품 상세 정보 및 후기&nbsp;보기</span>
   </div>
@@ -10,7 +10,7 @@
 
 <hr>
 
-<a href="https://coupa.ng/bgmq4Y" style="text-decoration:none;" target="_blank" rel="noopener noreferrer"_>
+<a href="https://coupa.ng/bgmq4Y" style="text-decoration:none;" rel="noopener noreferrer" target="_blank"_>
   <div style="text-align: center; color: #fff; background-color: #c63926; padding: 2em;">
     <span style="font-size: 14pt; font-weight:bold;">상품 상세 정보 및 후기&nbsp;보기</span>
   </div>
