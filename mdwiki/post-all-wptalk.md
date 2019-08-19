@@ -26,6 +26,8 @@
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-must-tools-before-learn.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발/학습 전 설치해야 하는 무료 소프트웨어 모음 - 워드프레스톡 매거진</a>
 
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-cannot.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스(WP)를 여전히 제대로 활용하지 못 하는 이유 - 워드프레스톡 매거진</a>
+
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wpt-website-beginner.md" target="_blank" rel="noopener noreferrer"_>초보자를 위한 웹사이트/홈페이지(워드프레스) 제작 기초 가이드 총정리 - 워드프레스톡 매거진</a>
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-custom-lesson.md" target="_blank" rel="noopener noreferrer"_>워드프레스 테마 디자인 및 페이지 템플릿 수정하는 방법 - 워드프레스톡 매거진</a>
@@ -318,6 +320,9 @@ curl "https://openapi.naver.com/v1/search/news.xml?query=%EC%A4%91%EA%B5%AD&disp
 
 ***
 <a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/04/ttmkt-logo-girl-round-02-120x120.png)</a>
+
+***
+<a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/08/kaplan-logo-round-02-120x120.png)</a>
 
 ***
 <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/03/classroom-online-wptalk-00-800x500.png)</a>

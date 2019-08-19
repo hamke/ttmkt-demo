@@ -37,7 +37,7 @@
 워드프레스 파일을 별도의 호스팅 서버(Remote Server)에 설치하거나, 수정 및 삭제할 때 필요합니다.
 
 ***
-- 파일질라(FileZilla) : <a href="https://filezilla-project.org/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
+- 파일질라(FileZilla) : <a href="https://filezilla-project.org/" rel="noopener noreferrer" target="_blank"_>공식 웹사이트</a>
 
 <!-- <a name="index-02"></a> -->
 ***
@@ -52,7 +52,7 @@
 워드프레스 내 코드를 수정/생성/삭제할 때 유용한 소프트웨어 툴입니다.
 
 ***
-- 아톰(Atom) : <a href="https://atom.io/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
+- 아톰(Atom) : <a href="https://atom.io/" rel="noopener noreferrer" target="_blank"_>공식 웹사이트</a>
 
 <!-- <a name="index-03"></a> -->
 ***
@@ -63,7 +63,7 @@
 마이시퀄 워크벤치(MySQL WorkBench)는 MySQL 데이터베이스를 손쉽게 관리할 수 있는 소프트웨어입니다.
 
 ***
-- MySQL WorkBench : <a href="https://www.mysql.com/products/workbench/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
+- MySQL WorkBench : <a href="https://www.mysql.com/products/workbench/" rel="noopener noreferrer" target="_blank"_>공식 웹사이트</a>
 
 <!-- <a name="index-epilogue"></a> -->
 ***
