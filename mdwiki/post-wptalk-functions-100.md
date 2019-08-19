@@ -8,104 +8,103 @@
 
 - [워드프레스 함수(Functions)](#index-00)
 - [워드프레스 자주 사용되는 함수 모음](#index-01)
-- [1. absint](#wp-function-001)
-- [2. add_setting](#wp-function-002)
-- [3. apply_filters](#wp-function-003)
-- [4. esc_attr](#wp-function-004)
-- [6. get_option](#wp-function-006)
-- [7. get_theme_mod](#wp-function-007)
-- [8. esc_url](#wp-function-008)
-- [9. esc_html](#wp-function-009)
-- [10. _e](#wp-function-010)
-- [11. get_template_part](#wp-function-011)
-- [12. is_singular](#wp-function-012)
-- [13. get_post_type](#wp-function-013)
-- [14. get_the_ID](#wp-function-014)
-- [15. the_content](#wp-function-015)
-- [16. have_posts](#wp-function-016)
-- [17. post_class](#wp-function-017)
-- [18. get_comments_number](#wp-function-018)
-- [19. the_ID](#wp-function-019)
-- [20. is_single](#wp-function-020)
-- [21. get_permalink](#wp-function-021)
-- [22. get_the_title](#wp-function-022)
-- [23. admin_url](#wp-function-023)
-- [24. add_section](#wp-function-024)
-- [25. is_home](#wp-function-025)
-- [26. get_sidebar](#wp-function-026)
-- [27. get_footer](#wp-function-027)
-- [28. is_customize_preview](#wp-function-028)
-- [29. wp_nav_menu](#wp-function-029)
-- [30. the_title](#wp-function-030)
-- [31. current_user_can](#wp-function-031)
-- [32. is_active_sidebar](#wp-function-032)
-- [33. wp_link_pages](#wp-function-033)
-- [34. get_the_time](#wp-function-034)
-- [35. get_the_date](#wp-function-035)
-- [36. the_permalink](#wp-function-036)
-- [37. the_post](#wp-function-037)
-- [38. esc_attr_e](#wp-function-038)
-- [39. is_front_page](#wp-function-039)
-- [40. bloginfo](#wp-function-040)
-- [41. comments_open](#wp-function-041)
-- [42. post_password_required](#wp-function-042)
-- [43. has_post_thumbnail](#wp-function-043)
-- [44. get_bloginfo](#wp-function-044)
-- [45. get_post_format](#wp-function-045)
-- [46. dynamic_sidebar](#wp-function-046)
-- [47. is_search](#wp-function-047)
-- [48. home_url](#wp-function-048)
-- [49. comments_template](#wp-function-049)
-- [50. add_theme_support](#wp-function-050)
-- [51. add_query_arg](#wp-function-051)
-- [52. has_nav_menu](#wp-function-052)
-- [53. is_wp_error](#wp-function-053)
-- [54. get_the_author_meta](#wp-function-054)
-- [55. edit_post_link](#wp-function-055)
-- [56. is_admin](#wp-function-056)
-- [57. the_excerpt](#wp-function-057)
-- [58. wp_get_attachment_image_src](#wp-function-058)
-- [59. _x](#wp-function-059)
-- [60. language_attributes](#wp-function-060)
-- [61. body_class](#wp-function-061)
-- [62. add_filter](#wp-function-062)
-- [63. is_page](#wp-function-063)
-- [64. register_sidebar](#wp-function-064)
-- [65. get_the_category_list](#wp-function-065)
-- [66. get_the_tag_list](#wp-function-066)
-- [67. esc_attr_x](#wp-function-067)
-- [68. get_setting](#wp-function-068)
-- [69. add_action](#wp-function-069)
-- [70. have_comments](#wp-function-070)
-- [71. is_archive](#wp-function-071)
-- [72. wp_list_comments](#wp-function-072)
-- [73. wp_enqueue_style](#wp-function-073)
-- [74. set_transient](#wp-function-074)
-- [75. wp_enqueue_script](#wp-function-075)
-- [76. get_search_form](#wp-function-076)
-- [77. get_post_thumbnail_id](#wp-function-077)
-- [78. get_transient](#wp-function-078)
-- [79. the_post_thumbnail](#wp-function-079)
-- [80. get_search_query](#wp-function-080)
-- [81. add_partial](#wp-function-081)
-- [83. get_author_posts_url](#wp-function-083)
-- [84. wp_footer](#wp-function-084)
-- [85. wp_head](#wp-function-085)
-- [86. get_the_post_thumbnail](#wp-function-086)
-- [87. comment_form](#wp-function-087)
-- [88. number_format_i18n](#wp-function-088)
-- [89. get_header](#wp-function-089)
-- [90. the_posts_pagination](#wp-function-090)
-- [91. register_nav_menus](#wp-function-091)
-- [92. wp_die](#wp-function-092)
-- [93. wp_reset_postdata](#wp-function-093)
-- [94. load_theme_textdomain](#wp-function-094)
-- [95. get_queried_object_id](#wp-function-095)
-- [96. esc_url_raw](#wp-function-096)
-- [97. the_archive_title](#wp-function-097)
-- [98. add_image_size](#wp-function-098)
-- [99. get_theme_file_uri](#wp-function-099)
-- [100. get_stylesheet_uri](#wp-function-100)
+- [1. absint()](#wp-function-001)
+- [2. add_setting()](#wp-function-002)
+- [3. apply_filters()](#wp-function-003)
+- [4. esc_attr()](#wp-function-004)
+- [6. get_option()](#wp-function-006)
+- [7. get_theme_mod()](#wp-function-007)
+- [8. esc_url()](#wp-function-008)
+- [9. esc_html()](#wp-function-009)
+- [10. _e()](#wp-function-010)
+- [11. get_template_part()](#wp-function-011)
+- [12. is_singular()](#wp-function-012)
+- [13. get_post_type()](#wp-function-013)
+- [14. get_the_ID()](#wp-function-014)
+- [15. the_content()](#wp-function-015)
+- [16. have_posts()](#wp-function-016)
+- [17. post_class()](#wp-function-017)
+- [18. get_comments_number()](#wp-function-018)
+- [19. the_ID()](#wp-function-019)
+- [20. is_single()](#wp-function-020)
+- [21. get_permalink()](#wp-function-021)
+- [22. get_the_title()](#wp-function-022)
+- [23. admin_url()](#wp-function-023)
+- [24. add_section()](#wp-function-024)
+- [25. is_home()](#wp-function-025)
+- [26. get_sidebar()](#wp-function-026)
+- [27. get_footer()](#wp-function-027)
+- [28. is_customize_preview()](#wp-function-028)
+- [29. wp_nav_menu()](#wp-function-029)
+- [30. the_title()](#wp-function-030)
+- [31. current_user_can()](#wp-function-031)
+- [32. is_active_sidebar()](#wp-function-032)
+- [33. wp_link_pages()](#wp-function-033)
+- [34. get_the_time()](#wp-function-034)
+- [35. get_the_date()](#wp-function-035)
+- [36. the_permalink()](#wp-function-036)
+- [37. the_post()](#wp-function-037)
+- [38. esc_attr_e()](#wp-function-038)
+- [39. is_front_page()](#wp-function-039)
+- [40. bloginfo()](#wp-function-040)
+- [41. comments_open()](#wp-function-041)
+- [42. post_password_required()](#wp-function-042)
+- [43. has_post_thumbnail()](#wp-function-043)
+- [44. get_bloginfo()](#wp-function-044)
+- [45. get_post_format()](#wp-function-045)
+- [46. dynamic_sidebar()](#wp-function-046)
+- [47. is_search()](#wp-function-047)
+- [48. home_url()](#wp-function-048)
+- [49. comments_template()](#wp-function-049)
+- [50. add_theme_support()](#wp-function-050)
+- [51. add_query_arg()](#wp-function-051)
+- [52. has_nav_menu()](#wp-function-052)
+- [53. is_wp_error()](#wp-function-053)
+- [54. get_the_author_meta()](#wp-function-054)
+- [55. edit_post_link()](#wp-function-055)
+- [56. is_admin()](#wp-function-056)
+- [57. the_excerpt()](#wp-function-057)
+- [58. wp_get_attachment_image_src()](#wp-function-058)
+- [59. _x()](#wp-function-059)
+- [60. language_attributes()](#wp-function-060)
+- [61. body_class()](#wp-function-061)
+- [62. add_filter()](#wp-function-062)
+- [63. is_page()](#wp-function-063)
+- [64. register_sidebar()](#wp-function-064)
+- [65. get_the_category_list()](#wp-function-065)
+- [66. get_the_tag_list()](#wp-function-066)
+- [67. esc_attr_x()](#wp-function-067)
+- [69. add_action()](#wp-function-069)
+- [70. have_comments()](#wp-function-070)
+- [71. is_archive()](#wp-function-071)
+- [72. wp_list_comments()](#wp-function-072)
+- [73. wp_enqueue_style()](#wp-function-073)
+- [74. set_transient()](#wp-function-074)
+- [75. wp_enqueue_script()](#wp-function-075)
+- [76. get_search_form()](#wp-function-076)
+- [77. get_post_thumbnail_id()](#wp-function-077)
+- [78. get_transient()](#wp-function-078)
+- [79. the_post_thumbnail()](#wp-function-079)
+- [80. get_search_query()](#wp-function-080)
+- [81. add_partial()](#wp-function-081)
+- [83. get_author_posts_url()](#wp-function-083)
+- [84. wp_footer()](#wp-function-084)
+- [85. wp_head()](#wp-function-085)
+- [86. get_the_post_thumbnail()](#wp-function-086)
+- [87. comment_form()](#wp-function-087)
+- [88. number_format_i18n()](#wp-function-088)
+- [89. get_header()](#wp-function-089)
+- [90. the_posts_pagination()](#wp-function-090)
+- [91. register_nav_menus()](#wp-function-091)
+- [92. wp_die()](#wp-function-092)
+- [93. wp_reset_postdata()](#wp-function-093)
+- [94. load_theme_textdomain()](#wp-function-094)
+- [95. get_queried_object_id()](#wp-function-095)
+- [96. esc_url_raw()](#wp-function-096)
+- [97. the_archive_title()](#wp-function-097)
+- [98. add_image_size()](#wp-function-098)
+- [99. get_theme_file_uri()](#wp-function-099)
+- [100. get_stylesheet_uri()](#wp-function-100)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -139,8 +138,7 @@
 ***
 ### 2. add_setting()
 
-워드프레스 "설정(Setting)" 내용을 추가합니다.
-Add a customize setting.
+워드프레스 "커스터마이즈(Customize)" 설정 내용을 추가합니다.
 
 - 자세히 보기 : add_setting() - <a href="https://developer.wordpress.org/reference/classes/wp_customize_manager/add_setting/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
@@ -148,14 +146,13 @@ Add a customize setting.
 ***
 ### 3. apply_filters()
 
-워드프레스 내 해당 필터 훅(Filter Hook)에 추가된 함수를 호출합니다.
-Call the functions added to a filter hook.
+워드프레스 내 해당 필터 훅(Filter Hook)에 연결된 콜백함수(Callback Functions)를 호출합니다.
 
 - 자세히 보기 : apply_filters() - <a href="https://developer.wordpress.org/reference/functions/apply_filters/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-004"></a> -->
 ***
-### 4. esc_attr()
+### @@@ 4. esc_attr()
 
 워드프레스 내 HTML 속성을 이스케이핑(Escaping)합니다.
 Escaping for HTML attributes.
@@ -166,14 +163,13 @@ Escaping for HTML attributes.
 ***
 ### 6. get_option()
 
-워드프레스 옵션(Option) 이름에 해당 하는 데이터를 불러 옵니다.
-Retrieves an option value based on an option name.
+워드프레스 옵션(Option)명에 해당 하는 데이터를 불러 옵니다.
 
 - 자세히 보기 : get_option() - <a href="https://developer.wordpress.org/reference/functions/get_option/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-007"></a> -->
 ***
-### 7. get_theme_mod()
+### @@@ 7. get_theme_mod()
 
 워드프레스에 현재 적용된 테마(Theme)의 수정 정보(Theme Modification Value)를 불러 옵니다.
 Retrieve theme modification value for the current theme.
@@ -182,7 +178,7 @@ Retrieve theme modification value for the current theme.
 
 <!-- <a name="wp-function-008"></a> -->
 ***
-### 8. esc_url()
+### @@@ 8. esc_url()
 
 워드프레스 내의 URL을 이스케이핑(Escaping)합니다.
 Checks and cleans a URL.
@@ -191,7 +187,7 @@ Checks and cleans a URL.
 
 <!-- <a name="wp-function-009"></a> -->
 ***
-### 9. esc_html()
+### @@@ 9. esc_html()
 
 HTML 블록(Blocks)을 이스케이핑(Escaping)합니다.
 Escaping for HTML blocks.
@@ -286,7 +282,6 @@ Display the classes for the post div.
 ### 20. is_single()
 
 워드프레스 내 현재 쿼리(Query)가 싱글 포스트(Single Post)를 호출하는 것인지 확인합니다.
-Is the query for an existing single post?
 
 - 자세히 보기 : is_single() - <a href="https://developer.wordpress.org/reference/functions/is_single/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
@@ -294,103 +289,115 @@ Is the query for an existing single post?
 ***
 ### 21. get_permalink()
 
-워드프레스 현재 포스트의 전체 링크(Permalink)를 불러 옵니다.
-Retrieves the full permalink for the current post or post ID.
+워드프레스 현재 포스트의 퍼머넌트 링크(Permalink) 정보를 불러 옵니다.
 
 - 자세히 보기 : get_permalink() - <a href="https://developer.wordpress.org/reference/functions/get_permalink/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-022"></a> -->
 ***
 ### 22. get_the_title()
-Retrieve post title.
+
+워드프레스 내 해당 포스트(Post)의 타이틀 데이터를 불러 옵니다.
 
 - 자세히 보기 : get_the_title() - <a href="https://developer.wordpress.org/reference/functions/get_the_title/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 23. admin_url()
-Retrieves the URL to the admin area for the current site.
+
+워드프레스 사이트 내 어드민(관리자) 페이지 URL 정보를 불러 옵니다.
 
 - 자세히 보기 : admin_url() - <a href="https://developer.wordpress.org/reference/functions/admin_url/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 24. add_section()
-Add a customize section.
+
+워드프레스 내 "커스터마이즈(Customize)" 섹션을 추가합니다.
 
 - 자세히 보기 : add_section() - <a href="https://developer.wordpress.org/reference/functions/add_section/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 25. is_home()
-Determines if the query is for the blog homepage.
+
+현재 워드프레스 웹사이트의 홈(Home) 페이지인지 확인합니다.
 
 - 자세히 보기 : is_home() - <a href="https://developer.wordpress.org/reference/functions/is_home/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 26. get_sidebar()
-Load sidebar template.
+
+워드프레스 사이드바(Sidebar) 템플렛을 불러 옵니다.
 
 - 자세히 보기 : get_sidebar() - <a href="https://developer.wordpress.org/reference/functions/get_sidebar/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 27. get_footer()
-Load footer template.
+
+워드프레스 푸터(Footer) 템플렛을 불러 옵니다.
 
 - 자세히 보기 : get_footer() - <a href="https://developer.wordpress.org/reference/functions/get_footer/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 28. is_customize_preview()
-Whether the site is being previewed in the Customizer.
+
+워드프레스 내 테마 커스터마이저(Customizer)에서 프리뷰(Preview)된 상태인지 확인합니다.
 
 - 자세히 보기 : is_customize_preview() - <a href="https://developer.wordpress.org/reference/functions/is_customize_preview/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 29. wp_nav_menu()
-Displays a navigation menu.
+
+워드프레스 내 설정된 네비게이션 메뉴를 표시합니다.
 
 - 자세히 보기 : wp_nav_menu() - <a href="https://developer.wordpress.org/reference/functions/wp_nav_menu/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-001"></a> -->
 ***
 ### 30. the_title()
-Display or retrieve the current post title with optional markup.
+
+워드프레스 내 해당 포스트(Post)의 타이틀(Title) 정보를 불러 옵니다.
 
 - 자세히 보기 : the_title() - <a href="https://developer.wordpress.org/reference/functions/the_title/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-031"></a> -->
 ***
 ### 31. current_user_can()
-Whether the current user has a specific capability.
+
+현재 사용자 계정으로 사용할 수 있는 권한 내 기능인지 확인합니다.
 
 - 자세히 보기 : current_user_can() - <a href="https://developer.wordpress.org/reference/functions/current_user_can/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-032"></a> -->
 ***
 ### 32. is_active_sidebar()
-Whether a sidebar is in use.
+
+워드프레스 해당 페이지 내 사이드바(Sidebar)가 사용 중인지 확인합니다.
 
 - 자세히 보기 : is_active_sidebar() - <a href="https://developer.wordpress.org/reference/functions/is_active_sidebar/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-033"></a> -->
 ***
 ### 33. wp_link_pages()
-The formatted output of a list of pages.
+
+워드프레스 내 페이지 링크("Next Page", "Previous Page" 등)를 표시합니다.
 
 - 자세히 보기 : wp_link_pages() - <a href="https://developer.wordpress.org/reference/functions/wp_link_pages/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-034"></a> -->
 ***
 ### 34. get_the_time()
-Retrieve the time at which the post was written.
+
+워드프레스 내 해당 포스트(Post)의 작성 일시를 불러 옵니다.
 
 - 자세히 보기 : get_the_time() - <a href="https://developer.wordpress.org/reference/functions/get_the_time/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-035"></a> -->
 ***
 ### 35. get_the_date()
 
@@ -398,16 +405,15 @@ Retrieve the time at which the post was written.
 
 - 자세히 보기 : get_the_date() - <a href="https://developer.wordpress.org/reference/functions/get_the_date/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-036"></a> -->
 ***
 ### 36. the_permalink()
 
-워드프레스 현재 포스트의 풀 링크(Permalink)를 표시합니다.
-Displays the permalink for the current post.
+워드프레스 현재 포스트의 퍼머넌트 링크(Permalink) 정보를 표시합니다.
 
 - 자세히 보기 : the_permalink() - <a href="https://developer.wordpress.org/reference/functions/the_permalink/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-037"></a> -->
 ***
 ### 37. the_post()
 
@@ -415,29 +421,31 @@ Displays the permalink for the current post.
 
 - 자세히 보기 : the_post() - <a href="https://developer.wordpress.org/reference/functions/the_post/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-038"></a> -->
 ***
-### 38. esc_attr_e()
+### @@@ 38. esc_attr_e()
+
 Display translated text that has been escaped for safe use in an attribute.
 
 - 자세히 보기 : esc_attr_e() - <a href="https://developer.wordpress.org/reference/functions/esc_attr_e/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-039"></a> -->
 ***
 ### 39. is_front_page()
-Is the query for the front page of the site?
+
+워드프레스 내 현재 쿼리(Query)가 웹사이트 메인 페이지(Front Page)에 해당하는지 확인합니다.
 
 - 자세히 보기 : is_front_page() - <a href="https://developer.wordpress.org/reference/functions/is_front_page/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-040"></a> -->
 ***
 ### 40. bloginfo()
 
-Displays information about the current site.
+현재 사용 중인 워드프레스 사이트에 대한 기본 정보를 표시합니다.
 
 - 자세히 보기 : bloginfo() - <a href="https://developer.wordpress.org/reference/functions/bloginfo/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-041"></a> -->
 ***
 ### 41. comments_open()
 
@@ -445,7 +453,7 @@ Displays information about the current site.
 
 - 자세히 보기 : comments_open() - <a href="https://developer.wordpress.org/reference/functions/comments_open/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-042"></a> -->
 ***
 ### 42. post_password_required()
 
@@ -453,7 +461,7 @@ Displays information about the current site.
 
 - 자세히 보기 : post_password_required() - <a href="https://developer.wordpress.org/reference/functions/post_password_required/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-043"></a> -->
 ***
 ### 43. has_post_thumbnail()
 
@@ -461,31 +469,31 @@ Displays information about the current site.
 
 - 자세히 보기 : has_post_thumbnail() - <a href="https://developer.wordpress.org/reference/functions/has_post_thumbnail/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-044"></a> -->
 ***
 ### 44. get_bloginfo()
 
-Retrieves information about the current site.
+사용 중인 워드프레스 사이트 기본 정보를 불러 옵니다.
 
 - 자세히 보기 : get_bloginfo() - <a href="https://developer.wordpress.org/reference/functions/get_bloginfo/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-045"></a> -->
 ***
-### 45. get_post_format()
+### @@@ 45. get_post_format()
 
 Retrieve the format slug for a post
 
 - 자세히 보기 : get_post_format() - <a href="https://developer.wordpress.org/reference/functions/get_post_format/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-046"></a> -->
 ***
 ### 46. dynamic_sidebar()
 
-Display dynamic sidebar.
+워드프레스 사이트 내 설정된 다이나믹 사이드바(Dynamic Sidebar)를 표시합니다.
 
 - 자세히 보기 : dynamic_sidebar() - <a href="https://developer.wordpress.org/reference/functions/dynamic_sidebar/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-047"></a> -->
 ***
 ### 47. is_search()
 
@@ -493,33 +501,33 @@ Display dynamic sidebar.
 
 - 자세히 보기 : is_search() - <a href="https://developer.wordpress.org/reference/functions/is_search/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-048"></a> -->
 ***
 ### 48. home_url()
 
-Retrieves the URL for the current site where the front end is accessible.
+워드프레스 사이트의 홈(Home) URL을 불러 옵니다.
 
 - 자세히 보기 : home_url() - <a href="https://developer.wordpress.org/reference/functions/home_url/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-049"></a> -->
 ***
 ### 49. comments_template()
 
-Load the comment template specified in $file.
+"$file" 변수에 설정된 댓글(Comments) 템플렛을 불러 옵니다.
 
 - 자세히 보기 : comments_template() - <a href="https://developer.wordpress.org/reference/functions/comments_template/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-050"></a> -->
 ***
-### 50. add_theme_support()
+### @@@ 50. add_theme_support()
 
 Registers theme support for a given feature.
 
 - 자세히 보기 : add_theme_support() - <a href="https://developer.wordpress.org/reference/functions/add_theme_support/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-051"></a> -->
 ***
-### 51. add_query_arg()
+### @@@ 51. add_query_arg()
 
 Retrieves a modified URL query string.
 
@@ -541,15 +549,15 @@ Retrieves a modified URL query string.
 
 - 자세히 보기 : is_wp_error() - <a href="https://developer.wordpress.org/reference/functions/is_wp_error/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-054"></a> -->
 ***
 ### 54. get_the_author_meta()
 
-Retrieves the requested data of the author of the current post.
+워드프레스 내 해당 포스트의 작성자(Author) 메타 정보를 불러 옵니다.
 
 - 자세히 보기 : get_the_author_meta() - <a href="https://developer.wordpress.org/reference/functions/get_the_author_meta/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-055"></a> -->
 ***
 ### 55. edit_post_link()
 
@@ -557,7 +565,7 @@ Retrieves the requested data of the author of the current post.
 
 - 자세히 보기 : edit_post_link() - <a href="https://developer.wordpress.org/reference/functions/edit_post_link/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-056"></a> -->
 ***
 ### 56. is_admin()
 
@@ -575,7 +583,7 @@ Retrieves the requested data of the author of the current post.
 
 <!-- <a name="wp-function-058"></a> -->
 ***
-### 58. wp_get_attachment_image_src()
+### @@@ 58. wp_get_attachment_image_src()
 
 Retrieve an image to represent an attachment.
 
@@ -583,7 +591,7 @@ Retrieve an image to represent an attachment.
 
 <!-- <a name="wp-function-059"></a> -->
 ***
-### 59. _x()
+### @@@ 59. _x()
 
 Retrieve translated string with gettext context.
 
@@ -621,51 +629,43 @@ Retrieve translated string with gettext context.
 
 - 자세히 보기 : is_page() - <a href="https://developer.wordpress.org/reference/functions/is_page/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-064"></a> -->
 ***
-### 64. register_sidebar()
+### @@@ 64. register_sidebar()
 
 Builds the definition for a single sidebar and returns the ID.
 
 - 자세히 보기 : register_sidebar() - <a href="https://developer.wordpress.org/reference/functions/register_sidebar/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-065"></a> -->
 ***
-### 65. get_the_category_list()
+### @@@ 65. get_the_category_list()
 
 Retrieve category list for a post in either HTML list or custom format.
 
 - 자세히 보기 : get_the_category_list() - <a href="https://developer.wordpress.org/reference/functions/get_the_category_list/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-066"></a> -->
 ***
-### 66. get_the_tag_list()
+### @@@ 66. get_the_tag_list()
 
 Retrieve the tags for a post formatted as a string.
 
 - 자세히 보기 : get_the_tag_list() - <a href="https://developer.wordpress.org/reference/functions/get_the_tag_list/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-067"></a> -->
 ***
-### 67. esc_attr_x()
+### @@@ 67. esc_attr_x()
 
 Translate string with gettext context, and escapes it for safe use in an attribute.
 
 - 자세히 보기 : esc_attr_x() - <a href="https://developer.wordpress.org/reference/functions/esc_attr_x/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
-<!-- <a name="wp-function-001"></a> -->
-***
-### 68. get_setting()
-
-Get value based on option. (Use get_option() instead.)
-
-- 자세히 보기 : get_setting() - <a href="https://developer.wordpress.org/reference/functions/get_setting/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
-
-<!-- <a name="wp-function-001"></a> -->
+<!-- <a name="wp-function-069"></a> -->
 ***
 ### 69. add_action()
 
-Hooks a function on to a specific action.
+워드프레스 테마 내 설정되어 있는 액션 훅(Action Hook)에 콜백 함수(Callback Functions)를 추가합니다.
 
 - 자세히 보기 : add_action() - <a href="https://developer.wordpress.org/reference/functions/add_action/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
@@ -703,7 +703,7 @@ Hooks a function on to a specific action.
 
 <!-- <a name="wp-function-074"></a> -->
 ***
-### 74. set_transient()
+### @@@ 74. set_transient()
 
 Set/update the value of a transient.
 
@@ -729,13 +729,13 @@ Set/update the value of a transient.
 ***
 ### 77. get_post_thumbnail_id()
 
-Retrieve post thumbnail ID.
+워드프레스 내 해당 포스트(Post)의 썸네일(Thumbnail) ID를 불러 옵니다.
 
 - 자세히 보기 : get_post_thumbnail_id() - <a href="https://developer.wordpress.org/reference/functions/get_post_thumbnail_id/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-078"></a> -->
 ***
-### 78. get_transient()
+### @@@ 78. get_transient()
 
 Get the value of a transient.
 
@@ -751,7 +751,7 @@ Get the value of a transient.
 
 <!-- <a name="wp-function-080"></a> -->
 ***
-### 80. get_search_query()
+### @@@ 80. get_search_query()
 
 Retrieves the contents of the search WordPress query variable.
 
@@ -805,7 +805,7 @@ Retrieves the contents of the search WordPress query variable.
 
 <!-- <a name="wp-function-087"></a> -->
 ***
-### 87. comment_form()
+### @@@ 87. comment_form()
 
 Outputs a complete commenting form for use within a template.
 
@@ -813,7 +813,7 @@ Outputs a complete commenting form for use within a template.
 
 <!-- <a name="wp-function-088"></a> -->
 ***
-### 88. number_format_i18n()
+### @@@ 88. number_format_i18n()
 
 Convert float number to format based on the locale.
 
@@ -831,7 +831,7 @@ Convert float number to format based on the locale.
 ***
 ### 90. the_posts_pagination()
 
-Displays a paginated navigation to next/previous set of posts, when applicable.
+워드프레스 해당 포스트(Post)의 이전 포스트(Previous Post) 및 다음 포스트(Next Post) 관련 네비게이션 정보를 표시합니다.
 
 - 자세히 보기 : the_posts_pagination() - <a href="https://developer.wordpress.org/reference/functions/the_posts_pagination/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
@@ -839,7 +839,7 @@ Displays a paginated navigation to next/previous set of posts, when applicable.
 ***
 ### 91. register_nav_menus()
 
-Registers navigation menu locations for a theme.
+워드프레스 내 신규 네비게이션 메뉴 위치(Navigation Menu Location)를 추가합니다.
 
 - 자세히 보기 : register_nav_menus() - <a href="https://developer.wordpress.org/reference/functions/register_nav_menus/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
@@ -847,13 +847,13 @@ Registers navigation menu locations for a theme.
 ***
 ### 92. wp_die()
 
-Kill WordPress execution and display HTML message with error message.
+워드프레스 내 실행 프로세스를 중지(Kill)하고, 에러(Error) 메시지를 표시합니다.
 
 - 자세히 보기 : wp_die() - <a href="https://developer.wordpress.org/reference/functions/wp_die/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-093"></a> -->
 ***
-### 93. wp_reset_postdata()
+### @@@ 93. wp_reset_postdata()
 
 After looping through a separate query, this function restores the $post global to the current post in the main query.
 
@@ -871,13 +871,13 @@ After looping through a separate query, this function restores the $post global 
 ***
 ### 95. get_queried_object_id()
 
-Retrieve ID of the current queried object.
+워드프레스 사이트 내 현재 호출된 객체(Object)의 ID를 불러 옵니다.
 
 - 자세히 보기 : get_queried_object_id() - <a href="https://developer.wordpress.org/reference/functions/get_queried_object_id/" rel="noopener noreferrer" target="_blank"_>WordPress Code Reference</a>
 
 <!-- <a name="wp-function-096"></a> -->
 ***
-### 96. esc_url_raw()
+### @@@ 96. esc_url_raw()
 
 Performs esc_url() for database usage.
 
@@ -901,7 +901,7 @@ Performs esc_url() for database usage.
 
 <!-- <a name="wp-function-099"></a> -->
 ***
-### 99. get_theme_file_uri()
+### @@@ 99. get_theme_file_uri()
 
 Retrieves the URL of a file in the theme.
 

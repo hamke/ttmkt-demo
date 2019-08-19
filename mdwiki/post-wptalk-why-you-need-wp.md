@@ -1,6 +1,6 @@
 # [위기] 당신이 워드프레스 사이트/블로그의 필요성을 아직도 못 느끼는 이유 - 워드프레스톡
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/01/wptalk-school-banner-01-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 <!-- <a name="index"></a> -->
 ***
@@ -18,7 +18,7 @@
 ***
 ## ◼︎ 컨텐츠 관리 시스템
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/01/wptalk-school-banner-01-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 워드프레스(WordPress)는 전세계적으로 가장 성공한 오픈소스 컨텐츠 관리 시스템(CMS, Content Management System)으로 불리우고 있습니다.
 
@@ -30,7 +30,7 @@
 ***
 ## ◼︎ 1. 자신만의 컨텐츠 및 전문 분야가 없음
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/01/wptalk-school-banner-01-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 자신이 업무상 또는 개인적으로 관심 있는 분야에 대해 전문성을 높이기 위해서는, 관련 분야에 대해 지속적으로 관찰하고 자신만의 컨텐츠를 꾸준히 생산하는 것이 중요합니다.
 
@@ -46,7 +46,7 @@
 ***
 ## ◼︎ 2. 네이버 블로그에 의존함
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/01/wptalk-school-banner-01-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 네이버 블로그는 이름만 블로그일 뿐, 정통적인 형식의 블로그와는 다른, 사실 소셜 네트워킹 서비스(SNS)에 가까운 서비스입니다.
 
@@ -64,7 +64,7 @@
 ***
 ## ◼︎ 3. 워드프레스 사이트 제작 및 학습 비용을 비싸다고 생각함
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/01/wptalk-school-banner-01-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 자신만의 컨텐츠를 생산하는 행위에 대한 가치에 대해 모르면, 이와 관련한 모든 행동은 무의미하며, 관련 비용을 비싸다고 생각하게 됩니다.
 
@@ -76,7 +76,7 @@
 ***
 ## ◼︎ 4. 워드프레스톡 1:1 교육 레슨 프로그램
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/01/wptalk-school-banner-01-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 워드프레스톡은 1:1 교육 레슨 프로그램을 제공하고 있습니다.
 
