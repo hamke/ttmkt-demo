@@ -9,6 +9,8 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson-intro.md" target="_blank" rel="noopener noreferrer"_>워드프레스톡 레슨 커리큘럼 및 상세 소개</a>**
 
 ***
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-plugins-kr.md" target="_blank" rel="noopener noreferrer"_>한국에서 워드프레스 웹사이트/쇼핑몰 제작할 때 필요한 플러그인 모음 - 워드프레스톡</a>
+
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-functions-100.md" target="_blank" rel="noopener noreferrer"_>워드프레스 웹사이트 개발/운영시 반드시 알아야 할 함수(Functions) 모음 총정리 - 워드프레스톡</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-need-wp.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스 사이트/블로그의 필요성을 아직도 못 느끼는 이유 - 워드프레스톡 매거진</a>
