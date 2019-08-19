@@ -24,6 +24,8 @@
 ***
 **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-learn-from-experts.md" target="_blank" rel="noopener noreferrer"_>워드프레스를 제대로 학습하기 위해 개인 레슨/교육이 필요한 이유 - 워드프레스톡 매거진</a>**
 
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-must-tools-before-learn.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발/학습 전 설치해야 하는 무료 소프트웨어 모음 - 워드프레스톡 매거진</a>
+
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wpt-website-beginner.md" target="_blank" rel="noopener noreferrer"_>초보자를 위한 웹사이트/홈페이지(워드프레스) 제작 기초 가이드 총정리 - 워드프레스톡 매거진</a>
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-custom-lesson.md" target="_blank" rel="noopener noreferrer"_>워드프레스 테마 디자인 및 페이지 템플릿 수정하는 방법 - 워드프레스톡 매거진</a>
