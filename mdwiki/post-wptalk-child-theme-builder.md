@@ -1,4 +1,4 @@
-# [꿀팁] 워드프레스 차일드(자식)테마를 온라인 빌더로 간편 생성 방법 - 워드프레스톡
+# [꿀팁] 워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성 방법 - 워드프레스톡
 
 <center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-child-theme-builder-kr-01-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
@@ -28,6 +28,12 @@
 <!-- <a name="index-03"></a> -->
 ***
 ## ◼︎
+
+
+***
+<center><a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 차일드테마 온라인 빌더"></a></center>
+
+- 워드프레스 차일드테마 온라인 빌더 : <a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>바로 가기</a>
 
 <!-- <a name="index-epilogue"></a> -->
 ***
@@ -73,11 +79,6 @@
 ***
 ***
 ***
-- OOOOOOOOO : <a href="https://www.ttmkt.com/try/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
-
-***
-<center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
-
 ***
 |분류|이름|링크|
 |:-:|:-:|:-:|
