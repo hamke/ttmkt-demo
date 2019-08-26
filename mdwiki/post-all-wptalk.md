@@ -321,6 +321,9 @@ curl "https://openapi.naver.com/v1/search/news.xml?query=%EC%A4%91%EA%B5%AD&disp
 ```
 
 ***
+<a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png)</a>
+
+***
 <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/03/wptalk-logo-120x120.png)</a>
 
 ***
@@ -328,6 +331,9 @@ curl "https://openapi.naver.com/v1/search/news.xml?query=%EC%A4%91%EA%B5%AD&disp
 
 ***
 <a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/08/kaplan-logo-round-02-120x120.png)</a>
+
+***
+<a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/08/wptalk-cover-default-01-800x460.png)</a>
 
 ***
 <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/03/classroom-online-wptalk-00-800x500.png)</a>
