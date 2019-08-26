@@ -99,28 +99,28 @@
 [참고] <a href="https://www.wp-talk.com/hosting/" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/themeforest-wordpress-free-month-themes" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 : 테마포레스트(Themeforest) - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/themeforest-wordpress-free-month-themes" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 : 테마포레스트(Themeforest) - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/install-wordpress-local-webserver-wptalk" target="_blank" rel="noopener noreferrer"_>내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/install-wordpress-local-webserver-wptalk" target="_blank" rel="noopener noreferrer"_>내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-install-free-hosting-000webhost" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-install-free-hosting-000webhost" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/꿀팁-워드프레스WP-메인-인트로-페이지-변경-및-추가-간편하게-해결하는-방법-워드프레스톡" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법 – 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-add-intro-main-page/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법 – 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-child-theme-setting-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 설정하는 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-child-theme-setting-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 설정하는 방법 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-developers-must-plugins" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-developers-must-plugins" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API) - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API) - 워드프레스톡 매거진</a>
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-beginner-basic-html" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-html" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-beginner-basic-css" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-css" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-beginner-basic-javascript" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-javascript" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스톡 매거진</a>
 
 ***
 x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" rel="noopener noreferrer"_>중국 워드프레스 웹사이트 제작을 위해 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스톡 (네이버 블로그)</a>
