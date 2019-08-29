@@ -22,6 +22,32 @@ mkttalk_source.connect(gainNode);
 gainNode.connect(audioCtx.destination);
 ```
 ***
+```
+<!-- Google Adsense (MKTTALK : Middle) -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8106408173466568"
+     data-ad-slot="8421395558"
+     data-ad-format="auto"
+     data-full-width-responsive="false"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+```
+***
+```
+<!-- Google Adsense (TrendTalk News : Middle) -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8106408173466568"
+     data-ad-slot="8421395558"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+```
+***
 ## ◼︎ 웹앱
 
 ***

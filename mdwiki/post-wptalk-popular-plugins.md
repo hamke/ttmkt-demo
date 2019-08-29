@@ -1,4 +1,6 @@
----
+# [꿀팁] 워드프레스 플러그인 실시간 인기 플러그인 순위 TOP 20 - 워드프레스톡
+
+<!-- ---
 title: "[꿀팁] 워드프레스 플러그인 실시간 인기 플러그인 순위 TOP 20 - 워드프레스톡"
 description: 워드프레스(WordPress.org) 공식 저장소 내 실시간 인기 플러그인 순위 데이터 및 관련 정보를 소개해 드립니다.
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
@@ -7,7 +9,7 @@ categories: 꿀팁
 tags:
 - 플러그인
 - 꿀팁
----
+--- -->
 
 - [...](#index-00)
 - [...](#index-01)
@@ -155,18 +157,6 @@ tags:
 ***
 ***
 ***
-***
-<!-- Google Adsense (MKTTALK : Middle) -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8106408173466568"
-     data-ad-slot="8421395558"
-     data-ad-format="auto"
-     data-full-width-responsive="false"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ***
 - OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
