@@ -438,18 +438,6 @@ PHP가 가진 특성도 현재 지속적으로 개선되고 있습니다.
 ***
 ***
 ***
-<!-- Google Adsense (MKTTALK : Middle) -->
-<!-- <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8106408173466568"
-     data-ad-slot="8421395558"
-     data-ad-format="auto"
-     data-full-width-responsive="false"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script> -->
-
-***
 - OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
