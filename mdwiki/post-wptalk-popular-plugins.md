@@ -1,10 +1,12 @@
 ---
-title: "XXXXXXXXXXXXXXXX - 워드프레스톡"
-description: XXXXXXXXXXXXXXXX
+title: "[꿀팁] 워드프레스 플러그인 실시간 인기 플러그인 순위 TOP 20 - 워드프레스톡"
+description: 워드프레스(WordPress.org) 공식 저장소 내 실시간 인기 플러그인 순위 데이터 및 관련 정보를 소개해 드립니다.
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 feature_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 categories: 꿀팁
-tags: 꿀팁
+tags:
+- 플러그인
+- 꿀팁
 ---
 
 - [...](#index-00)
@@ -35,6 +37,43 @@ tags: 꿀팁
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
+    <div id="data"></div>
+
+    <script type="text/javascript">
+
+  const url = 'http://api.wordpress.org/plugins/info/1.1/?action=query_plugins&request%5Bbrowse%5D=popular'; // 외부 워드프레스 웹사이트 REST API URL 입력
+
+  fetch(url)
+  .then(res => res.json())
+  .then(wptalk_result => {
+    let output =
+      '총 플러그인 수 (WordPress.org) : ' + wptalk_result.info.results.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,") + '개' +
+      '<hr>' +
+      '<table><thead><tr><th>순서</th><th>이름</th><th>누적 다운로드 수</th><th>평점</th><th>최근 업데이트</th></thead><tbody>';
+    for (let i in wptalk_result.plugins) {
+      id = Number(i) + 1;
+      if ( i < 20 ) {
+        output +=
+          '<tr><td>' +
+          id +
+          '</td><td>' +
+          '<a href="' + wptalk_result.plugins[i].homepage + '" target="_blank" rel="noopener noreferrer">' +
+          wptalk_result.plugins[i].name +
+          '</a>' +
+          '</td><td>' +
+          wptalk_result.plugins[i].downloaded.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,") +
+          '</td><td>' +
+          wptalk_result.plugins[i].rating + '/100' +
+          '</td><td>' +
+          wptalk_result.plugins[i].last_updated.slice(0,11) +
+          '</td></tr>';
+      }
+    }
+    output += '</tbody></table>';
+    document.getElementById('data').innerHTML = output;
+  })
+
+</script>
 
 ***
 

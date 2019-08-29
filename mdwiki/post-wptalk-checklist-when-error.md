@@ -1,16 +1,17 @@
 ---
-title: "XXXXXXXXXXXXXXXX - 워드프레스톡"
-description: XXXXXXXXXXXXXXXX
-cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
-feature_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
+title: "워드프레스 문제 발생시 우선 확인해야 할 기본 요소 체크리스트 - 워드프레스톡"
+description: 워드프레스 사이트 운영시 오류가 발생했을 경우, 가장 먼저 확인해야 할 점들을 소개해 드립니다.
+cover_img: https://hellotblog.files.wordpress.com/2019/06/sample-bg-01-800.jpg
+feature_img: https://hellotblog.files.wordpress.com/2019/06/sample-bg-01-800.jpg
 categories: 꿀팁
 tags: 꿀팁
 ---
 
-- [...](#index-00)
-- [...](#index-01)
-- [...](#index-02)
-- [...](#index-03)
+- [워드프레스 문제 발생시 체크리스트](#index-00)
+- [1. 워드프레스 코어 및 테마, 플러그인의 최신 버전 여부](#index-01)
+- [2. 정품 라이센스 사용 여부](#index-02)
+- [3. 해킹 여부](#index-03)
+- [워드프레스 문제 해결 서비스](#index-04)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -18,7 +19,7 @@ tags: 꿀팁
 
 <a name="index-00"></a>
 
-## ◼︎ XXXXXXXXXXXXXXXX
+## ◼︎ 워드프레스 문제 발생시 체크리스트
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -30,7 +31,7 @@ tags: 꿀팁
 
 <a name="index-01"></a>
 
-## 1. XXXXXXXXXXXXXXXX
+## 1. 워드프레스 코어 및 테마, 플러그인의 최신 버전 여부
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -44,7 +45,7 @@ tags: 꿀팁
 
 <a name="index-02"></a>
 
-## 2. XXXXXXXXXXXXXXXX
+## 2. 정품 라이센스 사용 여부
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -58,7 +59,7 @@ tags: 꿀팁
 
 <a name="index-03"></a>
 
-## 3. XXXXXXXXXXXXXXXX
+## 3. 해킹 여부
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -67,6 +68,36 @@ tags: 꿀팁
 ***
 
 [참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<a name="index-04"></a>
+
+## 워드프레스 문제 해결 서비스
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+<div class="focus-zone">
+
+  <center>
+    <a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/03/kmong-logo-girl-round-02-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a>
+  </center>
+
+  <center>
+    "혼자 1주일 내내 고민하던 문제를, 30분만에 문제를 해결하고 원인을 파악할 수 있었습니다."
+  </center>
+
+  <div style="text-align: right;">- 박OO (서울, 예비창업자)</div>
+
+</div>
+
+워드프레스(WP)와 관련된 각종 문제가 있을 시, **워드프레스톡(WP-Talk)이 신속하게 문제를 진단하고 해결**해 드립니다.
+
+또한 단순히 발생한 오류(에러)를 해결하고 복구해 드릴 뿐만 아니라, 해당 **문제가 발생한 원인과 이유를 워드프레스 프레임워크의 구동 원리에 기반하여 자세히 설명**해 드립니다.
+
+의뢰인은 이를 통해 **문제 해결은 물론, 워드프레스에 대한 이해도를 보다 더 높일 수** 있습니다.
+
+서비스에 대한 **문의 사항이 있으시면, <a href="https://www.wp-talk.com/kakao/" target="_blank">카카오톡</a>**으로 연락 주세요.
 
 ***
 
