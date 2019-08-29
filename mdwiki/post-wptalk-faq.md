@@ -1,12 +1,13 @@
----
+# [필수] 워드프레스 자주 찾는 질문(FAQ) 및 꿀팁 모음 총정리 - 워드프레스톡
+
+<!-- ---
 title: "[필수] 워드프레스 자주 찾는 질문(FAQ) 및 꿀팁 모음 총정리 - 워드프레스톡"
 description: 워드프레스 테마, 플러그인 사용 방법 및 개발, 커스터마이징, 수정, SEO, 수익화 등 핵심 구동 원리에 대해 프로그래밍 입문 및 초보 학습자들이 자주 찾는 질문들을 워드프레스톡(WP-TALK)이 소개해 드립니다.
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 feature_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 categories: 꿀팁
 tags: 꿀팁
-
----
+--- -->
 
 - [...](#index-00)
 - [...](#index-01)
