@@ -1,4 +1,6 @@
----
+# [꿀팁] 워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성 방법 - 워드프레스톡
+
+<!-- ---
 title: "[꿀팁] 워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성 방법 - 워드프레스톡"
 description: 워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성할 수 있는 방법을 소개해 드립니다.
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
@@ -6,7 +8,7 @@ feature_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-
 categories: 꿀팁
 tags: 꿀팁
 
----
+--- -->
 
 - [...](#index-00)
 - [...](#index-01)

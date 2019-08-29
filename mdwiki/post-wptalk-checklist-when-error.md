@@ -17,7 +17,7 @@ tags: 꿀팁
 
 ***
 
-<a name="index-00"></a>
+<!-- <a name="index-00"></a> -->
 
 ## ◼︎ 워드프레스 문제 발생시 체크리스트
 
@@ -29,7 +29,7 @@ tags: 꿀팁
 
 ***
 
-<a name="index-01"></a>
+<!-- <a name="index-01"></a> -->
 
 ## 1. 워드프레스 코어 및 테마, 플러그인의 최신 버전 여부
 
@@ -43,7 +43,7 @@ tags: 꿀팁
 
 ***
 
-<a name="index-02"></a>
+<!-- <a name="index-02"></a> -->
 
 ## 2. 정품 라이센스 사용 여부
 
@@ -57,7 +57,7 @@ tags: 꿀팁
 
 ***
 
-<a name="index-03"></a>
+<!-- <a name="index-03"></a> -->
 
 ## 3. 해킹 여부
 
@@ -71,7 +71,7 @@ tags: 꿀팁
 
 ***
 
-<a name="index-04"></a>
+<!-- <a name="index-04"></a> -->
 
 ## 워드프레스 문제 해결 서비스
 
@@ -101,7 +101,7 @@ tags: 꿀팁
 
 ***
 
-<a name="index-epilogue"></a>
+<!-- <a name="index-epilogue"></a> -->
 
 ## ◼︎ 맺음말
 
@@ -113,7 +113,7 @@ tags: 꿀팁
 
 ***
 
-<a name="recommendation"></a>
+<!-- <a name="recommendation"></a> -->
 
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
