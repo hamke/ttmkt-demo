@@ -5,6 +5,10 @@ https://www.coupang.com/np/search?q=
 ```
 ***
 ```
+$ git init && git add . && git remote add origin url.git && git -v
+```
+***
+```
 $ git add . && git commit -m "Updated" && git push origin master -f
 ```
 ***
