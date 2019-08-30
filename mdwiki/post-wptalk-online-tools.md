@@ -1,18 +1,19 @@
-# XXXXXXXXXXXXXXXX - 워드프레스톡
+# [꿀팁] 워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음 - 워드프레스톡
 
 <!-- ---
-title: "XXXXXXXXXXXXXXXX - 워드프레스톡"
-description: XXXXXXXXXXXXXXXX
+title: "[꿀팁] 워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음 - 워드프레스톡"
+description: 워드프레스 기반의 웹사이트나 쇼핑몰을 운영할 때 알아두면 좋은 무료 온라인 툴 서비스들을 소개해 드립니다.
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 feature_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 categories: 꿀팁
 tags: 꿀팁
 --- -->
 
-- [...](#index-00)
-- [...](#index-01)
-- [...](#index-02)
-- [...](#index-03)
+- [워드프레스 운영시 알아두면 좋은 온라인 툴 서비스](#index-00)
+- [1. 왓 워드프레스 테마 이즈 댓 (What WP Theme is That)](#index-01)
+- [2. 후 이즈 호스팅 디스 (Who is Hosting This)](#index-02)
+- [3. 워드프레스 차일드테마 빌더 (WordPress Child Theme Builder)](#index-03)
+- [4. 제네레이트 워드프레스 (GenerateWP)](#index-04)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -20,19 +21,19 @@ tags: 꿀팁
 
 <!-- <a name="index-00"></a> -->
 
-## ◼︎ XXXXXXXXXXXXXXXX
+## ◼︎ 워드프레스 운영시 알아두면 좋은 온라인 툴 서비스
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-developers-must-plugins/" target="_blank"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리</a>
 
 ***
 
 <!-- <a name="index-01"></a> -->
 
-## 1. XXXXXXXXXXXXXXXX
+## 1. 왓 워드프레스 테마 이즈 댓 (What WP Theme is That)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -40,13 +41,13 @@ tags: 꿀팁
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+- 왓 워드프레스 테마 이즈 댓 (What WP Theme is That) : <a href="XXXXXXXXXXXXXXXX" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
 
 <!-- <a name="index-02"></a> -->
 
-## 2. XXXXXXXXXXXXXXXX
+## 2. 후 이즈 호스팅 디스 (Who is Hosting This)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -54,13 +55,13 @@ tags: 꿀팁
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+- 후 이즈 호스팅 디스 (Who is Hosting This) : <a href="XXXXXXXXXXXXXXXX" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
 
 <!-- <a name="index-03"></a> -->
 
-## 3. XXXXXXXXXXXXXXXX
+## 3. 워드프레스 차일드테마 빌더 (WordPress Child Theme Builder)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -68,7 +69,25 @@ tags: 꿀팁
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+- 워드프레스 차일드테마 빌더 (WordPress Child Theme Builder) : <a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>바로 가기</a>
+
+***
+
+[참고] <a href="https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/" target="_blank"_>워드프레스 차일드테마(Child Theme) 기능을 간편하게 설정하는 방법</a>
+
+***
+
+<!-- <a name="index-04"></a> -->
+
+## 4. 제네레이트 워드프레스 (GenerateWP)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+- 제네레이트 워드프레스 (GenerateWP) : <a href="XXXXXXXXXXXXXXXX" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
 

@@ -9,6 +9,9 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-faq.md" target="_blank" rel="noopener noreferrer"_>워드프레스 자주 찾는 질문(FAQ) 및 꿀팁 모음 총정리</a>**
 
 ***
+**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
+
+***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-child-theme-builder.md" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드(자식)테마를 온라인 빌더로 간편 생성 방법</a>**
 
 ***
@@ -117,7 +120,7 @@
 
 [참고] <a href="https://news.wp-talk.com/wordpress-add-intro-main-page/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법 – 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 설정하는 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 간편하게 설정하는 방법 - 워드프레스톡 매거진</a>
 
 [참고] <a href="https://news.wp-talk.com/wordpress-developers-must-plugins/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리 - 워드프레스톡 매거진</a>
 
