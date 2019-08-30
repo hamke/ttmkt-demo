@@ -5,18 +5,6 @@ https://www.coupang.com/np/search?q=
 ```
 ***
 ```
-$ git init && git add . && git remote add origin url.git && git -v
-```
-***
-```
-$ git add . && git commit -m "Updated" && git push origin master -f
-```
-***
-```
-$ hexo clean && hexo g && hexo d
-```
-***
-```
 var videoElement = document.querySelector("video");
 var audioCtx = new AudioContext();
 var mkttalk_source = audioCtx.createMediaElementSource(videoElement);
@@ -173,6 +161,18 @@ gainNode.connect(audioCtx.destination);
 ***
 - 123123.NET : <a href="http://www.123123.net/" target="_blank" rel="noopener noreferrer"_>링크</a>
 
+***
+```
+$ git init && git add . && git remote add origin url.git && git -v
+```
+***
+```
+$ git add . && git commit -m "Updated" && git push origin master -f
+```
+***
+```
+$ hexo clean && hexo g && hexo d
+```
 ***
 [![트렌드톡 - TrendTalk](https://hellotblog.files.wordpress.com/2018/04/trendtalk-mkt-cover-01-966x200.jpg#full)](#index)
 
