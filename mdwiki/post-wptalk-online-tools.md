@@ -63,7 +63,7 @@ tags: 꿀팁
 
 ## 3. 워드프레스 차일드테마 빌더 (WordPress Child Theme Builder)
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-child-theme-builder-image-01-800x560.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
 
