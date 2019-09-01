@@ -112,6 +112,12 @@ curl "https://openapi.naver.com/v1/search/news.xml?query=%EC%A4%91%EA%B5%AD&disp
 ```
 
 ***
+<a href="https://www.qooltem.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/09/qooltem-omona-logo-round-120x120.png)</a>
+
+***
+<a href="https://www.qooltem.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/09/qooltem-logo-round-01-120x120.png)</a>
+
+***
 <a href="https://www.qooltem.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/01/qooltem-banner-01-966x150.jpg#full)</a>
 
 ***

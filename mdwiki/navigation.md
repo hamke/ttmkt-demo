@@ -5,7 +5,7 @@
 [**[ 꿀템닷컴 ]**]()
 
 * <a href="https://www.qooltem.com/" target="_blank" rel="noopener noreferrer"_>꿀템닷컴 : 홈페이지</a>
-* <a href="https://talk.qooltem.com/" target="_blank" rel="noopener noreferrer"_>꿀템톡 : 매거진</a>
+* <a href="https://news.qooltem.com/" target="_blank" rel="noopener noreferrer"_>꿀템닷컴 : 매거진</a>
 * <a href="https://www.qooltem.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>꿀템닷컴 : 네이버 블로그</a>
 * <a href="https://www.qooltem.com/yt/" target="_blank" rel="noopener noreferrer"_>꿀라TV : 유튜브</a>
 - - - -
