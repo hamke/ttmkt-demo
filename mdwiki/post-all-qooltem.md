@@ -3,7 +3,7 @@
 ## ◼︎ 꿀템닷컴(Qooltem.com)
 
 ***
-**◼︎ 꿀템닷컴 - <a href="https://www.qooltem.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://talk.qooltem.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.qooltem.com/store/" target="_blank" rel="noopener noreferrer"_>데일리꿀템</a> | <a href="https://www.qooltem.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.qooltem.com/namanmol/fb.kr/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.qooltem.com/ig/" target="_blank" rel="noopener noreferrer"_>인스타그램</a> | <a href="https://www.langshop.net/" target="_blank" rel="noopener noreferrer"_>랭샵</a> | <a href="https://www.qooltem.com/coupang/" target="_blank" rel="noopener noreferrer"_>쿠팡 파트너스</a>**
+**◼︎ 꿀템닷컴 - <a href="https://www.qooltem.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://news.qooltem.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.qooltem.com/store/" target="_blank" rel="noopener noreferrer"_>데일리꿀템</a> | <a href="https://www.qooltem.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.qooltem.com/namanmol/fb.kr/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.qooltem.com/ig/" target="_blank" rel="noopener noreferrer"_>인스타그램</a> | <a href="https://www.langshop.net/" target="_blank" rel="noopener noreferrer"_>랭샵</a> | <a href="https://www.qooltem.com/coupang/" target="_blank" rel="noopener noreferrer"_>쿠팡 파트너스</a>**
 
 **◼︎ 꿀라TV (개인용) - <a href="https://www.qooltem.com/yt/" target="_blank" rel="noopener noreferrer"_>유튜브</a>**
 
