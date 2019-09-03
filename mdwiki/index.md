@@ -120,7 +120,7 @@ gainNode.connect(audioCtx.destination);
 - RSS Tester (RSS2JSON) : <a href="https://www.ttmkt.com/tools/rss-tester/" target="_blank" rel="noopener noreferrer"_>링크</a>
 
 ***
-- 꿀템톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-qooltem.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+- 꿀템 쇼핑 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-qooltem.md" target="_blank" rel="noopener noreferrer"_>링크</a>
 
 - 트렌드톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-trendtalk.md" target="_blank" rel="noopener noreferrer"_>링크</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-all-trendtalk.md#-_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%B0%A8%EC%9D%B4%EB%82%98_(StartChina)" target="_blank" rel="noopener noreferrer"_>스타트차이나</a> )
 

@@ -106,7 +106,7 @@
 
 [참고] <a href="https://www.wp-talk.com/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
 
-[참고] <a href="https://www.wp-talk.com/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 생성하는 방법 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
 
 ***
 [참고] <a href="https://news.wp-talk.com/china-website-loding-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
