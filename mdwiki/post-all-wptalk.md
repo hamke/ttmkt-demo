@@ -9,6 +9,9 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
 
 ***
+**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bitnmai-wordpress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 내 컴퓨터(로컬 웹서버)에 간편하게 설치하는 방법 : 비트나미(Bitnami)</a>**
+
+***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson-intro.md" target="_blank" rel="noopener noreferrer"_>워드프레스톡 레슨 커리큘럼 및 상세 소개</a>**
 
 ***
