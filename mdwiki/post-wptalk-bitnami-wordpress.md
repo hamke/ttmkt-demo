@@ -123,17 +123,6 @@ tags: 꿀팁
 ***
 ***
 ***
-<!-- MKTTALK : Middle -->
-<!-- <ins class="adsbygoogle"
-		 style="display:block"
-		 data-ad-client="ca-pub-1087484447886876"
-		 data-ad-slot="7181624283"
-		 data-ad-format="auto"
-		 data-full-width-responsive="false"></ins>
-<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-</script> -->
-
 ***
 - OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
