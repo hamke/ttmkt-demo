@@ -6,9 +6,6 @@
 **◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
-**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-faq.md" target="_blank" rel="noopener noreferrer"_>워드프레스 자주 찾는 질문(FAQ) 및 꿀팁 모음 총정리</a>**
-
-***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
 
 ***
@@ -105,6 +102,8 @@
 [참고] <a href="https://www.wp-talk.com/119/" target="_blank"_>**워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법 - 워드프레스톡 문제 해결 서비스**</a>
 
 [참고] <a href="https://www.wp-talk.com/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
+
+[필수] <a href="https://news.wp-talk.com/wordpress-faq-for-users/" target="_blank" rel="noopener noreferrer"_>**워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리**</a>
 
 [참고] <a href="https://www.wp-talk.com/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
 
