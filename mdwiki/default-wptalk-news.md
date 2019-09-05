@@ -4,7 +4,7 @@
 title: "XXXXXXXXXXXXXXXX - 워드프레스톡"
 description: XXXXXXXXXXXXXXXX
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
-feature_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
+feature_img: https://hellotblog.files.wordpress.com/2019/04/wptalk-wordpress-logo-03-800.png
 categories: 꿀팁
 tags: 꿀팁
 --- -->

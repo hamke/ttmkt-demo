@@ -9,9 +9,6 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
 
 ***
-**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bitnmai-wordpress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 내 컴퓨터(로컬 웹서버)에 간편하게 설치하는 방법 : 비트나미(Bitnami)</a>**
-
-***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson-intro.md" target="_blank" rel="noopener noreferrer"_>워드프레스톡 레슨 커리큘럼 및 상세 소개</a>**
 
 ***
@@ -115,6 +112,8 @@
 
 [참고] <a href="https://news.wp-talk.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 : 테마포레스트(Themeforest) - 워드프레스톡 매거진</a>
 
+[참고] <a href="https://news.wp-talk.com/wordpress-install-local-computer-bitnami/" target="_blank" rel="noopener noreferrer"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami) - 워드프레스톡 매거진</a>
+
 [참고] <a href="https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/" target="_blank" rel="noopener noreferrer"_>내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 매거진</a>
 
 [참고] <a href="https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스톡 매거진</a>
@@ -133,6 +132,9 @@
 [참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-css/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스톡 매거진</a>
 
 [참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-javascript/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스톡 매거진</a>
+
+***
+[참고] <a href="https://news.trendtalk.kr/bluehost-china-hongkong-hosting-register/" target="_blank" rel="noopener noreferrer"_>블루호스트 차이나(Bluehost China)로 홍콩 및 중국 호스팅 서비스 활용하는 방법 - 트렌드톡 매거진</a>
 
 ***
 x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" rel="noopener noreferrer"_>중국 워드프레스 웹사이트 제작을 위해 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스톡 (네이버 블로그)</a>
