@@ -6,10 +6,10 @@
 ***
 ## ◼︎ 목차 <span style="font-size:0.5em; float:right; padding:0.5em 0 0;"><i class="fas fa-clock"></i> 업데이트 : <span class="post-year"></span>-<span class="post-month-digits"></span>-01</span>
 
-- [...](#index-00)
-- [...](#index-01)
-- [...](#index-02)
-- [...](#index-03)
+- [XXXXXXXX](#index-00)
+- [XXXXXXXX](#index-01)
+- [XXXXXXXX](#index-02)
+- [XXXXXXXX](#index-03)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -50,10 +50,10 @@
 
 [추천] <a href="https://coupa.ng/bgHJ7Z" rel="noopener noreferrer" target="_blank"_>유튜브 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
-[추천] <a href="https://coupa.ng/bgHKbz" rel="noopener noreferrer" target="_blank"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱) - 쿠팡(웹/모바일앱)</a>
+[추천] <a href="https://coupa.ng/bgHKbz" rel="noopener noreferrer" target="_blank"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
 ***
-**마케팅톡(MKTTALK.COM)**은 **온라인 비즈니스 및 디지털 마케팅에 필요한 유용한 서비스 및 각종 꿀팁**을 소개해 드립니다. ( <a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_>제휴 및 교육, 기타 문의 (카카오톡)</a> )
+**마케팅톡(MKTTALK.COM)**은 **온라인 비즈니스 및 디지털 마케팅에 필요한 유용한 서비스 및 각종 꿀팁**을 소개해 드립니다. ( <a href="https://www.mkttalk.com/kakao/" target="_blank"_>제휴 및 교육, 기타 문의 (카카오톡)</a> )
 
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/02/mkttalk-banner-default-966x200.jpeg" style="max-width:100%;" alt="마케팅톡매거진"></a></center>

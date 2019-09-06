@@ -161,7 +161,6 @@
 [외부링크]()
 
 * <a href="https://www.trendtalk.kr/search/" target="_blank" rel="noopener noreferrer"_>글로벌 원스톱 검색</a>
-* <a href="https://www.ttmkt.com/tools/rss-tester/" target="_blank" rel="noopener noreferrer"_>RSS Tester</a>
 - - - -
 * <a href="https://www.wordpress.com/media/" target="_blank" rel="noopener noreferrer"_>Wordpress.com/Media</a>
 - - - -
@@ -174,6 +173,7 @@
 * <a href="https://gifrun.com/" target="_blank" rel="noopener noreferrer"_>GIFRun.com</a>
 - - - -
 * <a href="https://www.ttmkt.com/tools/markdown-to-html/" target="_blank" rel="noopener noreferrer"_>Markdown To HTML</a>
+* <a href="https://www.browserling.com/tools/html-to-markdown" target="_blank" rel="noopener noreferrer"_>HTML To Markdown</a>
 * <a href="https://mockup.photos/" target="_blank" rel="noopener noreferrer"_>Mockup.photos</a>
 - - - -
 * <a href="https://www.miricanvas.com/" target="_blank" rel="noopener noreferrer"_>MiriCanvas.com</a>

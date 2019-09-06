@@ -4,10 +4,10 @@
 ***
 ## ◼︎ 목차 <span style="font-size:0.5em; float:right; padding:0.5em 0 0;"><i class="fas fa-clock"></i> 업데이트 : <span class="post-year"></span>-<span class="post-month-digits"></span>-01</span>
 
-- [...](#index-00)
-- [...](#index-01)
-- [...](#index-02)
-- [...](#index-03)
+- [XXXXXXXX](#index-00)
+- [XXXXXXXX](#index-01)
+- [XXXXXXXX](#index-02)
+- [XXXXXXXX](#index-03)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -31,8 +31,9 @@
 ***
 ## ◼︎ 맺음말
 
-위의 정보가 도움이 되었기를 바랍니다.
-이 외에 알고 계신 꿀팁이 있다면, 많은 분들과 정보를 공유해 주세요!
+트렌드톡(TrendTalk)이 제공하는 위의 정보가 도움이 되었기를 바랍니다.
+
+도움이 되었다면, **많은 분들과 정보를 공유**해 주세요!
 
 <!-- <a name="recommendation"></a> -->
 ***

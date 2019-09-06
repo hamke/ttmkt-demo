@@ -6,10 +6,10 @@
 ***
 ## ◼︎ 목차 <span style="font-size:0.5em; float:right; padding:0.5em 0 0;">업데이트 : <span class="post-year"></span>-<span class="post-month-digits"></span>-01</span>
 
-- [...](#index-00)
-- [...](#index-01)
-- [...](#index-02)
-- [...](#index-03)
+- [XXXXXXXX](#index-00)
+- [XXXXXXXX](#index-01)
+- [XXXXXXXX](#index-02)
+- [XXXXXXXX](#index-03)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
