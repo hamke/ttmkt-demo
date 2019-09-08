@@ -13,9 +13,14 @@ tags:
 --- -->
 
 - [케이보드(KBoard) 한국형 게시판 플러그인](#index-00)
-- [1. 게시판 하단의 'Powered by KBoard' 문구를 삭제하고 싶어요](#index-01)
-- [XXXXXXXX](#index-02)
-- [XXXXXXXX](#index-03)
+- [1. 게시판 하단의 'Powered by KBoard' 문구를 삭제하고 싶습니다](#index-01)
+- [2. 케이보드(KBoard) 게시판 내용이 담긴 RSS 피드(Feed) 주소를 알고 싶습니다](#index-02)
+- [3. 게시판 작성자명을 닉네임(Nickname)으로 변경하고 싶습니다](#index-03)
+- [XXXXXXXX](#index-04)
+- [XXXXXXXX](#index-05)
+- [XXXXXXXX](#index-06)
+- [XXXXXXXX](#index-07)
+- [XXXXXXXX](#index-08)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -56,15 +61,88 @@ KBoard 플러그인 게시판 하단에 표시되는 Powered by KBoard 문구를
 
 <!-- <a name="index-02"></a> -->
 
-## 2. XXXXXXXXXXXXXXXX
+## 2. 케이보드(KBoard) 게시판 내용이 담긴 RSS 피드(Feed) 주소를 알고 싶습니다
 
+KBoard(케이보드) 게시글 피드의 경우 보통 아래 형태로 되어 있습니다.
 
+```
+https://{ 도메인주소 }/wp-content/plugins/kboard/rss.php
+
+```
+
+RSS 피드 주소를 웹마스터도구에 추가해주시면 검색엔진이 자동으로 페이지를 읽어가게 됩니다.
+
+그런데 구글은 여러 개의 RSS 피드 주소를 등록할 수 있지만 네이버는 1개만 등록이 가능한 점이 특징인데요.
+
+사이트맵 등록으로 네이버의 단점을 극복할 수 있습니다.
 
 ***
 
 <!-- <a name="index-03"></a> -->
 
-## 3. XXXXXXXXXXXXXXXX
+## 3. 게시판 작성자명을 닉네임(Nickname)으로 변경하고 싶습니다.
+
+최신 버전의 KBoard 플러그인을 사용 중이시라면 코어 파일의 코드를
+
+직접 수정하지 않고 kboard_user_display 필터를 이용하시면
+
+게시글 작성자명을 닉네임으로 표시하실 수 있습니다.
+
+워드프레스 관리자 -> 외모 -> 테마 편집기 페이지에서 funtions.php 파일 하단에
+
+아래의 코드를 추가해보시겠어요?
+
+```
+add_filter('kboard_user_display', 'my_kboard_user_display', 10, 5);
+function my_kboard_user_display($user_display, $user_id, $user_name, $plugin, $builder){
+	if($builder->board->id == '1' && $user_id){
+		$user = get_userdata($user_id);
+		$user_display = $user->nickname;
+	}
+	return $user_display;
+}
+
+```
+
+위의 코드에서 $builder->board->id == '1' 부분은 실제 게시판 id로 적용해보세요.
+
+***
+
+<!-- <a name="index-04"></a> -->
+
+## 4. XXXXXXXXXXXXXXXX
+
+
+
+***
+
+<!-- <a name="index-05"></a> -->
+
+## 5. XXXXXXXXXXXXXXXX
+
+
+
+***
+
+<!-- <a name="index-06"></a> -->
+
+## 6. XXXXXXXXXXXXXXXX
+
+
+
+***
+
+<!-- <a name="index-07"></a> -->
+
+## 7. XXXXXXXXXXXXXXXX
+
+
+
+***
+
+<!-- <a name="index-08"></a> -->
+
+## 8. XXXXXXXXXXXXXXXX
 
 
 
