@@ -52,9 +52,13 @@ tags: 꿀팁
 다양한 조합 방법이 있지만, 워드프레스톡은 위를 기준으로 소개해 드립니다.
 
 ***
-### (1) 웹서버
+### (1) 웹서버 (HTTP Server)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/apache-logo-150x150.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+웹서버(HTTP Server)는 웹사이트가 구동하는 기본 통신 환경을 제공합니다.
+
+웹서버 환경이 제공하는 IP를 도메인과 연결하여, 워드프레스 사이트 내 URL을 생성할 수 있습니다.
 
 주요 웹서버 프로그램은 Apache, Nginx 등이 있습니다.
 
@@ -67,16 +71,20 @@ tags: 꿀팁
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/php-logo-150x150.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 PHP는 워드프레스 기본 프로그래밍 언어입니다.
-대부분의 로컬 컴퓨터 환경 및 호스팅 서비스에는 기본적으로 설치되어 있습니다.
+
+대부분의 로컬 컴퓨터 환경 및 호스팅 서비스에는 PHP가 기본적으로 설치되어 있습니다.
+
 가급적 최신 버전을 사용하는 것이 좋습니다.
 
 ***
 [참고] PHP : <a href="https://www.php.net/" rel="noopener noreferrer" target="_blank"_>공식 홈페이지</a>
 
 ***
-### (3) 데이터베이스 프로그램
+### (3) 데이터베이스 (Database)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/mysql-workbench-logo-round-150x150.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+데이터베이스는 데이터를 체계적으로 정리하여 보관할 수 있는 시스템을 의미합니다.
 
 주요 데이터베이스 프로그램에는 MySQL, MariaDB, PostgreSQL 등이 있습니다.
 
@@ -147,6 +155,7 @@ PHP는 워드프레스 기본 프로그래밍 언어입니다.
 <center><a href="https://www.wp-talk.com/try/bluehost/wp/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/07/wptalk-bluehost-hosting-main-01-800.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 워드프레스가 공식적으로 추천하는 호스팅 서비스들은 대부분 "워드프레스 자동 설치 기능"을 제공합니다.
+
 워드프레스 설치에 필요한 몇 가지 정보만 입력하면, 빠르게 워드프레스가 설치되어 바로 접속할 수 있습니다.
 
 만일 "워드프레스 자동 설치 기능"을 제공하지 않는 호스팅 서비스를 이용한다면, 워드프레스 공식 홈페이지에서 워드프레스 최신 버전을 다운로드한 다음, 해당 파일을 웹서버 내의 원하는 위치에 업로드한 다음, 설치할 수도 있습니다.

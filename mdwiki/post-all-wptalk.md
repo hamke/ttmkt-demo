@@ -6,7 +6,7 @@
 **◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
-**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 사용 방법 최신 가이드 : 설치부터 활용까지 - 워드프레스톡 매거진</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
+**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 설치 방법 및 기본 사용법 최신 가이드 - 워드프레스톡 매거진</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
 
 ***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
