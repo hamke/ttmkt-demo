@@ -20,6 +20,8 @@
 ***
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-popular-plugins.md" target="_blank" rel="noopener noreferrer"_>워드프레스 플러그인 실시간 인기 플러그인 순위 TOP 20 - 워드프레스톡 매거진</a>
 
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-dashicons.md" target="_blank" rel="noopener noreferrer"_>워드프레스 대시아이콘(Dashicons)으로 아이콘 폰트 간편 활용 방법 - 워드프레스톡 매거진</a>
+
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-kboard-tips.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 케이보드(KBoard) 한국형 게시판 플러그인 자주 찾는 질문(FAQ) 및 꿀팁 모음 - 워드프레스톡 매거진</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-plugins-kr.md" target="_blank" rel="noopener noreferrer"_>한국에서 워드프레스 웹사이트/쇼핑몰 제작할 때 필요한 플러그인 모음 - 워드프레스톡 매거진</a>
