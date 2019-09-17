@@ -12,6 +12,9 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hr-tips.md" target="_blank" rel="noopener noreferrer"_>워드프레스 담당 직원의 실력 판단 방법 및 채용시 주의 사항</a>**
 
 ***
+**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-error.md" target="_blank" rel="noopener noreferrer"_>워드프레스 자주 발생하는 오류(에러) 및 해결 방법 모음 총정리</a>**
+
+***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
 
 ***
