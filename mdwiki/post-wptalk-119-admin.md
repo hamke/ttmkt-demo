@@ -60,11 +60,12 @@
 
 - XXXXX 부분 내 코드 수정을 통해 문제를 해결하였습니다.
 
-===============
+===================
 
 서비스를 의뢰해 주셔서 감사합니다.
 
-워드프레스톡(news.wp-talk.com) 드림
+워드프레스톡(WP-TALK.COM) 드림
+
 ```
 ***
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2018/11/wptalk-logo-966x200.png" style="max-width:100%;" alt="워드프레스톡 매거진"></a></center>

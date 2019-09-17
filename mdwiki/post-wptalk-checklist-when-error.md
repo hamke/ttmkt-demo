@@ -1,11 +1,13 @@
----
+# 워드프레스 문제 발생시 우선 확인해야 할 기본 요소 체크리스트
+
+<!-- ---
 title: "워드프레스 문제 발생시 우선 확인해야 할 기본 요소 체크리스트 - 워드프레스톡"
 description: 워드프레스 사이트 운영시 오류가 발생했을 경우, 가장 먼저 확인해야 할 점들을 소개해 드립니다.
 cover_img: https://hellotblog.files.wordpress.com/2019/06/sample-bg-01-800.jpg
 feature_img: https://hellotblog.files.wordpress.com/2019/06/sample-bg-01-800.jpg
 categories: 꿀팁
 tags: 꿀팁
----
+--- -->
 
 - [워드프레스 문제 발생시 체크리스트](#index-00)
 - [1. 워드프레스 코어 및 테마, 플러그인의 최신 버전 여부](#index-01)
@@ -21,7 +23,7 @@ tags: 꿀팁
 
 ## ◼︎ 워드프레스 문제 발생시 체크리스트
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2018/12/wptalk-error.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 ***
 
@@ -33,7 +35,7 @@ tags: 꿀팁
 
 ## 1. 워드프레스 코어 및 테마, 플러그인의 최신 버전 여부
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2018/12/wptalk-wp-plugins.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
 
@@ -47,7 +49,7 @@ tags: 꿀팁
 
 ## 2. 정품 라이센스 사용 여부
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/wptalk-wordpress-logo-03-800.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
 
@@ -61,7 +63,7 @@ tags: 꿀팁
 
 ## 3. 해킹 여부
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-error-image-800x470.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
 
@@ -149,7 +151,7 @@ tags: 꿀팁
 ***
 ***
 <!-- Google Adsense (MKTTALK : Middle) -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-8106408173466568"
      data-ad-slot="8421395558"
@@ -157,7 +159,7 @@ tags: 꿀팁
      data-full-width-responsive="false"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 
 ***
 - OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
