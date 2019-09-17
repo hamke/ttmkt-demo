@@ -23,7 +23,7 @@ tags: 꿀팁
 
 ## ◼︎ 워드프레스를 직원에게 맡기기 전 필수 상식
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-cover-01-800x500.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 워드프레스(WordPress)는 초기 스타트업 또는 중소 기업에게 매우 좋은 웹사이트 프로그램입니다.
 
@@ -39,7 +39,7 @@ tags: 꿀팁
 
 ## 1. 모든 IT 개발자가 워드프레스를 잘 아는 것은 아님
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-mkttalk-coding-image-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 모든 IT 개발자는 주력 분야와 다뤄온 기술 스택(Technical Stack)이 있습니다.
 
@@ -59,7 +59,7 @@ tags: 꿀팁
 
 ## 2. 모든 웹디자이너가 워드프레스를 잘 아는 것은 아님
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-mkttalk-web-design-image-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 대부분의 웹디자이너들은 워드프레스를 사용한다고 할 경우, 관리자(어드민) 대시보드에서 모든 것을 해결하려고 하는 경우가 많습니다. (워드프레스 사용 = 'wp-admin' 접속)
 
@@ -85,7 +85,7 @@ tags: 꿀팁
 
 ## 3. 개발만큼 관리 및 유지 보수가 중요한 워드프레스
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/wptalk-wordpress-logo-03-800.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 워드프레스(WordPress)는 전세계 개발자들이 참여하는 일종의 생태계입니다.
 
@@ -107,7 +107,7 @@ tags: 꿀팁
 
 ## 4. 워드프레스 관련 문제가 있을 때 추천 방법
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-cover-default-01-800x460.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 워드프레스를 전문적으로 다루는 전문팀을 활용하면, 시간과 에너지 낭비 없이, 신속하게 원하는 결과를 도출할 수 없습니다.
 
@@ -123,7 +123,7 @@ tags: 꿀팁
 
 ## ◼︎ 맺음말
 
-<center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-cover-default-01-800x460.png" style="max-width:100%;" alt="워드프레스톡 매거진"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/wptalk-wordpress-logo-02-800.png" style="max-width:100%;" alt="워드프레스톡 매거진"></a></center>
 
 **워드프레스톡(WP-TALK.COM)**이 소개해 드리는 방법들을 통해, 워드프레스를 보다 편리하게 활용하는데 도움이 되기를 바랍니다.
 
