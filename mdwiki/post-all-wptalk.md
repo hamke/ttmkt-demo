@@ -9,6 +9,9 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 설치 방법 및 기본 사용법 최신 가이드 - 워드프레스톡 매거진</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
 
 ***
+**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hr-tips.md" target="_blank" rel="noopener noreferrer"_>워드프레스 담당 직원의 실력 판단 방법 및 채용시 주의 사항</a>**
+
+***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
 
 ***
