@@ -69,7 +69,7 @@ tags: 꿀팁
 
 ## 3. 데이터베이스 연결 오류(에러)
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-database-errors-image-800x470.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 "Error Establishing Database Connection"
 
