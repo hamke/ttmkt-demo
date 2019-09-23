@@ -75,7 +75,7 @@ tags: 꿀팁
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] <a href="https://news.trendtalk.kr/wordpress-database-connection-error/" target="_blank"_>워드프레스에서 데이터베이스 에러 발생시 체크리스트 및 해결 방법</a>
 
 ***
 

@@ -5,7 +5,7 @@
 ***
 ## ◼︎ 참고 링크
 
-**- 레드웹(RedWeb) 바이두 클라우드 다운로드 서비스 : <a href="https://send.firefox.com/" target="_blank" rel="noopener noreferrer"_>Firefox Send</a> | <a href="https://blog.naver.com/redweb-korea/221530821164" target="_blank" rel="noopener noreferrer"_>소개글(네이버 블로그)</a>**
+**- 레드웹(RedWeb) 바이두 클라우드 다운로드 서비스 : <a href="https://send.firefox.com/" target="_blank" rel="noopener noreferrer"_>Firefox Send</a> | <a href="https://wetransfer.com/" target="_blank" rel="noopener noreferrer"_>WeTransfer</a> | <a href="https://blog.naver.com/redweb-korea/221530821164" target="_blank" rel="noopener noreferrer"_>소개글(네이버 블로그)</a>**
 
 <!-- <a name="index-00"></a> -->
 ***
@@ -49,6 +49,8 @@
 
 ==============
 저희가 파일 다운로드용으로 보내드리는 링크는 파일당 클릭 총 2회 또는 24시간 이후 자동 소멸되니, 이용에 유의해 주세요 (링크 내 파일은 브라우저와 로그인 여부에 관계 없이, 바로 클릭하시면 다운로드하실 수 있습니다.)
+
+저희가 파일 다운로드용으로 보내드리는 링크는 파일당 7일 이후 자동 소멸되니, 이용에 유의해 주세요 (링크 내 파일은 브라우저와 로그인 여부에 관계 없이, 바로 클릭하시면 다운로드하실 수 있습니다.)
 
 서비스를 이용해 주셔서 감사합니다
 
