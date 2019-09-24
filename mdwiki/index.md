@@ -66,6 +66,8 @@ gainNode.connect(audioCtx.destination);
 **◼︎ 워드프레스톡**
 
 ***
+- WordPress Analytics : <a href="https://www.wp-talk.com/app/analytics/" target="_blank"_>www.wp-talk.com/app/analytics/</a> | <a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_>www.wp-talk.com/kr/app/analytics/</a>
+
 - Child Theme Builder : <a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>www.wp-talk.com/app/child-theme-builder/</a>
 
 ***
