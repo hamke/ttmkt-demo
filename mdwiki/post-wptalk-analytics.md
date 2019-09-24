@@ -85,15 +85,21 @@ URL을 입력하면, '검색 중 ...'이란 메시지와 함께, 사이트 분�
 ***
 ### (1) 워드프레스 여부 정보
 
+<center><a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-intro-wp-800x370.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
 입력한 웹사이트가 워드프레스로 구축되어 있는지 확인할 수 있습니다.
 
 ***
 ### (2) 설치된 테마 정보
 
+<center><a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-intro-themes-800x350.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
 해당 웹사이트에 어떤 테마가 설치되어 있는지 확인할 수 있습니다.
 
 ***
 ### (3) 설치된 플러그인 정보
+
+<center><a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-intro-plugins-800x440.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 해당 웹사이트에 어떤 플러그인들이 설치되어 있는지 확인할 수 있습니다.
 
@@ -129,7 +135,7 @@ URL을 입력하면, '검색 중 ...'이란 메시지와 함께, 사이트 분�
 
 ## 워드프레스 애널리틱스 활용 범위
 
-<center><a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-image-03-800x480.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-kr-image-800x470.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 워드프레스 애널리틱스(WordPress Analytics)는 워드프레스 사이트를 구축할 예정일 때 벤치마킹 사이트를 분석하는 용도로 활용하면 좋습니다.
 
