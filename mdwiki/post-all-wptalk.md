@@ -18,6 +18,9 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
 
 ***
+(미발표) <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-analytics.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 마음에 드는 웹사이트/쇼핑몰에 설치된 테마 및 플러그인 간편 자동 확인 방법</a>
+
+***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-functions-usage.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사용할 때 반드시 알아둬야 할 액션/필터 훅(Hooks) 코드 스니펫 입력 방법</a>**
 
 ***
