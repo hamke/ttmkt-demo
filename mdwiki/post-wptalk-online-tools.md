@@ -10,7 +10,7 @@ tags: 꿀팁
 --- -->
 
 - [워드프레스 운영시 알아두면 좋은 온라인 툴 서비스](#index-00)
-- [1. 왓 워드프레스 테마 이즈 댓 (What WP Theme is That)](#index-01)
+- [1. 워드프레스 애널리틱스 (WordPress Analytics)](#index-01)
 - [2. 후 이즈 호스팅 디스 (Who is Hosting This)](#index-02)
 - [3. 워드프레스 차일드테마 빌더 (WordPress Child Theme Builder)](#index-03)
 - [4. 제네레이트 워드프레스 (GenerateWP)](#index-04)
@@ -36,15 +36,15 @@ tags: 꿀팁
 
 <!-- <a name="index-01"></a> -->
 
-## 1. 왓 워드프레스 테마 이즈 댓 (What WP Theme is That)
+## 1. 워드프레스 애널리틱스 (WordPress Analytics)
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-what-wordpress-theme-is-that-intro-800.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-en-image-01-800x510.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-"**왓 워드프레스 테마 이즈 댓 (What WP Theme is That)**"은 워드프레스 기반의 웹사이트가 어떤 테마(Theme)를 사용하고 있는지 알려 주는 온라인 툴 서비스입니다.
+"**워드프레스 애널리틱스 (WordPress Analytics)**"은 워드프레스 기반의 웹사이트가 어떤 테마(Theme)와 플러그인(Plugin)를 사용하고 있는지 자동으로 분석해서 알려 주는 온라인 툴 서비스입니다.
 
 ***
 
-- **왓 워드프레스 테마 이즈 댓 (What WP Theme is That)** : <a href="https://whatwpthemeisthat.com/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
+- **워드프레스 애널리틱스 (WordPress Analytics)** : <a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_>바로 가기</a>
 
 ***
 
