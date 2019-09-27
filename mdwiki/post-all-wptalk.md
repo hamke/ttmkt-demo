@@ -126,7 +126,7 @@
 
 [참고] <a href="https://www.wp-talk.com/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**외부 웹사이트/쇼핑몰에 설치된 워드프레스 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰에 설치된 워드프레스 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스톡 매거진**</a>
 
 [참고] <a href="https://www.wp-talk.com/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
 
