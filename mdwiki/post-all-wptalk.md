@@ -113,7 +113,7 @@
 ## ◼︎ 워드프레스톡 매거진
 
 ***
-[참고] <a href="https://www.wp-talk.com/must-read/" target="_blank"_>**워드프레스(WP) 입문/초보자가 알아두면 좋은 워드프레스 추천 글 모음 - 워드프레스톡 매거진**</a> ( <a href="https://blog.naver.com/wp-kr/221494933645" target="_blank" rel="noopener noreferrer"_>**네이버 블로그**</a> | <a href="https://news.mkttalk.com/entry/필수-워드프레스WP-초보자를-위한-워드프레스-활용-꿀팁-및-핵심-원리-추천-목록-워드프레스톡" target="_blank_">**마케팅톡 매거진**</a> )
+[참고] <a href="https://www.wp-talk.com/must-read/" target="_blank"_>**워드프레스(WP) 입문/초보자가 알아두면 좋은 워드프레스 추천 글 모음 - 워드프레스톡 매거진**</a> ( <a href="https://blog.naver.com/wp-kr/221494933645" target="_blank" rel="noopener noreferrer"_>**네이버 블로그**</a> | <a href="https://news.mkttalk.com/entry/wordpress-all-tips" target="_blank_">**마케팅톡 매거진**</a> )
 
 [참고] <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>**워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리 - 워드프레스톡 매거진**</a>
 
