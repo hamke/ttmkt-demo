@@ -113,19 +113,19 @@
 ## ◼︎ 워드프레스톡 매거진
 
 ***
-[참고] <a href="https://www.wp-talk.com/must-read/" target="_blank"_>**워드프레스(WP) 입문/초보자가 알아두면 좋은 워드프레스 추천 글 모음 - 워드프레스톡 매거진**</a> ( <a href="https://blog.naver.com/wp-kr/221494933645" target="_blank" rel="noopener noreferrer"_>**네이버 블로그**</a> | <a href="https://news.mkttalk.com/entry/wordpress-all-tips" target="_blank_">**마케팅톡 매거진**</a> )
+[참고] <a href="https://www.wp-talk.com/kr/must-read/" target="_blank"_>**워드프레스(WP) 입문/초보자가 알아두면 좋은 워드프레스 추천 글 모음 - 워드프레스톡 매거진**</a> ( <a href="https://blog.naver.com/wp-kr/221494933645" target="_blank" rel="noopener noreferrer"_>**네이버 블로그**</a> | <a href="https://news.mkttalk.com/entry/wordpress-all-tips" target="_blank_">**마케팅톡 매거진**</a> )
 
 [참고] <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>**워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리 - 워드프레스톡 매거진**</a>
 
-[참고] <a href="https://www.wp-talk.com/lesson/" target="_blank"_>**워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업) - 워드프레스톡 매거진**</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson.md" target="_blank"_>**작성 중**</a> )
+[참고] <a href="https://www.wp-talk.com/kr/lesson/" target="_blank"_>**워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업) - 워드프레스톡 매거진**</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson.md" target="_blank"_>**작성 중**</a> )
 
-[참고] <a href="https://www.wp-talk.com/119/" target="_blank"_>**워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법 - 워드프레스톡 문제 해결 서비스**</a>
+[참고] <a href="https://www.wp-talk.com/kr/119/" target="_blank"_>**워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법 - 워드프레스톡 문제 해결 서비스**</a>
 
-[참고] <a href="https://www.wp-talk.com/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스톡 매거진**</a>
 
-[참고] <a href="https://www.wp-talk.com/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
 
 ***
 [참고] <a href="https://news.wp-talk.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
