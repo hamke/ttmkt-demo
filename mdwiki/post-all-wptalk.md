@@ -128,7 +128,7 @@
 [참고] <a href="https://www.wp-talk.com/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
 
 ***
-[참고] <a href="https://news.wp-talk.com/china-website-loding-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
 
 [참고] <a href="https://news.wp-talk.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 : 테마포레스트(Themeforest) - 워드프레스톡 매거진</a>
 
