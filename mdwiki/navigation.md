@@ -41,6 +41,7 @@
 * <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 119</a>
 - - - -
 * # 웹앱
+* <a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_>워드프레스 애널리틱스(KR)</a>
 * <a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>워드프레스 차일드테마 빌더</a>
 - - - -
 * # 매거진 컨텐츠
