@@ -50,6 +50,8 @@
 ***
 **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-learn-from-experts.md" target="_blank" rel="noopener noreferrer"_>워드프레스를 제대로 학습하기 위해 개인 레슨/교육이 필요한 이유 - 워드프레스톡 매거진</a>**
 
+- **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-learn-worpdress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 강좌/레슨 학습 전 알아야 할 점 및 주의 사항 - 워드프레스톡 매거진</a>**
+
 - **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-good-for-coding-starter.md" target="_blank" rel="noopener noreferrer"_>웹 프로그래밍(코딩) 학습을 시작할 때 워드프레스가 좋은 이유 - 워드프레스톡 매거진</a>**
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-must-tools-before-learn.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발/학습 전 설치해야 하는 무료 소프트웨어 모음 - 워드프레스톡 매거진</a>
