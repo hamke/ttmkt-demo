@@ -33,8 +33,6 @@
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-kboard-tips.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 케이보드(KBoard) 한국형 게시판 플러그인 자주 찾는 질문(FAQ) 및 꿀팁 모음 - 워드프레스톡 매거진</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-plugins-kr.md" target="_blank" rel="noopener noreferrer"_>한국에서 워드프레스 웹사이트/쇼핑몰 제작할 때 필요한 플러그인 모음 - 워드프레스톡 매거진</a>
-
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-functions-100.md" target="_blank" rel="noopener noreferrer"_>워드프레스 웹사이트 개발/운영시 반드시 알아야 할 함수(Functions) 모음 총정리 - 워드프레스톡 매거진</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-need-wp.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스 사이트/블로그의 필요성을 아직도 못 느끼는 이유 - 워드프레스톡 매거진</a>
@@ -46,6 +44,13 @@
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-page-builder-bad.md" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 빌더 플러그인을 사용하면 안 되는 이유 및 추천 방법 - 워드프레스톡 매거진</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-redweb-create-website.md" target="_blank" rel="noopener noreferrer"_>자체 브랜드 홈페이지와 블로그를 구축해서 운영해야 하는 이유 - 워드프레스톡 매거진</a>
+
+***
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-analytics-frequently-themes.md" target="_blank" rel="noopener noreferrer"_>워드프레스 애널리틱스 자동 분석 툴에서 자주 검색되는 테마 모음 - 워드프레스톡 매거진</a>**
+
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-analytics-frequently-plugins.md" target="_blank" rel="noopener noreferrer"_>워드프레스 애널리틱스 자동 분석 툴에서 자주 검색되는 플러그인 모음 - 워드프레스톡 매거진</a>**
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-plugins-kr.md" target="_blank" rel="noopener noreferrer"_>한국에서 워드프레스 웹사이트/쇼핑몰 제작할 때 필요한 플러그인 모음 - 워드프레스톡 매거진</a>
 
 ***
 **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-learn-from-experts.md" target="_blank" rel="noopener noreferrer"_>워드프레스를 제대로 학습하기 위해 개인 레슨/교육이 필요한 이유 - 워드프레스톡 매거진</a>**
