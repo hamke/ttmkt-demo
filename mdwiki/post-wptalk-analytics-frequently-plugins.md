@@ -24,7 +24,7 @@ tags: 꿀팁
 
 ## ◼︎ 워드프레스 애널리틱스(WordPress Analytics)란?
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-en-image-01-800x510.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 <a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_>워드프레스 애널리틱스(WordPress Analytics)</a>는
 
@@ -32,7 +32,7 @@ tags: 꿀팁
 
 [참고] 워드프레스 애널리틱스(WordPress Analytics) : <a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_>바로 가기</a>
 
-[참고] 워드프레스 애널리틱스(WordPress Analytics) 사용법 : <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>자세히 보기기</a>
+[참고] 워드프레스 애널리틱스(WordPress Analytics) 사용법 : <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>자세히 보기</a>
 
 ***
 
