@@ -1,7 +1,7 @@
-# XXXXXXXXXXXXXXXX - 워드프레스톡
+# [추천] 워드프레스 인기 테마 최신 모음 총정리 : 웹사이트/쇼핑몰  - 워드프레스톡
 
 <!-- ---
-title: "XXXXXXXXXXXXXXXX - 워드프레스톡"
+title: "[추천] 워드프레스 인기 테마 최신 모음 총정리 : 웹사이트/쇼핑몰 - 워드프레스톡"
 description: XXXXXXXXXXXXXXXX
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 feature_img: https://hellotblog.files.wordpress.com/2019/04/wptalk-wordpress-logo-03-800.png
@@ -9,10 +9,17 @@ categories: 꿀팁
 tags: 꿀팁
 --- -->
 
-- [XXXXXXXX](#index-00)
-- [XXXXXXXX](#index-01)
+- [워드프레스 테마 선정이 중요한 이유](#index-00)
+- [1. 디비(Divi)](#index-01)
 - [XXXXXXXX](#index-02)
 - [XXXXXXXX](#index-03)
+- [XXXXXXXX](#index-04)
+- [XXXXXXXX](#index-05)
+- [XXXXXXXX](#index-06)
+- [XXXXXXXX](#index-07)
+- [XXXXXXXX](#index-08)
+- [XXXXXXXX](#index-09)
+- [XXXXXXXX](#index-10)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -20,7 +27,7 @@ tags: 꿀팁
 
 <!-- <a name="index-00"></a> -->
 
-## ◼︎ XXXXXXXXXXXXXXXX
+## ◼︎ 워드프레스 테마 선정이 중요한 이유
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -32,7 +39,7 @@ tags: 꿀팁
 
 <!-- <a name="index-01"></a> -->
 
-## 1. XXXXXXXXXXXXXXXX
+## 1. 디비(Divi)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -46,7 +53,7 @@ tags: 꿀팁
 
 <!-- <a name="index-02"></a> -->
 
-## 2. XXXXXXXXXXXXXXXX
+## 2. 뉴스페이퍼(Newspaper)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
@@ -60,7 +67,105 @@ tags: 꿀팁
 
 <!-- <a name="index-03"></a> -->
 
-## 3. XXXXXXXXXXXXXXXX
+## 3. 아스트라(Astra)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<!-- <a name="index-04"></a> -->
+
+## 4. 엔폴드(Enfold)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<!-- <a name="index-05"></a> -->
+
+## 5. 아바다(Avada)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<!-- <a name="index-06"></a> -->
+
+## 6. 시드니(Sydney)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<!-- <a name="index-07"></a> -->
+
+## 7. 브릿지(Bridge)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<!-- <a name="index-08"></a> -->
+
+## 8. 언코드(Uncode)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<!-- <a name="index-09"></a> -->
+
+## 9. Be 테마 (Be Theme)
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+
+
+***
+
+[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+
+***
+
+<!-- <a name="index-10"></a> -->
+
+## 10. 더세븐(The7)
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 

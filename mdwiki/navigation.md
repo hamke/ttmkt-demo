@@ -47,7 +47,7 @@
 * # 매거진 컨텐츠
 * [워드프레스톡 글 전체 목록](post-all-wptalk.md)
 - - - -
-* <a href="https://whatwpthemeisthat.com/" target="_blank" rel="noopener noreferrer"_>What WP Theme is That</a>
+* <a href="https://app.impact.com/" target="_blank" rel="noopener noreferrer"_>Impact.com</a>
 * <a href="https://generatewp.com/" target="_blank" rel="noopener noreferrer"_>GenerateWP.com</a>
 
 [**트렌드톡**]()
