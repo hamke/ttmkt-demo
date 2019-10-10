@@ -189,7 +189,7 @@ gainNode.connect(audioCtx.destination);
 
 ***
 ```
-$ git init && git add . && git remote add origin url.git && git -v
+$ git init && git add . && git remote add origin url.git && git remote -v
 ```
 ***
 ```
