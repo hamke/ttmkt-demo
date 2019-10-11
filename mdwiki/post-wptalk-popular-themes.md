@@ -44,13 +44,13 @@ tags: 꿀팁
 
 ## 1. 디비 (Divi)
 
-<center><a href="https://www.wp-talk.com/try/theme/divi/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/09/wptalk-divi-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/divi/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/09/wptalk-divi-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+디비(Divi) 테마는 최근 인기가 가장 높은 워드프레스 테마 중 하나입니다.
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **디비(Divi) 테마 : <a href="https://www.wp-talk.com/try/theme/divi/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -58,13 +58,13 @@ tags: 꿀팁
 
 ## 2. 뉴스페이퍼 (Newspaper)
 
-<center><a href="https://www.wp-talk.com/try/theme/newspaper/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-newspaper-theme-screenshot-800x600.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/newspaper/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-newspaper-theme-screenshot-800x600.png" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+뉴스페이퍼(Newspaper) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **뉴스페이퍼(Newspaper) 테마 : <a href="https://www.wp-talk.com/try/theme/newspaper/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -72,13 +72,13 @@ tags: 꿀팁
 
 ## 3. 아스트라 (Astra)
 
-<center><a href="https://www.wp-talk.com/try/theme/astra/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-astra-theme-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/astra/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-astra-theme-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+아스트라(Astra) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **아스트라(Astra) 테마 : <a href="https://www.wp-talk.com/try/theme/astra/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -86,13 +86,13 @@ tags: 꿀팁
 
 ## 4. 엔폴드 (Enfold)
 
-<center><a href="https://www.wp-talk.com/try/theme/enfold/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-enfold-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/enfold/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-enfold-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+엔폴드(Enfold) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **엔폴드(Enfold) 테마 : <a href="https://www.wp-talk.com/try/theme/enfold/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -100,13 +100,13 @@ tags: 꿀팁
 
 ## 5. 아바다 (Avada)
 
-<center><a href="https://www.wp-talk.com/try/theme/avada/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-avada-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/avada/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-avada-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+아바다(Avada) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **아바다(Avada) 테마 : <a href="https://www.wp-talk.com/try/theme/avada/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -114,13 +114,13 @@ tags: 꿀팁
 
 ## 6. 시드니 (Sydney)
 
-<center><a href="https://www.wp-talk.com/try/theme/sydney/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-sydney-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/sydney/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-sydney-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+시드니(Sydney) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **시드니(Sydney) 테마 : <a href="https://www.wp-talk.com/try/theme/sydney/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -128,13 +128,13 @@ tags: 꿀팁
 
 ## 7. 브릿지 (Bridge)
 
-<center><a href="https://www.wp-talk.com/try/theme/bridge/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-bridge-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/bridge/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-bridge-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+브릿지(Bridge) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **브릿지(Bridge) 테마 : <a href="https://www.wp-talk.com/try/theme/bridge/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -142,27 +142,27 @@ tags: 꿀팁
 
 ## 8. 언코드 (Uncode)
 
-<center><a href="https://www.wp-talk.com/try/theme/uncode/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-uncode-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/uncode/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-uncode-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+언코드(Uncode) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **언코드(Uncode) 테마 : <a href="https://www.wp-talk.com/try/theme/uncode/" target="_blank"_>자세히 보기</a>**
 
 ***
 
 <!-- <a name="index-09"></a> -->
 
-## 9. Be 테마 (Be Theme)
+## 9. Be테마 (BeTheme)
 
-<center><a href="https://www.wp-talk.com/try/theme/betheme/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-betheme-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/betheme/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-betheme-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+Be테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **BeTheme 테마 : <a href="https://www.wp-talk.com/try/theme/betheme/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -170,13 +170,13 @@ tags: 꿀팁
 
 ## 10. 더세븐 (The7)
 
-<center><a href="https://www.wp-talk.com/try/theme/the7/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-the7-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/the7/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-the7-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+더세븐(The7) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **더세븐(The7) 테마 : <a href="https://www.wp-talk.com/try/theme/the7/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -184,13 +184,13 @@ tags: 꿀팁
 
 ## 11. 엑스 (X The Theme)
 
-<center><a href="https://www.wp-talk.com/try/theme/x-the-theme/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-x-theme-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/x-the-theme/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-x-theme-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+엑스(X The Theme) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **엑스(X The Theme) 테마 : <a href="https://www.wp-talk.com/try/theme/x-the-theme/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -198,13 +198,13 @@ tags: 꿀팁
 
 ## 12. 플랫썸 (Flatsome)
 
-<center><a href="https://www.wp-talk.com/try/theme/flatsome/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-flatsome-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/flatsome/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-flatsome-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+플랫썸(Flatsome) 테마는
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **플랫썸(Flatsome) 테마 : <a href="https://www.wp-talk.com/try/theme/flatsome/" target="_blank"_>자세히 보기</a>**
 
 ***
 
@@ -212,13 +212,13 @@ tags: 꿀팁
 
 ## 13. 주피터 (Jupiter)
 
-<center><a href="https://www.wp-talk.com/try/theme/jupiter/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-jupiter-screenshot-800x600.jpg" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/try/theme/jupiter/" target="_blank"_><img class="shadow" src="https://hellotblog.files.wordpress.com/2019/10/wptalk-jupiter-screenshot-800x600.jpg" style="max-width:300px;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-
+주피터(Jupiter) 테마는 
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] **주피터(Jupiter) 테마 : <a href="https://www.wp-talk.com/try/theme/jupiter/" target="_blank"_>자세히 보기</a>**
 
 ***
 
