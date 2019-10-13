@@ -37,6 +37,7 @@
 - - - -
 * # 서비스
 * <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 온라인 스쿨</a>
+* <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>워드프레스 : 101</a>
 * <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 레슨</a>
 * <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 119</a>
 - - - -
