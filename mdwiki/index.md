@@ -40,6 +40,32 @@ gainNode.connect(audioCtx.destination);
 </script>
 ```
 ***
+## ◼︎ 매거진
+
+***
+- RSS Tester (RSS2JSON) : <a href="https://www.ttmkt.com/tools/rss-tester/" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+***
+- 꿀템 쇼핑 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-qooltem.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+- 트렌드톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-trendtalk.md" target="_blank" rel="noopener noreferrer"_>링크</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-all-trendtalk.md#-_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%B0%A8%EC%9D%B4%EB%82%98_(StartChina)" target="_blank" rel="noopener noreferrer"_>스타트차이나</a> )
+
+- 마케팅톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-mkttalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+- 레드웹 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-redweb.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+- 워드프레스톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-wptalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+- 차이나톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-chinatalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+- 스토어톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-storetalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+- 코드톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-codetalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+- 랭톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-langtalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
+
+***
+***
 ## ◼︎ 웹앱
 
 ***
@@ -66,7 +92,9 @@ gainNode.connect(audioCtx.destination);
 **◼︎ 워드프레스톡**
 
 ***
-- WordPress Analytics : <a href="https://www.wp-talk.com/app/analytics/" target="_blank"_>www.wp-talk.com/app/analytics/</a> | <a href="https://www.wp-talk.com/kr/app/analytics/" target="_blank"_>www.wp-talk.com/kr/app/analytics/</a>
+- WordPress Analytics : <a href="https://www.wp-talk.com/analytics/" target="_blank"_>www.wp-talk.com/analytics/</a> | <a href="https://www.wp-talk.com/kr/analytics/" target="_blank"_>www.wp-talk.com/kr/analytics/</a>
+
+- WordPress Sale Now : <a href="https://www.wp-talk.com/sale/" target="_blank"_>www.wp-talk.com/sale/</a>
 
 - Child Theme Builder : <a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>www.wp-talk.com/app/child-theme-builder/</a>
 
@@ -137,32 +165,6 @@ gainNode.connect(audioCtx.destination);
 
 ***
 - 전체 온라인 서비스/상품 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-trendtalk-aff-list.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-***
-***
-## ◼︎ 매거진
-
-***
-- RSS Tester (RSS2JSON) : <a href="https://www.ttmkt.com/tools/rss-tester/" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-***
-- 꿀템 쇼핑 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-qooltem.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-- 트렌드톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-trendtalk.md" target="_blank" rel="noopener noreferrer"_>링크</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-all-trendtalk.md#-_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%B0%A8%EC%9D%B4%EB%82%98_(StartChina)" target="_blank" rel="noopener noreferrer"_>스타트차이나</a> )
-
-- 마케팅톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-mkttalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-- 레드웹 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-redweb.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-- 워드프레스톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-wptalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-- 차이나톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-chinatalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-- 스토어톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-storetalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-- 코드톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-codetalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
-
-- 랭톡 매거진 글 전체 목록 : <a href="https://demo.ttmkt.com/mdwiki/#!post-all-langtalk.md" target="_blank" rel="noopener noreferrer"_>링크</a>
 
 ***
 ***
