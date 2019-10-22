@@ -88,7 +88,11 @@ tags: 꿀팁
 
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
-<center><a href="https://www.wp-talk.com/kr/lesson/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/03/classroom-online-wptalk-00-800x500.png" style="max-width:100%;" alt="워드프레스톡 온라인 레슨 강좌 및 강의 교육"></a></center>
+<center><a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-en-image-01-800x510.png" style="max-width:100%;" alt="워드프레스 애널리틱스(WordPress Analytics)"></a></center>
+
+- <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인 정보 간편 확인 방법</a>
+
+- <a href="https://www.wp-talk.com/kr/sale/" target="_blank"_>워드프레스 최신 아이템(테마, 플러그인, 호스팅) 실시간 할인/무료 정보 모음</a>
 
 - <a href="https://www.wp-talk.com/kr/lesson/" target="_blank"_>워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업, <span class="post-year"></span>년 <span class="post-month"></span>월)</a>
 
@@ -103,8 +107,6 @@ tags: 꿀팁
 - <a href="https://www.wp-talk.com/try/theme/best/" target="_blank"_>워드프레스 테마 주간 판매 순위 실시간 확인하기</a>
 
 - <a href="https://www.wp-talk.com/try/plugin/best/" target="_blank"_>워드프레스 플러그인 주간 판매 순위 실시간 확인하기</a>
-
-- <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성 방법</a>
 
@@ -133,6 +135,9 @@ tags: 꿀팁
 
 ***
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+
+***
+<center><a href="https://www.wp-talk.com/kr/sale/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-sale-now-image-01-800x560.png" style="max-width:100%;" alt="워드프레스 최신 테마/플러그인/호스팅 실시간 할인/무료 정보 모음(WordPress Item Sale Now)"></a></center>
 
 ***
 <div class="focus-zone-center">
