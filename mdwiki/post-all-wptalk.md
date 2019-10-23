@@ -118,7 +118,7 @@
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-theme-autumn.md" target="_blank" rel="noopener noreferrer"_>중국 워드프레스(WP) 웹사이트를 위한 추천 테마 : Autumn - 워드프레스톡/트렌드톡 매거진</a>
 
 ***
-<a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-banner-02-966x200.png)</a>
+<a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-banner-girl-01-966x200.png)</a>
 
 ***
 ## ◼︎ 워드프레스톡 매거진
@@ -178,7 +178,7 @@ x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" r
 [추천] <a href="https://coupa.ng/bgHPKq" target="_blank" rel="noopener noreferrer"_>**웹프로그래밍 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)**</a>
 
 ***
-<a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-banner-02-966x200.png)</a>
+<a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-banner-girl-01-966x200.png)</a>
 
 ***
 ## ◼︎ 워드프레스톡 온라인 스쿨
@@ -269,7 +269,7 @@ x [참고] <a href="https://blog.naver.com/wp-kr/221467458596" target="_blank" r
 x [참고] <a href="https://blog.naver.com/mkttalk/221412456007" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 웹사이트/홈페이지/쇼핑몰 개발을 위한 꿀팁 가이드 모음 서비스 소개 - 마케팅톡 (네이버 블로그)</a>
 
 ***
-<a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-banner-02-966x200.png)</a>
+<a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-banner-girl-01-966x200.png)</a>
 
 ***
 ## ◼︎ 워드프레스톡 개발 대행 및 교육 사례
