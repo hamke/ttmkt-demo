@@ -4,7 +4,7 @@
 title: "XXXXXXXXXXXXXXXX - 워드프레스톡"
 description: XXXXXXXXXXXXXXXX
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
-feature_img: https://hellotblog.files.wordpress.com/2019/04/wptalk-wordpress-logo-03-800.png
+feature_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-01-800x400.jpg
 categories: 꿀팁
 tags: 꿀팁
 --- -->
@@ -90,7 +90,9 @@ tags: 꿀팁
 
 <center><a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-en-image-01-800x510.png" style="max-width:100%;" alt="워드프레스 애널리틱스(WordPress Analytics)"></a></center>
 
-- <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인 정보 간편 확인 방법</a>
+- <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 (WordPress Analytics) : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인, 제작사 정보 간편 확인 방법</a>
+
+- <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>워드프레스 실시간 할인 정보 (WordPress Sale Now) : 프리미엄 테마/플러그인/호스팅 프로모션 정보 간편 확인 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/sale/" target="_blank"_>워드프레스 최신 아이템(테마, 플러그인, 호스팅) 실시간 할인/무료 정보 모음</a>
 
@@ -98,15 +100,17 @@ tags: 꿀팁
 
 - <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리</a>
 
+- <a href="https://news.wp-talk.com/wordpress-themeforest-envato-register/" target="_blank"_>테마포레스트(Themeforest) 회원 가입 및 워드프레스 테마/플러그인 간편 구입 방법</a>
+
 - <a href="https://www.wp-talk.com/kr/119/" target="_blank"_>워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/must-read/" target="_blank"_>워드프레스(WP) 초보자가 알아두면 좋은 추천 글 모음</a>
 
 - <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
-- <a href="https://www.wp-talk.com/try/theme/best/" target="_blank"_>워드프레스 테마 주간 판매 순위 실시간 확인하기</a>
+- <a href="https://www.wp-talk.com/go/theme/best/" target="_blank"_>워드프레스 테마 주간 판매 순위 실시간 확인하기</a>
 
-- <a href="https://www.wp-talk.com/try/plugin/best/" target="_blank"_>워드프레스 플러그인 주간 판매 순위 실시간 확인하기</a>
+- <a href="https://www.wp-talk.com/go/plugin/best/" target="_blank"_>워드프레스 플러그인 주간 판매 순위 실시간 확인하기</a>
 
 - <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성 방법</a>
 
@@ -147,6 +151,20 @@ tags: 꿀팁
 **<a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>워드프레스 차일드 테마 빌더(WordPress Child Theme Builder)<br>www.wp-talk.com/app/child-theme-builder/</a>**
 
 </div>
+
+***
+
+<!-- Google Adsense (WP-TALK : Middle) : Start -->
+<ins class="adsbygoogle"
+   style="display:block"
+   data-ad-client="ca-pub-1087484447886876"
+   data-ad-slot="8762487232"
+   data-ad-format="auto"
+   data-full-width-responsive="false"></ins>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<!-- Google Adsense (WP-TALK : Middle) : End -->
 
 ***
 |분류|이름|링크|

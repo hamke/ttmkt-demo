@@ -136,12 +136,16 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스톡 매거진**</a>
 
+[참고] <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>**워드프레스 실시간 할인 정보 : 테마/플러그인/호스팅 프로모션 정보 간편 확인 방법 - 워드프레스톡 매거진**</a>
+
 [참고] <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
 
 ***
 [참고] <a href="https://news.wp-talk.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 : 테마포레스트(Themeforest) - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-talk.com/wordpress-themeforest-envato-register/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 회원 가입 및 테마/플러그인 구입 방법 - 워드프레스톡 매거진</a>
+
+[참고] <a href="https://news.wp-talk.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 - 워드프레스톡 매거진</a>
 
 [참고] <a href="https://news.wp-talk.com/wordpress-install-local-computer-bitnami/" target="_blank" rel="noopener noreferrer"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami) - 워드프레스톡 매거진</a>
 
@@ -384,7 +388,7 @@ curl "https://openapi.naver.com/v1/search/news.xml?query=%EC%A4%91%EA%B5%AD&disp
 <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/03/classroom-online-wptalk-00-800x500.png)</a>
 
 ***
-<a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-en-image-01-800x510.png)</a>
+<a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-analytics-intro-01-800x530.png)</a>
 
 ***
 <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-sale-now-image-01-800x560.png)</a>
