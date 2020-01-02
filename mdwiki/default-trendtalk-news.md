@@ -43,6 +43,8 @@
 
 - <a href="https://www.trendtalk.kr/must-read/china/" target="_blank"_>중국 온라인 마케팅 및 비즈니스에 도움이 되는 필독 추천 글 모음</a>
 
+- <a href="https://www.chinatalk.net/" target="_blank"_>차이나톡 : 중국 생활 및 비즈니스 실전 꿀팁 정보 공유 온라인 커뮤니티</a>
+
 - <a href="https://news.trendtalk.kr/why-china-virtual-phone-number-important/" target="_blank"_>중국 사이트 가입시 가상 전화 번호를 사용해야 하는 이유</a>
 
 - <a href="https://news.trendtalk.kr/free-vpn-dangerous-china-startchina/" target="_blank"_>중국에서 무료 VPN을 함부로 사용하면 안 되는 이유</a>

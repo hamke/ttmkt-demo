@@ -6,6 +6,9 @@
 **◼︎ 차이나톡 (ChinaTalk) - <a href="https://www.chinatalk.net/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://service.chinatalk.net/" target="_blank" rel="noopener noreferrer"_>서비스</a> | <a href="https://www.chinatalk.net/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.chinatalk.net/brunch/" target="_blank" rel="noopener noreferrer"_>브런치</a> | <a href="https://www.chinatalk.net/fb.kr/" target="_blank" rel="noopener noreferrer"_>페이스북</a>**
 
 ***
+[참고] **<a href="https://www.chinatalk.net/" target="_blank" rel="noopener noreferrer"_>차이나톡 : 중국 생활 및 비즈니스 실전 꿀팁 정보 공유 온라인 커뮤니티</a>**
+
+***
 x [참고] <a href="https://blog.naver.com/chinatalks/221374979064" target="_blank" rel="noopener noreferrer"_>중국 여행/출장 전 미리 준비해야 할 필수 모바일 앱(어플리케이션) 리스트 - 네이버 블로그 (차이나톡)</a>
 
 x [참고] <a href="https://blog.naver.com/chinatalks/221354348537" target="_blank" rel="noopener noreferrer"_>중국 사이트 가입할 때 한국 핸드폰 전화 번호를 입력하지 마세요 - 네이버 블로그 (차이나톡)</a>
