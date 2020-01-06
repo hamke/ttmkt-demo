@@ -69,19 +69,21 @@ gainNode.connect(audioCtx.destination);
 ## ◼︎ 웹앱
 
 ***
-**◼︎ 트렌드톡/스타트차이나**
+**◼︎ 차이나톡/스타트차이나**
 
 ***
-- 이센더(eSender) : <a href="https://www.esenderchina.com/" target="_blank"_>www.esenderchina.com</a>
+- 차이나톡(ChinaTalk) : <a href="https://www.chinatalk.net/" target="_blank"_>www.chinatalk.net</a>
 
 - 스타트차이나 : <a href="https://www.startchina.kr/" target="_blank"_>www.startchina.kr</a>
+
+- 이센더(eSender) : <a href="https://www.esenderchina.com/" target="_blank"_>www.esenderchina.com</a>
 
 - China Web Speed : <a href="https://www.ttmkt.com/tools/china-web-speed/" target="_blank"_>www.ttmkt.com/tools/china-web-speed/</a>
 
 - China Search : <a href="https://www.ttmkt.com/search/" target="_blank"_>www.ttmkt.com/search/</a>
 
 ***
-**◼︎ 마케팅톡**
+**◼︎ 트렌드톡/마케팅톡**
 
 ***
 - UTM Builder ; <a href="https://www.ttmkt.com/tools/utm/" target="_blank"_>www.ttmkt.com/tools/utm/</a>
@@ -92,9 +94,9 @@ gainNode.connect(audioCtx.destination);
 **◼︎ 워드프레스톡**
 
 ***
-- WordPress Analytics : <a href="https://www.wp-talk.com/analytics/" target="_blank"_>www.wp-talk.com/analytics/</a> | <a href="https://www.wp-talk.com/kr/analytics/" target="_blank"_>www.wp-talk.com/kr/analytics/</a>
+- WordPress Analytics : <a href="https://www.wp-data.com/" target="_blank"_>www.wp-data.com</a> | <a href="https://www.wp-data.com/kr/" target="_blank"_>www.wp-data.com/kr/</a>
 
-- WordPress Sale Now : <a href="https://www.wp-talk.com/sale/" target="_blank"_>www.wp-talk.com/sale/</a>
+- WordPress Sale Now : <a href="https://www.wpsalenow.com/" target="_blank"_>www.wpsalenow.com</a> | <a href="https://www.wpsalenow.com/kr/" target="_blank"_>www.wpsalenow.com/kr/</a>
 
 - Child Theme Builder : <a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>www.wp-talk.com/app/child-theme-builder/</a>
 
