@@ -109,6 +109,6 @@ curl "https://openapi.naver.com/v1/search/news.xml?query=%EC%A4%91%EA%B5%AD&disp
 <a href="https://www.chinatalk.net/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2020/01/chinatalk-intro-image-01-800x500-1.png)</a>
 
 ***
-<a href="https://www.chinatalk.net/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2018/10/chinatalk-cover-01-966x200.jpg#full#full)</a>
+<a href="https://www.chinatalk.net/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2020/01/chinatalk-banner-01-966x200-1.png)</a>
 
 ***
