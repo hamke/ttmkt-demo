@@ -41,6 +41,8 @@
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bad-website.md" target="_blank" rel="noopener noreferrer"_>엉터리로 제작된 WP 홈페이지의 공통점과 웹사이트 개발/수정 대행 업체의 특징 - 워드프레스톡 매거진</a>
 
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bad-content.md" target="_blank" rel="noopener noreferrer"_>워드프레스 엉터리 블로그/카페/지식인/강의 정보를 조심해야 하는 이유 - 워드프레스톡 매거진</a>
+
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-page-builder-bad.md" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 빌더 플러그인을 사용하면 안 되는 이유 및 추천 방법 - 워드프레스톡 매거진</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-redweb-create-website.md" target="_blank" rel="noopener noreferrer"_>자체 브랜드 홈페이지와 블로그를 구축해서 운영해야 하는 이유 - 워드프레스톡 매거진</a>

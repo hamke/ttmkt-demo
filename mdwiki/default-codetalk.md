@@ -51,6 +51,8 @@
 
 [참고] <a href="https://news.codetalk.kr/wordpress-login-custom-logo-codetalk/" rel="noopener noreferrer" target="_blank"_>워드프레스 로그인 페이지의 WP 로고를 내 브랜드 로고로 변경하는 방법</a>
 
+[참고] <a href="https://coupa.ng/bgOdk3" target="_blank"_>최신 노트북/컴퓨터 추천 상품 목록 보러 가기 - 쿠팡(웹/모바일앱)</a>
+
 ***
 **코드톡**은 **누구나 쉽게 활용할 수 있는 코딩 관련 꿀팁 및 최신 IT 프로그래밍 정보**를 소개해 드립니다. ( <a href="https://www.codetalk.kr/kakao/" rel="noopener noreferrer" target="_blank"_>제휴 및 교육, 기타 문의 (카카오톡)</a> )
 

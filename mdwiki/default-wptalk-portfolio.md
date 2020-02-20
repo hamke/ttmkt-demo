@@ -58,6 +58,8 @@
 
 [추천] <a href="https://coupa.ng/bgHJQN" rel="noopener noreferrer" target="_blank"_>워드프레스(WP) 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
+[추천] <a href="https://coupa.ng/bgOdk3" target="_blank"_>최신 노트북/컴퓨터 추천 상품 목록 보러 가기 - 쿠팡(웹/모바일앱)</a>
+
 ***
 ***
 ***

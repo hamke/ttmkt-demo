@@ -100,6 +100,8 @@ tags: 꿀팁
 
 [추천] <a href="https://coupa.ng/bgHKbz" target="_blank"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
+[추천] <a href="https://coupa.ng/bgOdk3" target="_blank"_>최신 노트북/컴퓨터 추천 상품 목록 보러 가기 - 쿠팡(웹/모바일앱)</a>
+
 ***
 
 <center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK)"></a></center>

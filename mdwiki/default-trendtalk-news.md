@@ -67,6 +67,36 @@
 
 - <a href="https://coupa.ng/bgHJOg" target="_blank"_>구글 애널리틱스 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
+- <a href="https://coupa.ng/bhsHid" target="_blank"_>샤오미 추천 상품 최신 목록 보러 가기 - 쿠팡(웹/모바일앱)</a>
+
+- <a href="https://coupa.ng/bgOdk3" target="_blank"_>최신 노트북/컴퓨터 추천 상품 목록 보러 가기 - 쿠팡(웹/모바일앱)</a>
+
+<div id="chinatalk-data"></div>
+
+<script type="text/javascript">
+
+const feedUrl = "https://www.chinatalk.net/wp-json/wp/v2/kboard/";
+
+fetch(feedUrl)
+.then(res => res.json())
+.then(wptalk_result => {
+  wptalk_result.sort(() => Math.random() - Math.random()).slice(0, 5);
+  let output =
+    '<hr><ul>';
+  for ( i = 0; i < 5; i++ ) {
+    var item = wptalk_result[i];
+    output +=
+      '<li><a href="' + item.link + '" target="_blank"_>' +
+      item.title.rendered +
+      ' - 차이나톡' +
+      '</a></li>';
+  }
+  output += '</ul>';
+  document.getElementById('chinatalk-data').innerHTML = output;
+});
+
+</script>
+
 ***
 **트렌드톡(TrendTalk)** 은 **글로벌 비즈니스 및 마케팅에 유용한 각종 서비스 및 꿀팁**을 소개해 드립니다.
 **문의 사항(제휴 및 교육, 서비스 문의 등)** 이 있으시면, **<a href="https://www.ttmkt.com/kakao/" target="_blank"_>카카오톡</a>** 으로 연락 주세요.
