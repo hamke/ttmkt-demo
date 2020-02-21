@@ -92,7 +92,7 @@ tags: 꿀팁
 
 - <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 (WordPress Analytics) : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인, 제작사 정보 간편 확인 방법</a>
 
-- <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>워드프레스 실시간 할인 정보 (WordPress Sale Now) : 프리미엄 테마/플러그인/호스팅 프로모션 정보 간편 확인 방법</a>
+- <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>워드프레스 세일 나우(WordPress Sale Now) : 프리미엄 테마/플러그인/호스팅 할인 프로모션 정보 간편 확인 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/sale/" target="_blank"_>워드프레스 최신 아이템(테마, 플러그인, 호스팅) 실시간 할인/무료 정보 모음</a>
 
