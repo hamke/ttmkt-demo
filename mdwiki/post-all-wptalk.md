@@ -178,6 +178,9 @@
 [참고] <a href="https://news.trendtalk.kr/bluehost-china-hongkong-hosting-register/" target="_blank" rel="noopener noreferrer"_>블루호스트 차이나(Bluehost China)로 홍콩 및 중국 호스팅 서비스 활용하는 방법 - 트렌드톡 매거진</a>
 
 ***
+[참고] <a href="https://news.mkttalk.com/entry/wordpress-analytics-theme-plugins-hosting" target="_blank" rel="noopener noreferrer"_>"워드프레스 애널리틱스"로 사이트 테마/플러그인/호스팅/제작회사 정보 간편 조회 방법 - 마케팅톡 매거진</a>
+
+***
 x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" rel="noopener noreferrer"_>중국 워드프레스 웹사이트 제작을 위해 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스톡 (네이버 블로그)</a>
 
 x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 디자인 및 템플릿 수정을 위해 알아야 할 것들 – 워드프레스톡 (네이버 블로그)</a>
