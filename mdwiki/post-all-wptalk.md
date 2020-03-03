@@ -145,6 +145,10 @@
 ***
 [참고] <a href="https://news.wp-talk.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
 
+[참고] <a href="https://www.wp-talk.com/go/bluehost/sites/" target="_blank" rel="noopener noreferrer"_>블루호스트(Bluehost) 호스팅 사용중인 워드프레스 사이트 모음</a>
+
+[참고] <a href="https://www.wp-talk.com/go/siteground/sites/" target="_blank" rel="noopener noreferrer"_>사이트그라운드(SiteGround) 호스팅 사용중인 워드프레스 사이트 모음</a>
+
 [참고] <a href="https://news.wp-talk.com/wordpress-themeforest-envato-register/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 회원 가입 및 테마/플러그인 구입 방법 - 워드프레스톡 매거진</a>
 
 [참고] <a href="https://news.wp-talk.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 - 워드프레스톡 매거진</a>
