@@ -133,7 +133,7 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/must-know-service/" target="_blank"_>**워드프레스 사이트 제작할 때 알아야 할 온라인 툴 서비스 모음 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/must-know-services/" target="_blank"_>**워드프레스 사이트 제작할 때 알아야 할 온라인 툴 서비스 모음 - 워드프레스톡 매거진**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스톡 매거진**</a>
 
