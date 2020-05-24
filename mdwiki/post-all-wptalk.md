@@ -15,9 +15,6 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-errors.md" target="_blank" rel="noopener noreferrer"_>워드프레스 자주 발생하는 오류(에러) 및 해결 방법 모음 총정리</a>**
 
 ***
-**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-online-tools.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사이트 운영시 알아두면 좋은 무료 온라인 툴 서비스 모음</a>**
-
-***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-functions-usage.md" target="_blank" rel="noopener noreferrer"_>워드프레스 사용할 때 반드시 알아둬야 할 액션/필터 훅(Hooks) 코드 스니펫 입력 방법</a>**
 
 ***
@@ -135,6 +132,8 @@
 [참고] <a href="https://www.wp-talk.com/kr/119/" target="_blank"_>**워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법 - 워드프레스톡 문제 해결 서비스**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
+
+[참고] <a href="https://www.wp-talk.com/kr/must-know-service/" target="_blank"_>**워드프레스 사이트 제작할 때 알아야 할 온라인 툴 서비스 모음</a>**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스톡 매거진**</a>
 
