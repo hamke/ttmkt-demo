@@ -88,17 +88,21 @@ tags: 꿀팁
 
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
-<center><a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-analytics-en-image-01-800x510.png" style="max-width:100%;" alt="워드프레스 애널리틱스(WordPress Analytics)"></a></center>
+<center><a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-analytics-intro-01-800x530.png" style="max-width:100%;" alt="워드프레스 애널리틱스(WordPress Analytics)"></a></center>
 
 - <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 (WordPress Analytics) : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인, 제작사 정보 간편 확인 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>워드프레스 세일 나우(WordPress Sale Now) : 프리미엄 테마/플러그인/호스팅 할인 프로모션 정보 간편 확인 방법</a>
+
+- <a href="http://www.wp-viewer.com/" target="_blank"_>워드프레스 사이트 랜덤 뷰어(WordPress Sites Random Viewer) : 워드프레스로 제작된 전세계 사이트 사례 모음 간편 확인 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/sale/" target="_blank"_>워드프레스 최신 아이템(테마, 플러그인, 호스팅) 실시간 할인/무료 정보 모음</a>
 
 - <a href="https://www.wp-talk.com/kr/lesson/" target="_blank"_>워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업, <span class="post-year"></span>년 <span class="post-month"></span>월)</a>
 
 - <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리</a>
+
+- <a href="https://www.wp-talk.com/kr/examples/" target="_blank"_>워드프레스로 제작된 사이트 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a>
 
 - <a href="https://news.wp-talk.com/wordpress-themeforest-envato-register/" target="_blank"_>테마포레스트(Themeforest) 회원 가입 및 워드프레스 테마/플러그인 간편 구입 방법</a>
 
