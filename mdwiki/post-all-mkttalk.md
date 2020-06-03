@@ -11,6 +11,8 @@
 **[필수] <a href="https://www.mkttalk.com/must-read/" target="_blank" rel="noopener noreferrer"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음 - 마케팅톡 매거진</a> ( <a href="https://blog.naver.com/mkttalk/221454174310" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> )**
 
 ***
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-news-wordpress-examples.md" target="_blank" rel="noopener noreferrer"_>워드프레스로 만든 사이트 최신 사례/예시 모음 (한국/일본/중국 등) - 마케팅톡 매거진</a>
+
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-google-seo.md" target="_blank" rel="noopener noreferrer"_>구글 검색엔진최적화(SEO) 필수 요소 체크리스트 및 최신 꿀팁 모음 총정리 - 트렌드톡 매거진</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-site-speed.md" target="_blank" rel="noopener noreferrer"_>내 웹사이트 로딩 속도를 무료로 측정 및 테스트할 수 있는 온라인 서비스 모음 - 마케팅톡 매거진</a>
