@@ -139,7 +139,7 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/must-know-services/" target="_blank"_>**워드프레스 사이트 제작할 때 알아야 할 온라인 툴 서비스 모음 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/must-know-services/" target="_blank"_>**워드프레스 사이트 제작할 때 알아야 할 필수 온라인 툴 서비스 모음 - 워드프레스톡 매거진**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/examples/" target="_blank" rel="noopener noreferrer"_>**워드프레스로 제작된 사이트 최신 사례/예시 모음 (한국/일본/중국/미국/유럽 등) - 워드프레스톡 매거진**</a>
 
