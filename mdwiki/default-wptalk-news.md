@@ -112,6 +112,8 @@ tags: 꿀팁
 
 - <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
+- <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법</a>
+
 - <a href="https://www.wp-talk.com/go/theme/best/" target="_blank"_>워드프레스 테마 주간 판매 순위 실시간 확인하기</a>
 
 - <a href="https://www.wp-talk.com/go/plugin/best/" target="_blank"_>워드프레스 플러그인 주간 판매 순위 실시간 확인하기</a>
