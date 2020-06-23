@@ -145,6 +145,8 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>**워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법**</a>
 
+[참고] <a href="https://www.wp-talk.com/kr/subscribe/" target="_blank"_>**워드프레스 최신 뉴스 및 꿀팁 정보 구독하기 : www.wp-talk.com/kr/subscribe/**</a>
+
 ***
 [참고] <a href="https://news.wp-talk.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
 
