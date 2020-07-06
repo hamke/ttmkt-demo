@@ -1,4 +1,4 @@
-# 워드프레스톡 매거진 : 전체 글 목록
+# 워드프레스웹코리아 : 전체 글 목록
 ***
 ## ◼︎ 워드프레스톡 (WP-TALK.COM)
 
@@ -6,7 +6,7 @@
 **◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>101</a> | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-kr.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
-**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 설치 방법 및 기본 사용법 최신 가이드 - 워드프레스톡 매거진</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
+**(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 설치 방법 및 기본 사용법 최신 가이드 - 워드프레스웹코리아</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
 
 ***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hr-tips.md" target="_blank" rel="noopener noreferrer"_>워드프레스 담당 직원의 실력 판단 방법 및 채용시 주의 사항</a>**
@@ -24,77 +24,77 @@
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-checklist-when-error.md" target="_blank" rel="noopener noreferrer"_>워드프레스 문제 발생시 우선 확인해야 할 기본 요소 체크리스트</a>**
 
 ***
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-popular-plugins.md" target="_blank" rel="noopener noreferrer"_>워드프레스 플러그인 실시간 인기 플러그인 순위 TOP 20 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-popular-plugins.md" target="_blank" rel="noopener noreferrer"_>워드프레스 플러그인 실시간 인기 플러그인 순위 TOP 20 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-dashicons.md" target="_blank" rel="noopener noreferrer"_>워드프레스 대시아이콘(Dashicons)으로 아이콘 폰트 간편 활용 방법 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-dashicons.md" target="_blank" rel="noopener noreferrer"_>워드프레스 대시아이콘(Dashicons)으로 아이콘 폰트 간편 활용 방법 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-kboard-tips.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 케이보드(KBoard) 한국형 게시판 플러그인 자주 찾는 질문(FAQ) 및 꿀팁 모음 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-kboard-tips.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 케이보드(KBoard) 한국형 게시판 플러그인 자주 찾는 질문(FAQ) 및 꿀팁 모음 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-functions-100.md" target="_blank" rel="noopener noreferrer"_>워드프레스 웹사이트 개발/운영시 반드시 알아야 할 함수(Functions) 모음 총정리 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-functions-100.md" target="_blank" rel="noopener noreferrer"_>워드프레스 웹사이트 개발/운영시 반드시 알아야 할 함수(Functions) 모음 총정리 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-need-wp.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스 사이트/블로그의 필요성을 아직도 못 느끼는 이유 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-need-wp.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스 사이트/블로그의 필요성을 아직도 못 느끼는 이유 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-adsense-ads-txt.md" target="_blank" rel="noopener noreferrer"_>워드프레스의 구글 애드센스 수익이 티스토리보다 높은 이유 : ads.txt - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-adsense-ads-txt.md" target="_blank" rel="noopener noreferrer"_>워드프레스의 구글 애드센스 수익이 티스토리보다 높은 이유 : ads.txt - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bad-website.md" target="_blank" rel="noopener noreferrer"_>엉터리로 제작된 WP 홈페이지의 공통점과 웹사이트 개발/수정 대행 업체의 특징 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bad-website.md" target="_blank" rel="noopener noreferrer"_>엉터리로 제작된 WP 홈페이지의 공통점과 웹사이트 개발/수정 대행 업체의 특징 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bad-content.md" target="_blank" rel="noopener noreferrer"_>워드프레스 엉터리 블로그/카페/지식인/강의 정보를 조심해야 하는 이유 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bad-content.md" target="_blank" rel="noopener noreferrer"_>워드프레스 엉터리 블로그/카페/지식인/강의 정보를 조심해야 하는 이유 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-page-builder-bad.md" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 빌더 플러그인을 사용하면 안 되는 이유 및 추천 방법 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-page-builder-bad.md" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 빌더 플러그인을 사용하면 안 되는 이유 및 추천 방법 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-redweb-create-website.md" target="_blank" rel="noopener noreferrer"_>자체 브랜드 홈페이지와 블로그를 구축해서 운영해야 하는 이유 - 워드프레스톡 매거진</a>
-
-***
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-analytics-frequently-themes.md" target="_blank" rel="noopener noreferrer"_>워드프레스 애널리틱스 자동 분석 툴에서 자주 검색되는 테마 모음 - 워드프레스톡 매거진</a>**
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-popular-themes.md" target="_blank" rel="noopener noreferrer"_>워드프레스 인기 테마 최신 모음 총정리 : 웹사이트/쇼핑몰 - 워드프레스톡 매거진</a>
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-how-choose-theme.md" target="_blank" rel="noopener noreferrer"_>가성비 좋은 워드프레스 테마 선택하는 방법 - 워드프레스톡 매거진</a>
-
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-analytics-frequently-plugins.md" target="_blank" rel="noopener noreferrer"_>워드프레스 애널리틱스 자동 분석 툴에서 자주 검색되는 플러그인 모음 - 워드프레스톡 매거진</a>**
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-plugins-kr.md" target="_blank" rel="noopener noreferrer"_>한국에서 워드프레스 웹사이트/쇼핑몰 제작할 때 필요한 플러그인 모음 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-redweb-create-website.md" target="_blank" rel="noopener noreferrer"_>자체 브랜드 홈페이지와 블로그를 구축해서 운영해야 하는 이유 - 워드프레스웹코리아</a>
 
 ***
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-learn-from-experts.md" target="_blank" rel="noopener noreferrer"_>워드프레스를 제대로 학습하기 위해 개인 레슨/교육이 필요한 이유 - 워드프레스톡 매거진</a>**
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-analytics-frequently-themes.md" target="_blank" rel="noopener noreferrer"_>워드프레스 애널리틱스 자동 분석 툴에서 자주 검색되는 테마 모음 - 워드프레스웹코리아</a>**
 
-- **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-learn-worpdress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 강좌/레슨 학습 전 알아야 할 점 및 주의 사항 - 워드프레스톡 매거진</a>**
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-popular-themes.md" target="_blank" rel="noopener noreferrer"_>워드프레스 인기 테마 최신 모음 총정리 : 웹사이트/쇼핑몰 - 워드프레스웹코리아</a>
 
-- **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-good-for-coding-starter.md" target="_blank" rel="noopener noreferrer"_>웹 프로그래밍(코딩) 학습을 시작할 때 워드프레스가 좋은 이유 - 워드프레스톡 매거진</a>**
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-how-choose-theme.md" target="_blank" rel="noopener noreferrer"_>가성비 좋은 워드프레스 테마 선택하는 방법 - 워드프레스웹코리아</a>
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-must-tools-before-learn.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발/학습 전 설치해야 하는 무료 소프트웨어 모음 - 워드프레스톡 매거진</a>
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-analytics-frequently-plugins.md" target="_blank" rel="noopener noreferrer"_>워드프레스 애널리틱스 자동 분석 툴에서 자주 검색되는 플러그인 모음 - 워드프레스웹코리아</a>**
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-cannot.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스(WP)를 여전히 제대로 활용하지 못 하는 이유 - 워드프레스톡 매거진</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-plugins-kr.md" target="_blank" rel="noopener noreferrer"_>한국에서 워드프레스 웹사이트/쇼핑몰 제작할 때 필요한 플러그인 모음 - 워드프레스웹코리아</a>
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wpt-website-beginner.md" target="_blank" rel="noopener noreferrer"_>초보자를 위한 웹사이트/홈페이지(워드프레스) 제작 기초 가이드 총정리 - 워드프레스톡 매거진</a>
+***
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-learn-from-experts.md" target="_blank" rel="noopener noreferrer"_>워드프레스를 제대로 학습하기 위해 개인 레슨/교육이 필요한 이유 - 워드프레스웹코리아</a>**
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-custom-lesson.md" target="_blank" rel="noopener noreferrer"_>워드프레스 테마 디자인 및 페이지 템플릿 수정하는 방법 - 워드프레스톡 매거진</a>
+- **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-learn-worpdress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 강좌/레슨 학습 전 알아야 할 점 및 주의 사항 - 워드프레스웹코리아</a>**
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>워드프레스 설치 방법 및 기초 입문 상식 최신 가이드 - 워드프레스톡 매거진</a>
+- **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-good-for-coding-starter.md" target="_blank" rel="noopener noreferrer"_>웹 프로그래밍(코딩) 학습을 시작할 때 워드프레스가 좋은 이유 - 워드프레스웹코리아</a>**
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson-how.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 좋은 강의 선택하는 방법 (엉터리 강좌들의 특징) - 워드프레스톡 매거진</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-must-tools-before-learn.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발/학습 전 설치해야 하는 무료 소프트웨어 모음 - 워드프레스웹코리아</a>
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-learn-wp.md" target="_blank" rel="noopener noreferrer"_>창업 전에 워드프레스(WP)를 반드시 학습해 둬야 하는 이유 - 워드프레스톡 매거진</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-you-cannot.md" target="_blank" rel="noopener noreferrer"_>당신이 워드프레스(WP)를 여전히 제대로 활용하지 못 하는 이유 - 워드프레스웹코리아</a>
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-self-study-bad.md" target="_blank" rel="noopener noreferrer"_>(초보자들이) 워드프레스를 혼자 학습(독학)할 수 있다고 착각하는 이유 - 워드프레스톡 매거진</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wpt-website-beginner.md" target="_blank" rel="noopener noreferrer"_>초보자를 위한 웹사이트/홈페이지(워드프레스) 제작 기초 가이드 총정리 - 워드프레스웹코리아</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-custom-lesson.md" target="_blank" rel="noopener noreferrer"_>워드프레스 테마 디자인 및 페이지 템플릿 수정하는 방법 - 워드프레스웹코리아</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>워드프레스 설치 방법 및 기초 입문 상식 최신 가이드 - 워드프레스웹코리아</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson-how.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 좋은 강의 선택하는 방법 (엉터리 강좌들의 특징) - 워드프레스웹코리아</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-learn-wp.md" target="_blank" rel="noopener noreferrer"_>창업 전에 워드프레스(WP)를 반드시 학습해 둬야 하는 이유 - 워드프레스웹코리아</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-self-study-bad.md" target="_blank" rel="noopener noreferrer"_>(초보자들이) 워드프레스를 혼자 학습(독학)할 수 있다고 착각하는 이유 - 워드프레스웹코리아</a>
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-school-wordpress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 활용 : 워드프레스 코어/플러그인/테마 구조 및 작동 원리 파악하기 - 워드프레스톡(WP-TALK.COM)</a>
 
 ***
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hosting-select.md" target="_blank" rel="noopener noreferrer"_>워드프레스 호스팅 신규 구입할 때 알아둬야 할 체크리스트 및 추천 서비스 - 워드프레스톡 매거진</a>**
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hosting-select.md" target="_blank" rel="noopener noreferrer"_>워드프레스 호스팅 신규 구입할 때 알아둬야 할 체크리스트 및 추천 서비스 - 워드프레스웹코리아</a>**
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hosting-why.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)에 최적화된 호스팅 서비스를 사용해야 하는 이유 - 워드프레스톡 매거진</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hosting-why.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)에 최적화된 호스팅 서비스를 사용해야 하는 이유 - 워드프레스웹코리아</a>
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-siteground-install.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)를 사이트그라운드(SiteGround) 호스팅에서 간편 설치하는 방법 - 워드프레스톡 매거진</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-siteground-install.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)를 사이트그라운드(SiteGround) 호스팅에서 간편 설치하는 방법 - 워드프레스웹코리아</a>
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bluehost-install.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)를 블루호스트(Bluehost) 호스팅에서 간편 설치하는 방법 - 워드프레스톡 매거진</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-bluehost-install.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)를 블루호스트(Bluehost) 호스팅에서 간편 설치하는 방법 - 워드프레스웹코리아</a>
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-bluehost-beginner.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 블루호스트(Bluehost) 호스팅을 이용해야 하는 이유 - 트렌드톡 매거진</a>
 
 ***
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-monetization.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)로 수익화하는 방법 총정리 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-monetization.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP)로 수익화하는 방법 총정리 - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-books.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습을 위한 추천 책 총정리 - 워드프레스톡 매거진</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-books.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습을 위한 추천 책 총정리 - 워드프레스웹코리아</a>
 
 ***
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-comparison.md" target="_blank" rel="noopener noreferrer"_>블로그 비교하기 : Naver vs Tistory vs WP - 워드프레스톡(WP-TALK.COM)</a>
@@ -102,10 +102,10 @@
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-school-website.md" target="_blank" rel="noopener noreferrer"_>초간단 웹사이트 만들기 강좌 - 워드프레스톡(WP-TALK.COM)</a>
 
 ***
-**(미발표) [추천] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install.md" target="_blank" rel="noopener noreferrer"_>최신 워드프레스를 설치 대행해 드립니다 - 워드프레스톡 매거진</a>**
+**(미발표) [추천] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install.md" target="_blank" rel="noopener noreferrer"_>최신 워드프레스를 설치 대행해 드립니다 - 워드프레스웹코리아</a>**
 
 ***
-**(미발표) [추천] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-optimization.md" target="_blank" rel="noopener noreferrer"_>워드프레스 웹사이트를 중국형 인터넷 환경에 맞도록 최적화 작업해 드립니다 - 워드프레스톡 매거진</a>**
+**(미발표) [추천] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-optimization.md" target="_blank" rel="noopener noreferrer"_>워드프레스 웹사이트를 중국형 인터넷 환경에 맞도록 최적화 작업해 드립니다 - 워드프레스웹코리아</a>**
 
 ***
 **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-china-wp-plugins.md" target="_blank" rel="noopener noreferrer"_>중국 웹사이트를 만들 때 반드시 필요한 워드프레스(WP) 추천 플러그인 - 워드프레스톡/트렌드톡 매거진</a>**
@@ -120,64 +120,64 @@
 <a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-banner-girl-01-966x200.png)</a>
 
 ***
-## ◼︎ 워드프레스톡 매거진
+## ◼︎ 워드프레스웹코리아
 
 ***
-[참고] <a href="https://www.wp-talk.com/kr/must-read/" target="_blank"_>**워드프레스(WP) 입문/초보자가 알아두면 좋은 워드프레스 추천 글 모음 - 워드프레스톡 매거진**</a> ( <a href="https://blog.naver.com/wp-kr/221494933645" target="_blank" rel="noopener noreferrer"_>**네이버 블로그**</a> | <a href="https://news.mkttalk.com/entry/wordpress-all-tips" target="_blank_">**마케팅톡 매거진**</a> )
+[참고] <a href="https://www.wp-talk.com/kr/must-read/" target="_blank"_>**워드프레스(WP) 입문/초보자가 알아두면 좋은 워드프레스 추천 글 모음 - 워드프레스웹코리아**</a> ( <a href="https://blog.naver.com/wp-kr/221494933645" target="_blank" rel="noopener noreferrer"_>**네이버 블로그**</a> | <a href="https://news.mkttalk.com/entry/wordpress-all-tips" target="_blank_">**마케팅톡 매거진**</a> )
 
-[참고] <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>**워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>**워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/lesson/" target="_blank"_>**워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업) - 워드프레스톡 매거진**</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson.md" target="_blank"_>**작성 중**</a> )
+[참고] <a href="https://www.wp-talk.com/kr/lesson/" target="_blank"_>**워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업) - 워드프레스웹코리아**</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson.md" target="_blank"_>**작성 중**</a> )
 
 [참고] <a href="https://www.wp-talk.com/kr/119/" target="_blank"_>**워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법 - 워드프레스톡 문제 해결 서비스**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>**워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>**워드프레스 세일 나우(WordPress Sale Now) : 테마/플러그인/호스팅 할인 프로모션 정보 간편 확인 방법 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>**워드프레스 세일 나우(WordPress Sale Now) : 테마/플러그인/호스팅 할인 프로모션 정보 간편 확인 방법 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>**워드프레스 차일드(자식) 테마를 무료 온라인 빌더로 간편하게 자동 생성하는 방법 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/must-know-services/" target="_blank"_>**워드프레스 사이트 제작할 때 알아야 할 필수 온라인 툴 서비스 모음 - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/must-know-services/" target="_blank"_>**워드프레스 사이트 제작할 때 알아야 할 필수 온라인 툴 서비스 모음 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/examples/" target="_blank" rel="noopener noreferrer"_>**워드프레스로 제작된 사이트 최신 사례/예시 모음 (한국/일본/중국/미국/유럽 등) - 워드프레스톡 매거진**</a>
+[참고] <a href="https://www.wp-talk.com/kr/examples/" target="_blank" rel="noopener noreferrer"_>**워드프레스로 제작된 사이트 최신 구축 사례/예시 모음 (한국/일본/중국/미국/유럽 등) - 워드프레스웹코리아**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>**워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/subscribe/" target="_blank"_>**워드프레스 최신 뉴스 및 꿀팁 정보 구독하기 : www.wp-talk.com/kr/subscribe/**</a>
 
 ***
-[참고] <a href="https://news.wp-kr.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스웹코리아</a>
 
 [참고] <a href="https://www.wp-talk.com/go/bluehost/sites/" target="_blank" rel="noopener noreferrer"_>블루호스트(Bluehost) 호스팅 사용중인 워드프레스 사이트 모음</a>
 
 [참고] <a href="https://www.wp-talk.com/go/siteground/sites/" target="_blank" rel="noopener noreferrer"_>사이트그라운드(SiteGround) 호스팅 사용중인 워드프레스 사이트 모음</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-themeforest-envato-register/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 회원 가입 및 테마/플러그인 구입 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-themeforest-envato-register/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 회원 가입 및 테마/플러그인 구입 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-install-local-computer-bitnami/" target="_blank" rel="noopener noreferrer"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami) - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-install-local-computer-bitnami/" target="_blank" rel="noopener noreferrer"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami) - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/install-wordpress-local-webserver-wptalk/" target="_blank" rel="noopener noreferrer"_>내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/install-wordpress-local-webserver-wptalk/" target="_blank" rel="noopener noreferrer"_>내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-add-intro-main-page/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법 – 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-add-intro-main-page/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-child-theme-setting-wptalk/" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 간편하게 설정하는 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-child-theme-setting-wptalk/" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 간편하게 설정하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-developers-must-plugins/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-developers-must-plugins/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content/" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API) - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content/" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API) - 워드프레스웹코리아</a>
 
 ***
-[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-css/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-css/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스웹코리아</a>
 
-[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-javascript/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-javascript/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스웹코리아</a>
 
 ***
 [참고] <a href="https://news.trendtalk.kr/bluehost-china-hongkong-hosting-register/" target="_blank" rel="noopener noreferrer"_>블루호스트 차이나(Bluehost China)로 홍콩 및 중국 호스팅 서비스 활용하는 방법 - 트렌드톡 매거진</a>
@@ -267,11 +267,11 @@ x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" r
 
 [참고] <a href="https://school.wp-talk.com/item/worpdress-edit-login-error-message/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인 오류 정보를 수정해야 하는 이유 및 방법 – 워드프레스톡(WP-TALK.COM)</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스톡 매거진</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-basic-css/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스톡 매거진</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-basic-css/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-basic-javascript/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스톡 매거진</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-basic-javascript/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스웹코리아</a>
 
 ***
 [참고] <a href="https://news.codetalk.kr/wordpress-install-free-hosting-000webhost/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅 서비스로 간편하게 설치하는 방법 : 000WebHost - 코드톡 매거진</a>
