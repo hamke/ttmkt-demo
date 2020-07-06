@@ -1,9 +1,9 @@
 # 워드프레스웹코리아 : 전체 글 목록
 ***
-## ◼︎ 워드프레스톡 (WP-TALK.COM)
+## ◼︎ 워드프레스웹코리아 (WP-TALK.COM)
 
 ***
-**◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>101</a> | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-kr.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
+**◼︎ 워드프레스웹코리아 - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>101</a> | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-kr.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 설치 방법 및 기본 사용법 최신 가이드 - 워드프레스웹코리아</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
@@ -78,7 +78,7 @@
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-why-self-study-bad.md" target="_blank" rel="noopener noreferrer"_>(초보자들이) 워드프레스를 혼자 학습(독학)할 수 있다고 착각하는 이유 - 워드프레스웹코리아</a>
 
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-school-wordpress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 활용 : 워드프레스 코어/플러그인/테마 구조 및 작동 원리 파악하기 - 워드프레스톡(WP-TALK.COM)</a>
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-school-wordpress.md" target="_blank" rel="noopener noreferrer"_>워드프레스 활용 : 워드프레스 코어/플러그인/테마 구조 및 작동 원리 파악하기 - 워드프레스웹코리아</a>
 
 ***
 **(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-hosting-select.md" target="_blank" rel="noopener noreferrer"_>워드프레스 호스팅 신규 구입할 때 알아둬야 할 체크리스트 및 추천 서비스 - 워드프레스웹코리아</a>**
@@ -97,9 +97,9 @@
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-books.md" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습을 위한 추천 책 총정리 - 워드프레스웹코리아</a>
 
 ***
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-comparison.md" target="_blank" rel="noopener noreferrer"_>블로그 비교하기 : Naver vs Tistory vs WP - 워드프레스톡(WP-TALK.COM)</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-comparison.md" target="_blank" rel="noopener noreferrer"_>블로그 비교하기 : Naver vs Tistory vs WP - 워드프레스웹코리아</a>
 
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-school-website.md" target="_blank" rel="noopener noreferrer"_>초간단 웹사이트 만들기 강좌 - 워드프레스톡(WP-TALK.COM)</a>
+(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-school-website.md" target="_blank" rel="noopener noreferrer"_>초간단 웹사이트 만들기 강좌 - 워드프레스웹코리아</a>
 
 ***
 **(미발표) [추천] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install.md" target="_blank" rel="noopener noreferrer"_>최신 워드프레스를 설치 대행해 드립니다 - 워드프레스웹코리아</a>**
@@ -186,9 +186,9 @@
 [참고] <a href="https://news.mkttalk.com/entry/wordpress-analytics-theme-plugins-hosting" target="_blank" rel="noopener noreferrer"_>"워드프레스 애널리틱스"로 사이트 테마/플러그인/호스팅/제작회사 정보 간편 조회 방법 - 마케팅톡 매거진</a>
 
 ***
-x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" rel="noopener noreferrer"_>중국 워드프레스 웹사이트 제작을 위해 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스톡 (네이버 블로그)</a>
+x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" rel="noopener noreferrer"_>중국 워드프레스 웹사이트 제작을 위해 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스웹코리아 (네이버 블로그)</a>
 
-x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 디자인 및 템플릿 수정을 위해 알아야 할 것들 – 워드프레스톡 (네이버 블로그)</a>
+x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 디자인 및 템플릿 수정을 위해 알아야 할 것들 – 워드프레스웹코리아 (네이버 블로그)</a>
 
 ***
 [추천] <a href="https://coupa.ng/bgHJQN" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)**</a>
@@ -202,70 +202,70 @@ x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" r
 ## ◼︎ 워드프레스톡 온라인 스쿨
 
 ***
-[참고] <a href="https://school.wp-talk.com/item/wordpress-wptalk-online-school-intro/" target="_blank" rel="noopener noreferrer"_>**워드프레스톡 온라인 스쿨 소개 및 활용 방법 - 워드프레스톡(WP-TALK.COM)**</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-wptalk-online-school-intro/" target="_blank" rel="noopener noreferrer"_>**워드프레스톡 온라인 스쿨 소개 및 활용 방법 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법 – 워드프레스톡(WP-TALK.COM)**</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법 – 워드프레스웹코리아**</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-why-you-not-good-at/" target="_blank" rel="noopener noreferrer"_>**당신의 워드프레스(WP) 실력이 늘지 않는 이유 - 워드프레스톡(WP-TALK.COM)**</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-why-you-not-good-at/" target="_blank" rel="noopener noreferrer"_>**당신의 워드프레스(WP) 실력이 늘지 않는 이유 - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-insert-code-snippets/" target="_blank" rel="noopener noreferrer"_>**워드프레스톡 온라인 스쿨 꿀팁 코드 스니펫(Snippets)을 입력하는 방법 – 워드프레스톡(WP-TALK.COM)**</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-insert-code-snippets/" target="_blank" rel="noopener noreferrer"_>**워드프레스톡 온라인 스쿨 꿀팁 코드 스니펫(Snippets)을 입력하는 방법 – 워드프레스웹코리아**</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-functions-php-introduction/" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) FUNCTIONS.PHP 파일을 반드시 활용해야 하는 이유 – 워드프레스톡(WP-TALK.COM)**</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-functions-php-introduction/" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) FUNCTIONS.PHP 파일을 반드시 활용해야 하는 이유 – 워드프레스웹코리아**</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식 – 워드프레스톡(WP-TALK.COM)**</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank" rel="noopener noreferrer"_>**워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식 – 워드프레스웹코리아**</a>
 
 ***
-[참고] <a href="https://school.wp-talk.com/item/wordpress-why-you-should-learn/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 활용 및 개발 방법을 알아두면 좋은 이유 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-why-you-should-learn/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 활용 및 개발 방법을 알아두면 좋은 이유 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-should-study-html-css-js/" target="_blank" rel="noopener noreferrer"_>Q. 워드프레스(WP)를 배우려면 HTML, CSS, JAVASCRIPT를 반드시 알아야 하나요? - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-should-study-html-css-js/" target="_blank" rel="noopener noreferrer"_>Q. 워드프레스(WP)를 배우려면 HTML, CSS, JAVASCRIPT를 반드시 알아야 하나요? - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-footer-copyright-current-year-automatic-upadate/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 푸터에 카피라이트 정보를 현재 시간으로 자동 업데이트 표시하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-footer-copyright-current-year-automatic-upadate/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 푸터에 카피라이트 정보를 현재 시간으로 자동 업데이트 표시하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-why-starters-learn-coding-with/" target="_blank" rel="noopener noreferrer"_>코딩 입문자가 워드프레스(WP)로 웹프로그래밍을 학습해야 하는 이유 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-why-starters-learn-coding-with/" target="_blank" rel="noopener noreferrer"_>코딩 입문자가 워드프레스(WP)로 웹프로그래밍을 학습해야 하는 이유 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-google-adsense-insert-shortcode/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 숏코드로 구글 애드센스(Adsense) 제휴 광고 간편하게 삽입하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-google-adsense-insert-shortcode/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 숏코드로 구글 애드센스(Adsense) 제휴 광고 간편하게 삽입하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-insert-html-page-template/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 프레임워크에 외부 HTML 페이지 간편하게 삽입하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-insert-html-page-template/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 프레임워크에 외부 HTML 페이지 간편하게 삽입하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-remove-admin-menu-submenu/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 불필요한 어드민(관리자) 페이지 메뉴 간편 삭제하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-remove-admin-menu-submenu/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 불필요한 어드민(관리자) 페이지 메뉴 간편 삭제하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-disable-all-plugins-when-error/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 관리자 페이지 접속 오류시 모든 플러그인을 한번에 비활성화하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-disable-all-plugins-when-error/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 관리자 페이지 접속 오류시 모든 플러그인을 한번에 비활성화하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-redirect-page-after-logout/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그아웃 후 특정 페이지로 간편하게 자동 이동시키는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-redirect-page-after-logout/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그아웃 후 특정 페이지로 간편하게 자동 이동시키는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-google-naver-analytics-insert/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 웹사이트에 구글/네이버 애널리틱스 코드 간편하게 설정하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-google-naver-analytics-insert/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 웹사이트에 구글/네이버 애널리틱스 코드 간편하게 설정하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-forgot-admin-create-new-user/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 어드민(관리자) 계정 정보 및 비밀번호를 잊었을 때 간편 해결 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-forgot-admin-create-new-user/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 어드민(관리자) 계정 정보 및 비밀번호를 잊었을 때 간편 해결 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-login-logout-change-automatically/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인/로그아웃 상태에 따라 메뉴 버튼을 자동 변경시키는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-login-logout-change-automatically/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인/로그아웃 상태에 따라 메뉴 버튼을 자동 변경시키는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-disable-multiple-login/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 동일 계정 중복 로그인을 간편하게 제한하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-disable-multiple-login/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 동일 계정 중복 로그인을 간편하게 제한하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-wp-login-page-redirect-automatically/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인(WP-LOGIN) 페이지 접속시 다른 곳으로 자동 이동시키는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-wp-login-page-redirect-automatically/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인(WP-LOGIN) 페이지 접속시 다른 곳으로 자동 이동시키는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-admin-panel-post-state-message/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 어드민 패널에서 포스트 상태(POST STATE) 메시지 추가하는 방법 - 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-admin-panel-post-state-message/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 어드민 패널에서 포스트 상태(POST STATE) 메시지 추가하는 방법 - 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-search-results-term-highlight/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 검색 결과 페이지에서 검색어 부분을 강조하는 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-search-results-term-highlight/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 검색 결과 페이지에서 검색어 부분을 강조하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-login-page-change-custom-logo/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인 페이지의 WP 로고를 내 브랜드 로고로 변경하는 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-login-page-change-custom-logo/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인 페이지의 WP 로고를 내 브랜드 로고로 변경하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-search-results-exclude-posts/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 검색 결과 페이지에서 특정 글을 제외하는 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-search-results-exclude-posts/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 검색 결과 페이지에서 특정 글을 제외하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-disable-right-mouse-click-copy-paste/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 오른쪽 마우스 버튼 클릭 및 복사 방지 기능 간편하게 추가하는 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-disable-right-mouse-click-copy-paste/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 오른쪽 마우스 버튼 클릭 및 복사 방지 기능 간편하게 추가하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-display-user-data-shortcode/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 회원수 데이터를 숏코드로 원하는 부분에 편리하게 표시하는 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-display-user-data-shortcode/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 회원수 데이터를 숏코드로 원하는 부분에 편리하게 표시하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-admin-panel-footer-brand-message-change/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 어드민패널 푸터 메시지 및 브랜드 간편하게 변경하는 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-admin-panel-footer-brand-message-change/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 어드민패널 푸터 메시지 및 브랜드 간편하게 변경하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-version-info-check-remove/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 버전 정보를 삭제해야 하는 이유 및 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-version-info-check-remove/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 버전 정보를 삭제해야 하는 이유 및 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-woocommerce-coupon-code-input-form-remove/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 우커머스 쿠폰 코드 입력란을 간편하게 삭제하는 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-woocommerce-coupon-code-input-form-remove/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 우커머스 쿠폰 코드 입력란을 간편하게 삭제하는 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-woocommerce-checkout-process-simplify/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 우커머스 결제 프로세스 간소화 방법 (플러그인 없이 바로결제 기능 추가) – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-woocommerce-checkout-process-simplify/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 우커머스 결제 프로세스 간소화 방법 (플러그인 없이 바로결제 기능 추가) – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/wordpress-redirect-page-function/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 페이지 리다이렉트 기능 간편 설정 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/wordpress-redirect-page-function/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 페이지 리다이렉트 기능 간편 설정 방법 – 워드프레스웹코리아</a>
 
-[참고] <a href="https://school.wp-talk.com/item/worpdress-edit-login-error-message/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인 오류 정보를 수정해야 하는 이유 및 방법 – 워드프레스톡(WP-TALK.COM)</a>
+[참고] <a href="https://school.wp-talk.com/item/worpdress-edit-login-error-message/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 로그인 오류 정보를 수정해야 하는 이유 및 방법 – 워드프레스웹코리아</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스웹코리아</a>
 
@@ -282,7 +282,7 @@ x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" r
 
 [참고] <a href="https://news.trendtalk.kr/why-wordpress-for-it-beginners/" target="_blank" rel="noopener noreferrer"_>(IT초급자가) 워드프레스로 웹사이트를 만들어야 하는 5가지 이유 - 트렌드톡 매거진</a>
 
-x [참고] <a href="https://blog.naver.com/wp-kr/221467458596" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 인트로 메인 페이지 추가 설정하는 방법 - 워드프레스톡 (네이버 블로그)</a>
+x [참고] <a href="https://blog.naver.com/wp-kr/221467458596" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 인트로 메인 페이지 추가 설정하는 방법 - 워드프레스웹코리아 (네이버 블로그)</a>
 
 x [참고] <a href="https://blog.naver.com/mkttalk/221412456007" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 웹사이트/홈페이지/쇼핑몰 개발을 위한 꿀팁 가이드 모음 서비스 소개 - 마케팅톡 (네이버 블로그)</a>
 
@@ -293,14 +293,14 @@ x [참고] <a href="https://blog.naver.com/mkttalk/221412456007" target="_blank"
 ## ◼︎ 워드프레스톡 개발 대행 및 교육 사례
 
 ***
-**◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/portfolio/" target="_blank" rel="noopener noreferrer"_>포트폴리오</a>**
+**◼︎ 워드프레스웹코리아 - <a href="https://www.wp-talk.com/portfolio/" target="_blank" rel="noopener noreferrer"_>포트폴리오</a>**
 
 ***
-x [참고] <a href="https://blog.naver.com/wp-kr/221608534434" target="_blank" rel="noopener noreferrer"_>워드프레스 개발 대행 및 교육 최신 사례 : pianopia.kr - 워드프레스톡 (네이버 블로그)</a>
+x [참고] <a href="https://blog.naver.com/wp-kr/221608534434" target="_blank" rel="noopener noreferrer"_>워드프레스 개발 대행 및 교육 최신 사례 : pianopia.kr - 워드프레스웹코리아 (네이버 블로그)</a>
 
-x [참고] <a href="https://blog.naver.com/wp-kr/221593162135" target="_blank" rel="noopener noreferrer"_>워드프레스 개발 대행 및 교육 최신 사례 : rise.skku.edu - 워드프레스톡 (네이버 블로그)</a>
+x [참고] <a href="https://blog.naver.com/wp-kr/221593162135" target="_blank" rel="noopener noreferrer"_>워드프레스 개발 대행 및 교육 최신 사례 : rise.skku.edu - 워드프레스웹코리아 (네이버 블로그)</a>
 
-x [참고] <a href="https://blog.naver.com/wp-kr/221537356534" target="_blank" rel="noopener noreferrer"_>워드프레스 개발 대행 및 교육 최신 사례 : medi-guide.com - 워드프레스톡 (네이버 블로그)</a>
+x [참고] <a href="https://blog.naver.com/wp-kr/221537356534" target="_blank" rel="noopener noreferrer"_>워드프레스 개발 대행 및 교육 최신 사례 : medi-guide.com - 워드프레스웹코리아 (네이버 블로그)</a>
 
 ***
 ***
