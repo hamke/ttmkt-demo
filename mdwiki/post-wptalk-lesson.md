@@ -100,7 +100,7 @@
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2018/11/wptalk-logo-966x200.png" style="max-width:100%;" alt="워드프레스톡 매거진"></a></center>
 
 ***
-저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>news.wp-talk.com</a> ) | 무단 전재 및 재배포 금지
+저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>news.wp-kr.com</a> ) | 무단 전재 및 재배포 금지
 
 ***
 

@@ -3,7 +3,7 @@
 ## ◼︎ 워드프레스톡 (WP-TALK.COM)
 
 ***
-**◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>101</a> | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
+**◼︎ 워드프레스톡(WP-TALK.COM) - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>101</a> | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-kr.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 설치 방법 및 기본 사용법 최신 가이드 - 워드프레스톡 매거진</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
@@ -148,36 +148,36 @@
 [참고] <a href="https://www.wp-talk.com/kr/subscribe/" target="_blank"_>**워드프레스 최신 뉴스 및 꿀팁 정보 구독하기 : www.wp-talk.com/kr/subscribe/**</a>
 
 ***
-[참고] <a href="https://news.wp-talk.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
 
 [참고] <a href="https://www.wp-talk.com/go/bluehost/sites/" target="_blank" rel="noopener noreferrer"_>블루호스트(Bluehost) 호스팅 사용중인 워드프레스 사이트 모음</a>
 
 [참고] <a href="https://www.wp-talk.com/go/siteground/sites/" target="_blank" rel="noopener noreferrer"_>사이트그라운드(SiteGround) 호스팅 사용중인 워드프레스 사이트 모음</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-themeforest-envato-register/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 회원 가입 및 테마/플러그인 구입 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-themeforest-envato-register/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 회원 가입 및 테마/플러그인 구입 방법 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/themeforest-wordpress-free-month-themes/" target="_blank" rel="noopener noreferrer"_>테마포레스트(Themeforest) : 워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-install-local-computer-bitnami/" target="_blank" rel="noopener noreferrer"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami) - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-install-local-computer-bitnami/" target="_blank" rel="noopener noreferrer"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami) - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/" target="_blank" rel="noopener noreferrer"_>내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/install-wordpress-local-webserver-wptalk/" target="_blank" rel="noopener noreferrer"_>내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-add-intro-main-page/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법 – 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-add-intro-main-page/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법 – 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 간편하게 설정하는 방법 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-child-theme-setting-wptalk/" target="_blank" rel="noopener noreferrer"_>워드프레스 차일드테마(Child Theme) 기능을 간편하게 설정하는 방법 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-developers-must-plugins/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리 - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-developers-must-plugins/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리 - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-rest-api-fetch-content/" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API) - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content/" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API) - 워드프레스톡 매거진</a>
 
 ***
-[참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-css/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-css/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : CSS - 워드프레스톡 매거진</a>
 
-[참고] <a href="https://news.wp-talk.com/wordpress-beginner-basic-javascript/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스톡 매거진</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-javascript/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 학습 전 반드시 알아야 할 기초 상식 : JavaScript - 워드프레스톡 매거진</a>
 
 ***
 [참고] <a href="https://news.trendtalk.kr/bluehost-china-hongkong-hosting-register/" target="_blank" rel="noopener noreferrer"_>블루호스트 차이나(Bluehost China)로 홍콩 및 중국 호스팅 서비스 활용하는 방법 - 트렌드톡 매거진</a>

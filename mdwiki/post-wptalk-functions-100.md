@@ -954,6 +954,6 @@ Retrieves the URL of a file in the theme.
 <center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-logo-120x120.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 ***
-<center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_>news.wp-talk.com</a> ) | 무단 전재 및 재배포 금지</center>
+<center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_>news.wp-kr.com</a> ) | 무단 전재 및 재배포 금지</center>
 
 ***

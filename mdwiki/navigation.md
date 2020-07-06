@@ -32,7 +32,7 @@
 [**워드프레스톡**]()
 
 * <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 홈페이지</a>
-* <a href="https://news.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 매거진</a>
+* <a href="https://news.wp-kr.com/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 매거진</a>
 * <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>워드프레스톡 : 네이버 블로그</a>
 - - - -
 * # 서비스

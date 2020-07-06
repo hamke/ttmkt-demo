@@ -147,7 +147,7 @@ PHP는 워드프레스 기본 프로그래밍 언어입니다.
 - 관리자(어드민) 페이지 (백엔드) : { 기본 URL }/wp-admin/
 
 ***
-[참고] <a href="https://news.wp-talk.com/wordpress-install-local-computer-bitnami/" target="_blank"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami)</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-install-local-computer-bitnami/" target="_blank"_>워드프레스를 로컬 컴퓨터에 간편하게 설치하는 방법 : 비트나미(Bitnami)</a>
 
 ***
 ### (2) 외부 호스팅 서비스
@@ -298,22 +298,22 @@ functions.php은 워드프레스 플러그인과 동일한 역할을 할 수 있
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/wptalk-wordpress-faq-list-01-800x500.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
-- <a href="https://news.wp-talk.com/wordpress-faq-for-users/#index-01" target="_blank"_>워드프레스는 왜 무료인가요?</a>
+- <a href="https://news.wp-kr.com/wordpress-faq-for-users/#index-01" target="_blank"_>워드프레스는 왜 무료인가요?</a>
 
-- <a href="https://news.wp-talk.com/wordpress-faq-for-users/#index-02" target="_blank"_>워드프레스는 속도가 느리다는 말을 들었습니다. 사실인가요?</a>
+- <a href="https://news.wp-kr.com/wordpress-faq-for-users/#index-02" target="_blank"_>워드프레스는 속도가 느리다는 말을 들었습니다. 사실인가요?</a>
 
-- <a href="https://news.wp-talk.com/wordpress-faq-for-users/#index-03" target="_blank"_>워드프레스로 어떤 종류의 사이트를 제작할 수 있나요?</a>
+- <a href="https://news.wp-kr.com/wordpress-faq-for-users/#index-03" target="_blank"_>워드프레스로 어떤 종류의 사이트를 제작할 수 있나요?</a>
 
-- <a href="https://news.wp-talk.com/wordpress-faq-for-users/#index-04" target="_blank"_>워드프레스가 검색엔진최적화(SEO)에 좋다는 말을 들었습니다. 사실인가요?</a>
+- <a href="https://news.wp-kr.com/wordpress-faq-for-users/#index-04" target="_blank"_>워드프레스가 검색엔진최적화(SEO)에 좋다는 말을 들었습니다. 사실인가요?</a>
 
-- <a href="https://news.wp-talk.com/wordpress-faq-for-users/#index-05" target="_blank"_>워드프레스 차일드 테마(자식 테마)는 무엇이고 왜 중요한가요?</a>
+- <a href="https://news.wp-kr.com/wordpress-faq-for-users/#index-05" target="_blank"_>워드프레스 차일드 테마(자식 테마)는 무엇이고 왜 중요한가요?</a>
 
-- <a href="https://news.wp-talk.com/wordpress-faq-for-users/#index-06" target="_blank"_>워드프레스를 테스트로 사용해 보고 싶은데 호스팅 비용이 부담스럽습니다.</a>
+- <a href="https://news.wp-kr.com/wordpress-faq-for-users/#index-06" target="_blank"_>워드프레스를 테스트로 사용해 보고 싶은데 호스팅 비용이 부담스럽습니다.</a>
 
-- <a href="https://news.wp-talk.com/wordpress-faq-for-users/#index-07" target="_blank"_>워드프레스를 원하는대로 수정하려면, 어떤 프로그래밍 언어를 알아야 하나요?</a>
+- <a href="https://news.wp-kr.com/wordpress-faq-for-users/#index-07" target="_blank"_>워드프레스를 원하는대로 수정하려면, 어떤 프로그래밍 언어를 알아야 하나요?</a>
 
 ***
-[꿀팁] <a href="https://news.wp-talk.com/wordpress-faq-for-users/" target="_blank"_>워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리</a>
+[꿀팁] <a href="https://news.wp-kr.com/wordpress-faq-for-users/" target="_blank"_>워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리</a>
 
 ***
 
@@ -345,7 +345,7 @@ functions.php은 워드프레스 플러그인과 동일한 역할을 할 수 있
 
 - <a href="https://www.wp-talk.com/child-theme-builder-usage/" target="_blank"_>워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성 방법</a>
 
-- <a href="https://news.wp-talk.com/wordpress-rest-api-fetch-content" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
+- <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
 
 - <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank"_>워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식</a>
 
@@ -360,6 +360,6 @@ functions.php은 워드프레스 플러그인과 동일한 역할을 할 수 있
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 ***
-<center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank"_>news.wp-talk.com</a> ) | 무단 전재 및 재배포 금지</center>
+<center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank"_>news.wp-kr.com</a> ) | 무단 전재 및 재배포 금지</center>
 
 ***

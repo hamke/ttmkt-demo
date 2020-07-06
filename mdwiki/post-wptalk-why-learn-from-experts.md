@@ -28,7 +28,7 @@
 하지만 워드프레스를 제대로 학습하기는 쉽지 않습니다.
 
 ***
-[참고] <a href="https://news.wp-talk.com/7?content=워드프레스-메인-인트로-페이지-변경-방법" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법</a>
+[참고] <a href="https://news.wp-kr.com/7?content=워드프레스-메인-인트로-페이지-변경-방법" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 변경 및 추가 간편하게 해결하는 방법</a>
 
 <!-- <a name="index-01"></a> -->
 ***
@@ -109,6 +109,6 @@
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-logo-120x120.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 
 ***
-<center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>news.wp-talk.com</a> ) | 무단 전재 및 재배포 금지</center>
+<center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank" rel="noopener noreferrer"_>news.wp-kr.com</a> ) | 무단 전재 및 재배포 금지</center>
 
 ***
