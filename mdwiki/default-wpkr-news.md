@@ -102,7 +102,9 @@ tags: 꿀팁
 
 - <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리</a>
 
-- <a href="https://www.wp-talk.com/kr/examples/" target="_blank"_>워드프레스로 제작된 사이트 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a>
+- <a href="https://www.wp-talk.com/kr/examples/" target="_blank"_>워드프레스로 제작된 사이트 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a>
+
+- <a href="https://www.wp-talk.com/kr/examples-woocommerce/" target="_blank"_>워드프레스 우커머스(WooCommerce)로 제작된 쇼핑몰 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a>
 
 - <a href="https://news.wp-kr.com/wordpress-themeforest-envato-register/" target="_blank"_>테마포레스트(Themeforest) 회원 가입 및 워드프레스 테마/플러그인 간편 구입 방법</a>
 
@@ -134,7 +136,14 @@ tags: 꿀팁
 **워드프레스톡(WP-Talk)**은 워드프레스(WP) 웹사이트에 대한 문제가 있을 시, **문제를 신속하게 진단하고 해결**해 드립니다. 서비스에 대한 문의 사항이 있으시면, <a href="https://www.wp-talk.com/kakao/" target="_blank"_>카카오톡</a>으로 연락 주세요.
 
 ***
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/07/wptalk-wordpress-logo-korea-00-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR)"></a></center>
+
+<center><a href="https://www.wp-kr.com/subscribe/" target="_blank"_>워드프레스 최신 뉴스 및 꿀팁 정보 구독하기
+www.wp-kr.com/subscribe/</a></center>
+
+***
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR)"></a></center>
 
 ***
 <center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank"_>news.wp-kr.com</a> ) | 무단 전재 및 재배포 금지</center>

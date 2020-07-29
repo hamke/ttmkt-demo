@@ -143,6 +143,8 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/examples/" target="_blank" rel="noopener noreferrer"_>**워드프레스로 제작된 사이트 최신 구축 사례/예시 모음 (한국/일본/중국/미국/유럽 등) - 워드프레스웹코리아**</a>
 
+[참고] <a href="https://www.wp-talk.com/kr/examples-woocommerce/" target="_blank" rel="noopener noreferrer"_>**워드프레스 우커머스(WooCommerce)로 제작된 쇼핑몰 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) - 워드프레스웹코리아**</a>
+
 [참고] <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>**워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/subscribe/" target="_blank"_>**워드프레스 최신 뉴스 및 꿀팁 정보 구독하기 : www.wp-talk.com/kr/subscribe/**</a>
