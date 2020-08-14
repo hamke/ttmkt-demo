@@ -168,8 +168,9 @@
 * <a href="https://www.wordpress.com/media/" target="_blank" rel="noopener noreferrer"_>Wordpress.com/Media</a>
 - - - -
 * <a href="https://tinypng.com/" target="_blank" rel="noopener noreferrer"_>TinyPNG.com</a>
+* <a href="https://www.iloveimg.com/" target="_blank" rel="noopener noreferrer"_>iloveimg.com</a>
 * <a href="https://www.screely.com/" target="_blank" rel="noopener noreferrer"_>Screely.com</a>
-* <a href="https://imageblur.io/" target="_blank" rel="noopener noreferrer"_>ImageBlur.io</a>
+* <a href="https://deviceshots.com/" target="_blank" rel="noopener noreferrer"_>DeviceShots.com</a>
 - - - -
 * <a href="https://ezgif.com/" target="_blank" rel="noopener noreferrer"_>EZGif.com</a>
 * <a href="https://gifcompressor.com/" target="_blank" rel="noopener noreferrer"_>GIFCompressor.com</a>
@@ -178,12 +179,6 @@
 * <a href="https://www.ttmkt.com/tools/markdown-to-html/" target="_blank" rel="noopener noreferrer"_>Markdown To HTML</a>
 * <a href="https://www.browserling.com/tools/html-to-markdown" target="_blank" rel="noopener noreferrer"_>HTML To Markdown</a>
 * <a href="https://mockup.photos/" target="_blank" rel="noopener noreferrer"_>Mockup.photos</a>
-- - - -
-* <a href="https://www.miricanvas.com/" target="_blank" rel="noopener noreferrer"_>MiriCanvas.com</a>
-* <a href="https://www.mangoboard.net/" target="_blank" rel="noopener noreferrer"_>MangoBoard.net</a>
-- - - -
-* <a href="https://www.useloom.com/" target="_blank" rel="noopener noreferrer"_>Loom (Video Recording)</a>
-* <a href="https://onelineplayer.com/" target="_blank" rel="noopener noreferrer"_>OneLinePlayer.comr</a>
 - - - -
 * <a href="https://flawlessapp.io/designtools" target="_blank" rel="noopener noreferrer"_>DesignTools (Flawless)</a>
 * [StartChina Dev Log](startchina-dev.md)
