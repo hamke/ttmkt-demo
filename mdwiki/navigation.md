@@ -186,7 +186,7 @@
 * # 소스코드
 * [源码/破解版](china-source.md)
 
-[---]()
+[--]()
 
 <!-- [gimmick:themechooser](Choose theme) -->
 

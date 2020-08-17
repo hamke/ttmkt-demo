@@ -22,7 +22,7 @@ tags: 꿀팁
 
 ## ◼︎ XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 ***
 
@@ -34,7 +34,7 @@ tags: 꿀팁
 
 ## 1. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
 
@@ -48,7 +48,7 @@ tags: 꿀팁
 
 ## 2. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
 
@@ -62,7 +62,7 @@ tags: 꿀팁
 
 ## 3. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 
 
@@ -76,7 +76,7 @@ tags: 꿀팁
 
 ## ◼︎ 맺음말
 
-<center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-cover-default-01-800x460.png" style="max-width:100%;" alt="워드프레스톡 매거진"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-cover-nekoshoku-01-800x500-1.png" style="max-width:100%;" alt="워드프레스웹코리아 매거진"></a></center>
 
 **워드프레스톡(WP-TALK.COM)**이 소개해 드리는 방법들을 통해, 워드프레스를 보다 편리하게 활용하는데 도움이 되기를 바랍니다.
 
@@ -143,9 +143,8 @@ tags: 꿀팁
 www.wp-kr.com/subscribe/</a></center>
 
 ***
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아 매거진(WP-KR News)"></a></center>
 
-***
 <center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank"_>news.wp-kr.com</a> ) | 무단 전재 및 재배포 금지</center>
 
 ***
@@ -155,7 +154,7 @@ www.wp-kr.com/subscribe/</a></center>
 - OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a></center>
 
 ***
 <center><a href="https://www.wp-talk.com/kr/sale/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-sale-now-image-01-800x560.png" style="max-width:100%;" alt="워드프레스 최신 테마/플러그인/호스팅 실시간 할인/무료 정보 모음(WordPress Item Sale Now)"></a></center>
@@ -163,7 +162,7 @@ www.wp-kr.com/subscribe/</a></center>
 ***
 <div class="focus-zone-center">
 
-<a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a>
+<a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)"></a>
 
 **<a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>워드프레스 차일드 테마 빌더(WordPress Child Theme Builder)<br>www.wp-talk.com/app/child-theme-builder/</a>**
 
