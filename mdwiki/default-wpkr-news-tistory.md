@@ -1,4 +1,4 @@
-# [꿀팁] 워드프레스(WP) - 워드프레스톡
+# [꿀팁] 워드프레스(WP) - 워드프레스웹코리아
 
 <center><a href="https://www.wp-talk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/03/wptalk-contact-kakao-300x300.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
 

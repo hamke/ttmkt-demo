@@ -1,4 +1,4 @@
-# 워드프레스 금주 유료 테마/플러그인 무료 다운로드 프로모션 할인/세일 정보 모음 (업데이트) - 마케팅톡 매거진
+# XXXXXXXXXXXXXXXX - 마케팅톡 매거진
 
 <!-- ---
 title: "XXXXXXXXXXXXXXXX - 마케팅톡 매거진"
@@ -22,7 +22,7 @@ tags: 꿀팁
 
 ## ◼︎ XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡(mkttalk.com)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡(mkttalk.com)"></a></center>
 
 ***
 
@@ -34,7 +34,7 @@ tags: 꿀팁
 
 ## 1. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡(mkttalk.com)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡(mkttalk.com)"></a></center>
 
 
 
@@ -48,7 +48,7 @@ tags: 꿀팁
 
 ## 2. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡(mkttalk.com)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡(mkttalk.com)"></a></center>
 
 
 
@@ -62,7 +62,7 @@ tags: 꿀팁
 
 ## 3. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡(mkttalk.com)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡(mkttalk.com)"></a></center>
 
 
 
@@ -76,7 +76,7 @@ tags: 꿀팁
 
 ## ◼︎ 맺음말
 
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-image-cover-01-800x470.jpg" style="max-width:100%;" alt="마케팅톡 매거진"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-image-cover-01-800x470.jpg" style="max-width:100%; border-radius:1rem;" alt="마케팅톡 매거진"></a></center>
 
 **마케팅톡(mkttalk.com)**이 제공하는 위의 정보가 도움이 되었기를 바랍니다.
 
@@ -88,7 +88,7 @@ tags: 꿀팁
 
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/ttmkt-logo-girl-round-02-120x120.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK.COM)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/ttmkt-logo-girl-round-02-120x120.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡 매거진(MKTTALK.COM)"></a></center>
 
 [참고] <a href="https://www.mkttalk.com/must-read/" target="_blank"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
 
@@ -104,7 +104,7 @@ tags: 꿀팁
 
 ***
 
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡 매거진(MKTTALK)"></a></center>
 
 ***
 
@@ -117,7 +117,7 @@ tags: 꿀팁
 - OOOOOOOOO : <a href="https://www.mkttalk.com/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡(mkttalk.com)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡(mkttalk.com)"></a></center>
 
 ***
 |분류|이름|링크|

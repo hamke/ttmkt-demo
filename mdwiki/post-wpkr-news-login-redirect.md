@@ -1,28 +1,80 @@
-# XXXXXXXXXXXXXXXX - 워드프레스웹코리아
-
-<!-- ---
-title: "XXXXXXXXXXXXXXXX - 워드프레스웹코리아"
-description: XXXXXXXXXXXXXXXX
+---
+title: "워드프레스 로그인 페이지 접속시 다른 곳으로 자동 이동시키는 방법 - 워드프레스웹코리아"
+description: 워드프레스 로그인 페이지 접속시 다른 곳으로 자동 이동시키는 방법
 cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
 feature_img: https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-cover-nekoshoku-01-1800x1200-1.png
 categories: 꿀팁
 tags: 꿀팁
---- -->
+---
 
-- [XXXXXXXX](#index-00)
-- [XXXXXXXX](#index-01)
-- [XXXXXXXX](#index-02)
-- [XXXXXXXX](#index-03)
+- [wp-login 페이지 접속시 자동 이동시키는 이유](#index-00)
+- [functions.php 파일 설정](#index-01)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
 ***
 
-<!-- <a name="index-00"></a> -->
+<a name="index-00"></a>
 
-## ◼︎ XXXXXXXXXXXXXXXX
+## ◼︎ wp-login 페이지 접속시 자동 이동시키는 이유
+
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2018/12/wptalk-wp-login-page.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+
+***
+
+<a href="https://www.wp-talk.com/kr/basic/" target="_blank"_>워드프레스(WordPress)</a>에서 로그인 페이지는 기본적으로 ~/wp-login/ 또는 ~/wp-login.php 로 설정되어 있습니다.
+
+회원 가입 기능을 외부에 활성화하지 않다면, 관리자(어드민)만 사용하기 때문에 큰 상관이 없을 수 있습니다.
+
+하지만 SaaS(Software as a Service) 형식의 웹어플리케이션이나 커뮤니티 형태의 웹사이트를 구축한다면, 일반 사용자들도 로그인 페이지를 이용해야 하기 때문에, 이렇게 기본적으로 설정된 워드프레스 로그인 페이지는 사용하기 적합하지 않을 수 있습니다.
+
+이러한 경우, 워드프레스의 ‘/wp-login/’ 페이지에 접속했을 때, 홈 또는 별도로 만든 커스텀 로그인 페이지(Custom Login Page)로 자동 이동(리디렉션, Redirection)시키는 방법이 있습니다.
+
+***
+
+<a name="index-01"></a>
+
+## 2. functions.php 파일 설정
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+
+먼저 워드프레스(WordPress) 폴더로 가서, 사용하고 있는 에디터(Notepad, Atom, Sublime Text, PhpStorm 등)를 통해 functions.php 파일을 엽니다.
+
+```
+워드프레스 설치 디렉토리 (Public)
+    └ wp-content
+          └ themes
+              └ {{ 적용 중인 테마 }}
+                      └ functions.php
+```
+
+functions.php 파일을 연 다음, 아래의 코드를 원하는 위치(일반적으로 가장 아래)에 입력합니다.
+
+<div class="allowContent">
+```
+function wptalk_wp_login_redirect(){
+  global $pagenow;
+  if( 'wp-login.php' == $pagenow ) { // wp-login.php 접속할 경우
+    if ( !is_user_logged_in() && !isset( $_POST['wp-submit'] ) ) {
+        // 로그인이 안 된 상태에서 직접 접속할 경우
+        wp_redirect( home_url() ); // 홈으로 이동
+        exit();
+    } elseif ( !is_user_logged_in() && isset( $_POST['wp-submit'] ) ) {
+        // 로그인을 시도한 경우
+        return; // 그대로 진행
+    } elseif ( is_user_logged_in() ) {
+        // 로그인된 상태에서 접속한 경우
+        wp_redirect( home_url('/profile/') ); // URL이 'profile'인 페이지로 이동
+        exit();
+    }
+  }
+}
+add_action('init','wptalk_wp_login_redirect');
+
+```
+</div>
+
+위의 코드를 입력하고 저장한 다음, 워드프레스 웹사이트를 재실행합니다.
 
 ***
 
@@ -30,49 +82,7 @@ tags: 꿀팁
 
 ***
 
-<!-- <a name="index-01"></a> -->
-
-## 1. XXXXXXXXXXXXXXXX
-
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
-
-
-
-***
-
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
-
-***
-
-<!-- <a name="index-02"></a> -->
-
-## 2. XXXXXXXXXXXXXXXX
-
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
-
-
-
-***
-
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
-
-***
-
-<!-- <a name="index-03"></a> -->
-
-## 3. XXXXXXXXXXXXXXXX
-
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
-
-
-
-***
-
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
-
-***
-
-<!-- <a name="index-epilogue"></a> -->
+<a name="index-epilogue"></a>
 
 ## ◼︎ 맺음말
 
@@ -84,7 +94,7 @@ tags: 꿀팁
 
 ***
 
-<!-- <a name="recommendation"></a> -->
+<a name="recommendation"></a>
 
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
@@ -152,48 +162,5 @@ www.wp-kr.com/subscribe/</a></center>
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아 매거진(WP-KR News)"></a></center>
 
 <center>저작권자 ⓒ 워드프레스웹코리아 ( <a href="https://www.wp-talk.com/kakao/" target="_blank"_>news.wp-kr.com</a> ) | 무단 전재 및 재배포 금지</center>
-
-***
-***
-***
-***
-- OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
-
-***
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
-
-***
-<center><a href="https://www.wp-talk.com/kr/sale/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-sale-now-image-01-800x560.png" style="max-width:100%;" alt="워드프레스 최신 테마/플러그인/호스팅 실시간 할인/무료 정보 모음(WordPress Item Sale Now)"></a></center>
-
-***
-<div class="focus-zone-center">
-
-<a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a>
-
-**<a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>워드프레스 차일드 테마 빌더(WordPress Child Theme Builder)<br>www.wp-talk.com/app/child-theme-builder/</a>**
-
-</div>
-
-***
-
-<!-- Google Adsense (WP-TALK : Middle) : Start -->
-<ins class="adsbygoogle"
-   style="display:block"
-   data-ad-client="ca-pub-1087484447886876"
-   data-ad-slot="8762487232"
-   data-ad-format="auto"
-   data-full-width-responsive="false"></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- Google Adsense (WP-TALK : Middle) : End -->
-
-***
-|분류|이름|링크|
-|:-:|:-:|:-:|
-||||
-||||
-||||
-||||
 
 ***
