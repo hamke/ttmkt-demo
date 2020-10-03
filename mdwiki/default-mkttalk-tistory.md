@@ -1,6 +1,6 @@
 # - 마케팅톡 매거진
 
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/01/mkttalk-youtube-300x300.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/01/mkttalk-youtube-300x300.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡매거진"></a></center>
 
 <!-- <a name="index"></a> -->
 ***
@@ -42,15 +42,15 @@
 
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/ttmkt-logo-girl-round-02-120x120.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK.COM)"></a></center>
 
-[참고] <a href="https://www.mkttalk.com/must-read/" rel="noopener noreferrer" target="_blank"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
+[참고] <a href="https://www.mkttalk.com/must-read/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
 
-[참고] <a href="https://www.wp-talk.com/must-read/" rel="noopener noreferrer" target="_blank"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+[참고] <a href="https://www.wp-talk.com/must-read/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
-[추천] <a href="https://coupa.ng/bgSEv7" rel="noopener noreferrer" target="_blank"_>SNS 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
+[추천] <a href="https://coupa.ng/bgSEv7" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>SNS 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
-[추천] <a href="https://coupa.ng/bgHJ7Z" rel="noopener noreferrer" target="_blank"_>유튜브 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
+[추천] <a href="https://coupa.ng/bgHJ7Z" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>유튜브 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
-[추천] <a href="https://coupa.ng/bgHKbz" rel="noopener noreferrer" target="_blank"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
+[추천] <a href="https://coupa.ng/bgHKbz" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
 ***
 **마케팅톡(MKTTALK.COM)**은 **온라인 비즈니스 및 디지털 마케팅에 필요한 유용한 서비스 및 각종 꿀팁**을 소개해 드립니다. ( <a href="https://www.mkttalk.com/kakao/" target="_blank"_>제휴 및 교육, 기타 문의 (카카오톡)</a> )

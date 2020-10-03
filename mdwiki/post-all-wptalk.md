@@ -133,6 +133,8 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>**워드프레스 설치에 최적화된 추천 호스팅 서비스 모음 - 워드프레스웹코리아**</a>
 
+[참고] <a href="https://www.wp-talk.com/kr/themes-ranking/" target="_blank"_>**워드프레스 인기 테마 실시간 순위(랭킹) 및 추천 유료/무료 테마 최신 정보 - 워드프레스웹코리아**</a>
+
 [참고] <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>**워드프레스 애널리틱스 : 외부 웹사이트/쇼핑몰 테마 및 플러그인 간편 자동 분석 방법 - 워드프레스웹코리아**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/sale-usage/" target="_blank"_>**워드프레스 세일 나우(WordPress Sale Now) : 테마/플러그인/호스팅 할인 프로모션 정보 간편 확인 방법 - 워드프레스웹코리아**</a>
