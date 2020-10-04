@@ -94,7 +94,7 @@ tags: 꿀팁
 
 - <a href="https://www.wp-talk.com/kr/examples-woocommerce/" target="_blank"_>워드프레스 우커머스(WooCommerce)로 제작된 쇼핑몰 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a>
 
-- <a href="https://www.wp-talk.com/kr/themes-ranking/" target="_blank"_>워드프레스 인기 테마 실시간 순위(랭킹) 및 추천 유료/무료 테마 최신 정보</a>
+- <a href="https://www.wp-talk.com/kr/themes-ranking/" target="_blank"_>워드프레스 인기 테마 실시간 다운로드/판매 순위(랭킹) 및 추천 유료/무료 테마 최신 정보</a>
 
 - <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 (WordPress Analytics) : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인, 제작사 정보 간편 확인 방법</a>
 
@@ -126,11 +126,11 @@ tags: 꿀팁
 
 - <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
 
-- <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank"_>워 초보자들이 흔히 하는 실수 및 필수 상식</a>
+- <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank"_>워드프레스 초보자들이 흔히 하는 실수 및 필수 상식</a>
 
-- <a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank"_>워 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법</a>
+- <a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank"_>워드프레스 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법</a>
 
-- <a href="https://coupa.ng/bgHJQN" target="_blank"_>워 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
+- <a href="https://coupa.ng/bgHJQN" target="_blank"_>워드프레스 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
 - <a href="https://coupa.ng/bgOdk3" target="_blank"_>최신 노트북/컴퓨터 추천 상품 목록 보러 가기 - 쿠팡(웹/모바일앱)</a>
 

@@ -182,6 +182,8 @@
 
 [참고] <a href="https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/" target="_blank" rel="noopener noreferrer"_>워드프레스 로그인 페이지 접속시 다른 페이지로 자동 이동시키는 방법 - 워드프레스웹코리아</a>
 
+[참고] <a href="https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/" target="_blank" rel="noopener noreferrer"_>워드프레스 푸터의 카피라이트 정보를 현재 시간(년도)으로 자동 업데이트 표시 방법 - 워드프레스웹코리아</a>
+
 ***
 [참고] <a href="https://news.wp-kr.com/wordpress-beginner-basic-html/" target="_blank" rel="noopener noreferrer"_>워드프레스 학습 전 반드시 알아야 할 기초 상식 : HTML - 워드프레스웹코리아</a>
 
@@ -228,8 +230,6 @@ x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" r
 [참고] <a href="https://school.wp-talk.com/item/wordpress-why-you-should-learn/" target="_blank" rel="noopener noreferrer"_>워드프레스 활용 및 개발 방법을 알아두면 좋은 이유 – 워드프레스웹코리아</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-should-study-html-css-js/" target="_blank" rel="noopener noreferrer"_>Q. 워드프레스를 배우려면 HTML, CSS, JAVASCRIPT를 반드시 알아야 하나요? - 워드프레스웹코리아</a>
-
-[참고] <a href="https://school.wp-talk.com/item/wordpress-footer-copyright-current-year-automatic-upadate/" target="_blank" rel="noopener noreferrer"_>워드프레스 푸터에 카피라이트 정보를 현재 시간으로 자동 업데이트 표시하는 방법 - 워드프레스웹코리아</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-why-starters-learn-coding-with/" target="_blank" rel="noopener noreferrer"_>코딩 입문자가 워드프레스로 웹프로그래밍을 학습해야 하는 이유 - 워드프레스웹코리아</a>
 
