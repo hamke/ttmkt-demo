@@ -56,7 +56,7 @@
 **마케팅톡(MKTTALK.COM)**은 **온라인 비즈니스 및 디지털 마케팅에 필요한 유용한 서비스 및 각종 꿀팁**을 소개해 드립니다. ( <a href="https://www.mkttalk.com/kakao/" target="_blank"_>제휴 및 교육, 기타 문의 (카카오톡)</a> )
 
 ***
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/02/mkttalk-banner-default-966x200.jpeg" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/02/mkttalk-banner-default-966x200.jpeg" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
 ***
 <center>저작권자 ⓒ 마케팅톡 ( <a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_>news.mkttalk.com</a> ) | 무단 전재 및 재배포 금지</center>

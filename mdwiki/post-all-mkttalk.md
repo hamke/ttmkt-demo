@@ -93,11 +93,13 @@
 ***
 ### ◼︎ 웹사이트/홈페이지
 
-[참고] <a href="https://news.mkttalk.com/entry/%EA%BF%80%ED%8C%81-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%EB%A9%94%EC%9D%B8-%EC%9D%B8%ED%8A%B8%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%88%98%EC%A0%95-%EB%B0%8F-%EC%B6%94%EA%B0%80-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%A7%88%EC%BC%80%ED%8C%85%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 메인 인트로 페이지 수정 및 추가 설정하는 방법 - 마케팅톡 매거진</a>
+[참고] <a href="https://news.mkttalk.com/entry/%EA%BF%80%ED%8C%81-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%EB%A9%94%EC%9D%B8-%EC%9D%B8%ED%8A%B8%EB%A1%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%88%98%EC%A0%95-%EB%B0%8F-%EC%B6%94%EA%B0%80-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-%EB%A7%88%EC%BC%80%ED%8C%85%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스 메인 인트로 페이지 수정 및 추가 설정하는 방법 - 마케팅톡 매거진</a>
 
-[참고] <a href="https://news.mkttalk.com/entry/%ED%95%84%EC%88%98-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-%EB%B0%8F-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EC%B6%94%EC%B2%9C-%EB%AA%A9%EB%A1%9D-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록 - 마케팅톡 매거진</a>
+[참고] <a href="https://news.mkttalk.com/entry/%ED%95%84%EC%88%98-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-%EB%B0%8F-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EC%B6%94%EC%B2%9C-%EB%AA%A9%EB%A1%9D-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스 초보자가 알아두면 좋은 워드프레스 추천 글 목록 - 마케팅톡 매거진</a>
 
-[참고] <a href="https://news.mkttalk.com/entry/%ED%95%84%EC%88%98-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EB%B0%8F-%EC%B5%9C%EC%8B%A0-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-%EC%A0%95%EB%B3%B4-%EB%AA%A9%EB%A1%9D-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 핵심 원리 및 최신 활용 꿀팁 정보 목록 - 마케팅톡 매거진</a>
+[참고] <a href="https://news.mkttalk.com/entry/%ED%95%84%EC%88%98-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EB%B0%8F-%EC%B5%9C%EC%8B%A0-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-%EC%A0%95%EB%B3%B4-%EB%AA%A9%EB%A1%9D-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스 핵심 원리 및 최신 활용 꿀팁 정보 목록 - 마케팅톡 매거진</a>
+
+[참고] <a href="https://news.mkttalk.com/entry/wordpress-themes-ranking-real-time" target="_blank" rel="noopener noreferrer"_>워드프레스 무료/유료 테마 실시간 순위/랭킹 및 최신 추천 테마 정보 - 마케팅톡 매거진</a>
 
 ***
 ### ◼︎ 기타
@@ -111,6 +113,14 @@
 [참고] <a href="https://news.mkttalk.com/entry/%EC%B6%94%EC%B2%9C-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B0%B8%EA%B3%A0-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%8F-%EA%BF%80%ED%8C%81-%EB%AA%A8%EC%9D%8C-%EB%A7%88%EC%BC%80%ED%8C%85%ED%86%A1" target="_blank" rel="noopener noreferrer"_>디자이너 초보자를 위한 참고 사이트 및 꿀팁 모음 - 마케팅톡 매거진</a>
 
 [참고] <a href="https://news.mkttalk.com/entry/%EA%BF%80%ED%8C%81-%EA%B5%AD%EB%82%B4-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%97%91%EC%85%80%EB%9F%AC%EB%A0%88%EC%9D%B4%ED%84%B0-%EB%B0%8F-%EB%B2%A4%EC%B2%98%ED%88%AC%EC%9E%90-%EA%B8%B0%EA%B4%80-%EC%B4%9D%EC%A0%95%EB%A6%AC-%ED%8A%B8%EB%A0%8C%EB%93%9C%ED%86%A1" target="_blank" rel="noopener noreferrer"_>국내 스타트업 엑셀러레이터 및 벤처투자 기관 총정리 모음 - 마케팅톡 매거진</a>
+
+[참고] <a href="https://news.mkttalk.com/entry/%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%9D%8CDaum-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%97%85-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EC%9B%90-%EC%B6%94%EA%B0%80-%EB%B0%A9%EB%B2%95-%EB%A7%88%EC%BC%80%ED%8C%85%ED%86%A1" target="_blank" rel="noopener noreferrer"_>다음(Daum) 스마트워크 기업 이메일 서비스 회원 추가 방법 - 마케팅톡 매거진</a>
+
+[참고] <a href="https://news.mkttalk.com/entry/kakaopay-mobile-link" target="_blank" rel="noopener noreferrer"_>카카오페이 모바일 송금 링크 생성해서 간편 결제 받는 방법 - 마케팅톡 매거진</a>
+
+[참고] <a href="https://news.mkttalk.com/entry/qr-code-generator" target="_blank" rel="noopener noreferrer"_>QR 코드 생성 빌더로 내 사이트 주소(URL) QR 코드 간편 제작 방법 - 마케팅톡 매거진</a>
+
+[참고] <a href="https://news.mkttalk.com/entry/tistory-redirect-basic-url-pages-to-my-domain" target="_blank" rel="noopener noreferrer"_>티스토리 모든 페이지를 개인 설정 도메인으로 자동 이동(리디렉션) 방법 - 마케팅톡 매거진</a>
 
 ***
 [참고] <a href="https://news.trendtalk.kr/website-development-agency-checklist-trendtalk/" target="_blank" rel="noopener noreferrer"_>(IT초보자가) 웹사이트 제작 에이전시를 선정할 때 알아둬야 할 5가지 체크리스트 - 트렌드톡 매거진</a>
