@@ -68,11 +68,11 @@
 
 - <a href="https://news.trendtalk.kr/how-to-register-china-online-services/" target="_blank" rel="noopener noreferrer"_>중국 주요 온라인/SNS 서비스 회원 가입 방법 총정리</a>
 
-- <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
+- <a href="https://news.wp-kr.com/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
 
 - <a href="https://news.trendtalk.kr/baidu-seo-bad-examples-redweb/" target="_blank" rel="noopener noreferrer"_>바이두 SEO : 검색 결과 페이지에 내 웹사이트가 상위 노출되지 않는 이유</a>
 
-- <a href="https://news.wp-talk.com/entry/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+- <a href="https://news.wp-kr.com/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
 - <a href="https://coupa.ng/bgHKbz" target="_blank" rel="noopener noreferrer"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 

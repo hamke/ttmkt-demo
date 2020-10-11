@@ -39,7 +39,7 @@
 신뢰도 있는 메이저 웹호스팅 서비스를 선택해서 구입하는 것이 좋습니다.
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
+[참고] <a href="https://news.wp-kr.com/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
 
 <!-- <a name="index-02"></a> -->
 ***
@@ -153,7 +153,7 @@
 
 [참고] <a href="https://www.wp-talk.com/must-read/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 추천 글 모음</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식</a>
 

@@ -10,6 +10,14 @@
 ***
 **[필수] <a href="https://www.mkttalk.com/must-read/" target="_blank" rel="noopener noreferrer"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음 - 마케팅톡 매거진</a> ( <a href="https://blog.naver.com/mkttalk/221454174310" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> )**
 
+**[꿀팁] <a href="https://www.mkttalk.com/tools/google-utm-builder-usage/" class="highlight-disabled" target="_blank"_>구글 애널리틱스 UTM 링크를 자동으로 생성해 주는 온라인 서비스</a> ( <a href="https://news.mkttalk.com/entry/꿀팁-구글-애널리틱스-UTM-링크를-자동으로-생성해-주는-온라인-서비스-마케팅톡" target="_blank" rel="noopener noreferrer"_>마케팅톡 매거진</a> )**
+
+**[꿀팁] <a href="https://www.mkttalk.com/tools/kakaopay-link-generator-usage/" class="highlight-disabled" target="_blank"_>카카오페이 모바일 송금 링크 생성해서 간편하게 결제 받는 방법</a> ( <a href="https://news.mkttalk.com/entry/kakaopay-mobile-link" target="_blank" rel="noopener noreferrer"_>마케팅톡 매거진</a> )**
+
+**[꿀팁] <a href="https://www.mkttalk.com/tools/qr-code-generator-usage/" class="highlight-disabled" target="_blank"_>QR 코드 생성 빌더로 내 사이트 주소(URL) QR 코드 간편 생성 방법</a> ( <a href="https://news.mkttalk.com/entry/qr-code-generator" target="_blank" rel="noopener noreferrer"_>마케팅톡 매거진</a> )**
+
+**[꿀팁] <a href="https://www.mkttalk.com/tools/youtube-rss-generator-usage/" class="highlight-disabled" target="_blank"_>유튜브(YouTube) 채널 RSS 피드 주소 간편하게 찾는 방법 모음</a> ( <a href="https://news.mkttalk.com/entry/꿀팁-유튜브YouTube-채널-RSS-주소-간편하게-찾는-방법-채널-ID-활용-마케팅톡" target="_blank" rel="noopener noreferrer"_>마케팅톡 매거진</a> )**
+
 ***
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-news-wordpress-examples.md" target="_blank" rel="noopener noreferrer"_>워드프레스로 만든 사이트 최신 사례/예시 모음 (한국/일본/중국 등) - 마케팅톡 매거진</a>
 
@@ -70,10 +78,6 @@
 
 [참고] <a href="https://news.mkttalk.com/entry/youtube-video-to-gif-file-gifrun" target="_blank" rel="noopener noreferrer"_>유튜브(YouTube) 동영상을 GIF 파일로 간편하게 변환하는 방법 - 마케팅톡 매거진</a>
 
-[참고] <a href="https://news.mkttalk.com/entry/꿀팁-유튜브YouTube-채널-RSS-주소-간편하게-찾는-방법-채널-ID-활용-마케팅톡" target="_blank" rel="noopener noreferrer"_>유튜브(YouTube) 채널 RSS 주소 간편하게 찾는 방법 (채널 ID 활용) - 마케팅톡 매거진</a>
-
-[참고] <a href="https://news.mkttalk.com/entry/꿀팁-구글-애널리틱스-UTM-링크를-자동으로-생성해-주는-온라인-서비스-마케팅톡" target="_blank" rel="noopener noreferrer"_>구글 애널리틱스 UTM 링크를 자동으로 생성해 주는 온라인 서비스 - 마케팅톡 매거진</a>
-
 ***
 ### ◼︎ 네이버 스마트스토어
 
@@ -87,8 +91,6 @@
 
 ***
 ### ◼︎ 카카오톡
-
-[참고] <a href="https://news.mkttalk.com/entry/kakaopay-mobile-link" target="_blank" rel="noopener noreferrer"_>카카오페이 모바일 링크 생성해서 블로그/홈페이지에서 간편하게 판매 금액 송금 받는 방법 - 마케팅톡 매거진</a>
 
 ***
 ### ◼︎ 웹사이트/홈페이지
@@ -115,10 +117,6 @@
 [참고] <a href="https://news.mkttalk.com/entry/%EA%BF%80%ED%8C%81-%EA%B5%AD%EB%82%B4-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%97%91%EC%85%80%EB%9F%AC%EB%A0%88%EC%9D%B4%ED%84%B0-%EB%B0%8F-%EB%B2%A4%EC%B2%98%ED%88%AC%EC%9E%90-%EA%B8%B0%EA%B4%80-%EC%B4%9D%EC%A0%95%EB%A6%AC-%ED%8A%B8%EB%A0%8C%EB%93%9C%ED%86%A1" target="_blank" rel="noopener noreferrer"_>국내 스타트업 엑셀러레이터 및 벤처투자 기관 총정리 모음 - 마케팅톡 매거진</a>
 
 [참고] <a href="https://news.mkttalk.com/entry/%EA%B8%B0%EC%B4%88-%EB%8B%A4%EC%9D%8CDaum-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EC%97%85-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%9A%8C%EC%9B%90-%EC%B6%94%EA%B0%80-%EB%B0%A9%EB%B2%95-%EB%A7%88%EC%BC%80%ED%8C%85%ED%86%A1" target="_blank" rel="noopener noreferrer"_>다음(Daum) 스마트워크 기업 이메일 서비스 회원 추가 방법 - 마케팅톡 매거진</a>
-
-[참고] <a href="https://news.mkttalk.com/entry/kakaopay-mobile-link" target="_blank" rel="noopener noreferrer"_>카카오페이 모바일 송금 링크 생성해서 간편 결제 받는 방법 - 마케팅톡 매거진</a>
-
-[참고] <a href="https://news.mkttalk.com/entry/qr-code-generator" target="_blank" rel="noopener noreferrer"_>QR 코드 생성 빌더로 내 사이트 주소(URL) QR 코드 간편 제작 방법 - 마케팅톡 매거진</a>
 
 [참고] <a href="https://news.mkttalk.com/entry/tistory-redirect-basic-url-pages-to-my-domain" target="_blank" rel="noopener noreferrer"_>티스토리 모든 페이지를 개인 설정 도메인으로 자동 이동(리디렉션) 방법 - 마케팅톡 매거진</a>
 

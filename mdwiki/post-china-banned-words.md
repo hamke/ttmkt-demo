@@ -20,7 +20,7 @@
 이러한 불편함을 해결해 주는 온라인 서비스가 있습니다.
 
 ***
-- [참고] <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
+- [참고] <a href="https://news.wp-kr.com/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
 
 <!-- <a name="index-01"></a> -->
 ***
@@ -70,7 +70,7 @@ QQ와 시나 웨이보를 통해 회원 가입하면, OCR(Optical Character Reco
 
 - <a href="https://news.mkttalk.com/entry/꿀팁-중국-온라인-마케팅을-할-때-알아두면-좋은-추천-글-모음" target="_blank" rel="noopener noreferrer"_>중국 온라인 마케팅을 할 때 알아두면 좋은 추천 글 모음</a>
 
-- <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
+- <a href="https://news.wp-kr.com/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
 
 - <a href="https://coupa.ng/bgHKbz" target="_blank" rel="noopener noreferrer"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱) - 쿠팡(웹/모바일앱)</a>
 

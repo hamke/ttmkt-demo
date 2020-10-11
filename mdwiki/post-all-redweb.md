@@ -33,7 +33,7 @@
 ***
 - [참고] <a href="https://www.redweb.kr/china-loading-speed/" target="_blank"_>중국에서 홈페이지/쇼핑몰 접속할 때 느린 로딩 속도를 개선해 드립니다 - 레드웹</a>
 
-- [참고] <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
+- [참고] <a href="https://news.wp-kr.com/china-website-loding-speed-slow" target="_blank"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스톡 매거진</a>
 
 - [참고] <a href="https://news.trendtalk.kr/how-to-check-website-speed-in-china/" target="_blank"_>중국에서 접속한 내 웹사이트의 로딩 속도를 무료로 확인하는 방법 - 트렌드톡 매거진</a>
 

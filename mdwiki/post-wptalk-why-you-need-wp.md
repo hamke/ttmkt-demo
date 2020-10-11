@@ -107,7 +107,7 @@
 
 [참고] <a href="https://www.wp-talk.com/hosting/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식</a>
 

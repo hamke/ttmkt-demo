@@ -20,7 +20,7 @@
 
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
 ***
 [원본] <a href="https://bit.ly/2UygGTI" target="_blank" rel="noopener noreferrer"_>해외 호스팅 사이트그라운드에서 워드프레스 자동 설치하기</a>
@@ -58,7 +58,7 @@
 
 [참고] <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+[참고] <a href="https://news.wp-kr.com/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식</a>
 

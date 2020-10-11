@@ -76,7 +76,7 @@
 
 [참고] <a href="https://news.mkttalk.com/entry/all-marketing-business-tips-list" target="_blank" rel="noopener noreferrer"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+[참고] <a href="https://news.wp-kr.com/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
 [추천] <a href="https://coupa.ng/bgHKbz" target="_blank" rel="noopener noreferrer"_>중국 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱) - 쿠팡(웹/모바일앱)</a>
 

@@ -59,7 +59,7 @@
 
 (1) 워드프레스 교육/테스트용 웹사이트
 
-- 운영 중인 테스트용 로컬 웹서버가 없다면 : <a href="https://news.wp-talk.com/entry/%EA%BF%80%ED%8C%81-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%EB%AC%B4%EB%A3%8C-%ED%98%B8%EC%8A%A4%ED%8C%85%EC%9C%BC%EB%A1%9C-%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-000WebHost-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치 (무료 호스팅)</a> | <a href="https://wordpress.org/download/" target="_blank" rel="noopener noreferrer"_>워드프레스(WordPress.org) 최신 버전 다운로드</a>
+- 운영 중인 테스트용 로컬 웹서버가 없다면 : <a href="https://news.wp-kr.com/%EA%BF%80%ED%8C%81-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4WP-%EB%AC%B4%EB%A3%8C-%ED%98%B8%EC%8A%A4%ED%8C%85%EC%9C%BC%EB%A1%9C-%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-000WebHost-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A1" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치 (무료 호스팅)</a> | <a href="https://wordpress.org/download/" target="_blank" rel="noopener noreferrer"_>워드프레스(WordPress.org) 최신 버전 다운로드</a>
 
 (2) 프로그래밍 에디터(Editor)
 

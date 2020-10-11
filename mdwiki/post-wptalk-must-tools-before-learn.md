@@ -24,7 +24,7 @@
 워드프레스톡이 소개해 드립니다.
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-rest-api-fetch-content" rel="noopener noreferrer" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" rel="noopener noreferrer" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
 
 <!-- <a name="index-01"></a> -->
 ***

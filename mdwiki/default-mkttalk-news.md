@@ -92,6 +92,14 @@ tags: 꿀팁
 
 [참고] <a href="https://www.mkttalk.com/must-read/" target="_blank"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
 
+[꿀팁] <a href="https://www.mkttalk.com/tools/google-utm-builder-usage/" class="highlight-disabled" target="_blank"_>구글 애널리틱스 UTM 링크를 자동으로 생성해 주는 온라인 서비스</a>
+
+[꿀팁] <a href="https://www.mkttalk.com/tools/kakaopay-link-generator-usage/" class="highlight-disabled" target="_blank"_>카카오페이 모바일 송금 링크 생성해서 간편하게 결제 받는 방법</a>
+
+[꿀팁] <a href="https://www.mkttalk.com/tools/qr-code-generator-usage/" class="highlight-disabled" target="_blank"_>QR 코드 생성 빌더로 내 사이트 주소(URL) QR 코드 간편 생성 방법</a>
+
+[꿀팁] <a href="https://www.mkttalk.com/tools/youtube-rss-generator-usage/" class="highlight-disabled" target="_blank"_>유튜브(YouTube) 채널 RSS 피드 주소 간편하게 찾는 방법 모음</a>
+
 [참고] <a href="https://www.wp-talk.com/kr/must-read/" target="_blank"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
 [추천] <a href="https://coupa.ng/bgSEv7" target="_blank"_>SNS 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>

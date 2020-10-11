@@ -45,7 +45,7 @@
 정말 중요한 핵심 정보는 없습니다.
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-developers-must-plugins" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-developers-must-plugins" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 개발자가 반드시 사용해야 하는 무료 플러그인 리스트 총정리</a>
 
 <!-- <a name="index-02"></a> -->
 ***
@@ -96,7 +96,7 @@
 
 [참고] <a href="https://www.wp-talk.com/hosting/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" target="_blank" rel="noopener noreferrer"_>워드프레스 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법</a>
 

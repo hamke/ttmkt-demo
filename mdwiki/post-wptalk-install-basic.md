@@ -40,7 +40,7 @@
 호스팅 서비스 준비하기
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
 <!-- <a name="index-02"></a> -->
 ***
@@ -121,7 +121,7 @@
 ***
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
-[참고] <a href="https://news.wp-talk.com/entry/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+[참고] <a href="https://news.wp-kr.com/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법</a>
 

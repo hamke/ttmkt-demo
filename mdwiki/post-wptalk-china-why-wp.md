@@ -34,7 +34,7 @@
 ***
 [참고] <a href="https://www.mk.co.kr/news/economy/view/2018/09/597015/" target="_blank" rel="noopener noreferrer"_>슈미트 구글 전 회장 "인터넷 환경, 10년 뒤엔 미국·중국형으로 양분될 것"</a> ( 2018, 출처: <a href="https://www.cnbc.com/2018/09/20/eric-schmidt-ex-google-ceo-predicts-internet-split-china.html" target="_blank" rel="noopener noreferrer"_>CNBC</a> )
 
-[참고] <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
+[참고] <a href="https://news.wp-kr.com/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
 
 <!-- <a name="index-01"></a> -->
 ***
@@ -99,9 +99,9 @@
 
 [참고] <a href="https://news.trendtalk.kr/baidu-seo-bad-examples-redweb/" target="_blank" rel="noopener noreferrer"_>바이두 SEO : 검색 결과 페이지에 내 웹사이트가 노출되지 않는 이유</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+[참고] <a href="https://news.wp-kr.com/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
 [참고] <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식</a>
 

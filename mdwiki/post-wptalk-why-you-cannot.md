@@ -33,7 +33,7 @@
 많은 분들이 어드민(관리자) 대시보드에 모든 기능이 있다고 착각합니다.
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-rest-api-fetch-content" rel="noopener noreferrer" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" rel="noopener noreferrer" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
 
 <!-- <a name="index-02"></a> -->
 ***

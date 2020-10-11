@@ -23,7 +23,7 @@
 워드프레스를 운영할 때에도 그에 맞는 설정이 필요합니다.
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+[참고] <a href="https://news.wp-kr.com/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
 ***
 <center><a href="https://www.redweb.kr/kakao/" target="_blank" rel="noopener noreferrer"_><img src="https://hellotblog.files.wordpress.com/2019/04/internet-users-stats-2019-top20.png" style="max-width:100%;" alt="워드프레스톡 매거진"></a></center>
@@ -41,7 +41,7 @@
 그렇지 않으면 엄청 느리거나 심지어 접속이 되지 않습니다.
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
+[참고] <a href="https://news.wp-kr.com/china-website-loding-speed-slow" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
 
 <!-- <a name="index-02"></a> -->
 ***
@@ -54,7 +54,7 @@
 워드프레스 설치 방법과 중국형 워드프레스 운영 환경에 대한 필요 지식을, 사용자 레벨에 맞게 원격 화상 시스템(1:1)을 통해 자세히 교육해 드립니다. (선택)
 
 ***
-[참고] <a href="https://news.wp-talk.com/entry/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
+[참고] <a href="https://news.wp-kr.com/wordpress-hosting-recommendation" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
 <!-- <a name="index-03"></a> -->
 ***

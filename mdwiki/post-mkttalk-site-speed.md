@@ -188,7 +188,7 @@
 
 [참고] <a href="https://news.trendtalk.kr/how-to-check-website-speed-in-china/" target="_blank" rel="noopener noreferrer"_>중국에서 접속한 내 웹사이트의 로딩 속도를 무료로 확인하는 방법</a>
 
-[참고] <a href="https://news.wp-talk.com/entry/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
+[참고] <a href="https://news.wp-kr.com/all-wordpress-recommendation-wptalk" target="_blank" rel="noopener noreferrer"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
 [추천] <a href="https://coupa.ng/bgSEv7" target="_blank" rel="noopener noreferrer"_>SNS 마케팅 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 

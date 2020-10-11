@@ -51,7 +51,7 @@
 
 - <a href="https://news.trendtalk.kr/how-to-register-china-online-services/" rel="noopener noreferrer" target="_blank"_>중국 주요 온라인/SNS 서비스 회원 가입 방법 총정리</a>
 
-- <a href="https://news.wp-talk.com/entry/china-website-loding-speed-slow" rel="noopener noreferrer" target="_blank"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
+- <a href="https://news.wp-kr.com/china-website-loding-speed-slow" rel="noopener noreferrer" target="_blank"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유</a>
 
 - <a href="https://www.wp-talk.com/must-read/" rel="noopener noreferrer" target="_blank"_>워드프레스(WP) 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 
