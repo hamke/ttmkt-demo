@@ -10,6 +10,8 @@
 ***
 **[필수] <a href="https://www.mkttalk.com/must-read/" target="_blank" rel="noopener noreferrer"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음 - 마케팅톡 매거진</a> ( <a href="https://blog.naver.com/mkttalk/221454174310" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> )**
 
+**[참고] <a href="https://www.mkttalk.com/tools/all/" class="highlight-disabled" target="_blank"_>마케팅에 도움이 되는 최신 온라인 툴 서비스 모음</a>**
+
 **[꿀팁] <a href="https://www.mkttalk.com/tools/google-utm-builder-usage/" class="highlight-disabled" target="_blank"_>구글 애널리틱스 UTM 링크를 자동으로 생성해 주는 온라인 서비스</a> ( <a href="https://news.mkttalk.com/entry/꿀팁-구글-애널리틱스-UTM-링크를-자동으로-생성해-주는-온라인-서비스-마케팅톡" target="_blank" rel="noopener noreferrer"_>마케팅톡 매거진</a> )**
 
 **[꿀팁] <a href="https://www.mkttalk.com/tools/kakaopay-link-generator-usage/" class="highlight-disabled" target="_blank"_>카카오페이 모바일 송금 링크 생성해서 간편하게 결제 받는 방법</a> ( <a href="https://news.mkttalk.com/entry/kakaopay-mobile-link" target="_blank" rel="noopener noreferrer"_>마케팅톡 매거진</a> )**
