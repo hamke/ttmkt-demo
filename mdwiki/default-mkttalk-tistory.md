@@ -44,7 +44,7 @@
 
 [참고] <a href="https://www.mkttalk.com/must-read/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
 
-[참고] <a href="https://www.mkttalk.com/tools/all/" class="highlight-disabled" target="_blank"_>마케팅에 도움이 되는 최신 온라인 툴 서비스 모음</a>
+[참고] <a href="https://www.mkttalk.com/tools/all-list/" class="highlight-disabled" target="_blank"_>마케팅에 도움이 되는 최신 온라인 툴 서비스 모음</a>
 
 [꿀팁] <a href="https://www.mkttalk.com/tools/google-utm-builder-usage/" class="highlight-disabled" target="_blank"_>구글 애널리틱스 UTM 링크를 자동으로 생성해 주는 온라인 서비스</a>
 
