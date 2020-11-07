@@ -34,7 +34,7 @@
 ## ◼︎ 맺음말
 
 마케팅톡(MKTTALK.COM)이 제공하는 위의 정보가 도움이 되었기를 바랍니다.
-이 외에 알고 계신 꿀팁이 있다면, 많은 분들과 정보를 공유해 주세요!
+도움이 되었다면, 많은 분들과 정보를 공유해 주세요!
 
 <!-- <a name="recommendation"></a> -->
 ***
@@ -53,6 +53,12 @@
 [꿀팁] <a href="https://www.mkttalk.com/tools/qr-code-generator-usage/" class="highlight-disabled" target="_blank"_>QR 코드 생성 빌더로 내 사이트 주소(URL) QR 코드 간편 생성 방법</a>
 
 [꿀팁] <a href="https://www.mkttalk.com/tools/youtube-rss-generator-usage/" class="highlight-disabled" target="_blank"_>유튜브(YouTube) 채널 RSS 피드 주소 간편하게 찾는 방법 모음</a>
+
+[꿀팁] <a href="https://www.mkttalk.com/tools/brunch-rss-generator-usage/" class="highlight-disabled" target="_blank"_>브런치(Brunch) 채널 RSS 피드 주소 간편하게 찾는 방법</a>
+
+[꿀팁] <a href="https://www.chinatalk.net/tools/china-website-icp-details/usage/" target="_blank"_>중국 웹사이트 운영 회사 등록 상세 정보(ICP 비안 등) 간편 확인 방법</a>
+
+[꿀팁] <a href="https://www.chinatalk.net/tools/china-phone-number-details/usage/" target="_blank"_>중국 핸드폰 전화번호 상세 정보(통신사, 개통 지역 등) 간편 확인 방법</a>
 
 [참고] <a href="https://www.wp-talk.com/must-read/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>워드프레스 초보자가 알아두면 좋은 워드프레스 추천 글 목록</a>
 

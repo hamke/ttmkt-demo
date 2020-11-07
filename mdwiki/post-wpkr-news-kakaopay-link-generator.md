@@ -1,12 +1,14 @@
-# XXXXXXXXXXXXXXXX - 워드프레스웹코리아
+# 카카오페이 수신용 링크 생성해서 온라인 간편 결제 및 판매 수익 받는 방법 - 워드프레스웹코리아
 
 <!-- ---
-title: "XXXXXXXXXXXXXXXX - 워드프레스웹코리아"
-description: XXXXXXXXXXXXXXXX
-cover_img: https://hellotblog.files.wordpress.com/2018/04/trendtalk-wordpress-intro-main-800x450.jpg
-feature_img: https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-cover-nekoshoku-01-1800x1200-1.png
+title: "카카오페이 수신용 링크 생성해서 온라인 간편 결제 및 판매 수익 받는 방법 - 워드프레스웹코리아"
+description: 카카오페이 수신용 링크 생성해서 온라인 간편 결제 및 판매 수익 받는 방법
+cover_img: https://hellotblog.files.wordpress.com/2020/09/kakaopay-link-cover-01-800x500-1.jpg
+feature_img: https://hellotblog.files.wordpress.com/2020/11/kakaopay-link-generator-cover-image-01-1800x900-1.png
 categories: 꿀팁
-tags: 꿀팁
+tags:
+- 꿀팁
+- 카카오페이
 --- -->
 
 - [XXXXXXXX](#index-00)

@@ -6,6 +6,9 @@
 **◼︎ 워드프레스웹코리아 - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>101</a> | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-kr.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
+**(미발표) [꿀팁] <a href="https://demo.ttmkt.com/mdwiki/#!post-wpkr-news-kakaopay-link-generator.md" target="_blank" rel="noopener noreferrer"_>카카오페이 수신용 링크 생성해서 온라인 간편 결제 및 판매 수익 받는 방법 - 워드프레스웹코리아</a>**
+
+***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-guide.md" target="_blank" rel="noopener noreferrer"_>[워드프레스] 설치 방법 및 기본 사용법 최신 가이드 - 워드프레스웹코리아</a> | <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-install-basic.md" target="_blank" rel="noopener noreferrer"_>참고</a>**
 
 ***
