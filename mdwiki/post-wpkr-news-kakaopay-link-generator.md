@@ -186,7 +186,7 @@ www.wp-kr.com/subscribe/</a></center>
 ***
 
 <!-- Google Adsense (WP-TALK : Middle) : Start -->
-<ins class="adsbygoogle"
+<!-- <ins class="adsbygoogle"
    style="display:block"
    data-ad-client="ca-pub-1087484447886876"
    data-ad-slot="8762487232"
@@ -194,7 +194,7 @@ www.wp-kr.com/subscribe/</a></center>
    data-full-width-responsive="false"></ins>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+</script> -->
 <!-- Google Adsense (WP-TALK : Middle) : End -->
 
 ***
