@@ -94,6 +94,8 @@
 
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-bluehost-beginner.md" target="_blank" rel="noopener noreferrer"_>워드프레스 초보자가 블루호스트(Bluehost) 호스팅을 이용해야 하는 이유 - 트렌드톡 매거진</a>
 
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wpkr-cafe24-hosting-install.md" target="_blank" rel="noopener noreferrer"_>워드프레스 카페24 호스팅에 간편 자동 설치 방법 [최신 업데이트] - 워드프레스웹코리아</a>
+
 ***
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-monetization.md" target="_blank" rel="noopener noreferrer"_>워드프레스로 수익화하는 방법 총정리 - 워드프레스웹코리아</a>
 
