@@ -202,6 +202,8 @@
 ***
 [참고] <a href="https://news.mkttalk.com/entry/wordpress-analytics-theme-plugins-hosting" target="_blank" rel="noopener noreferrer"_>"워드프레스 애널리틱스"로 사이트 테마/플러그인/호스팅/제작회사 정보 간편 조회 방법 - 마케팅톡 매거진</a>
 
+[참고] <a href="https://news.mkttalk.com/entry/wordpress-sale-themes-plugins-hosting-blackfriday-cybermonday" target="_blank" rel="noopener noreferrer"_>워드프레스 블랙프라이데이/사이버먼데이 테마/호스팅 할인 세일 정보 모음 (엔바토마켓/테마포레스트 등) - 마케팅톡 매거진</a>
+
 ***
 x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" rel="noopener noreferrer"_>중국 워드프레스 웹사이트 제작을 위해 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스웹코리아 (네이버 블로그)</a>
 

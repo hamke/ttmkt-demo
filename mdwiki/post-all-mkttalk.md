@@ -69,6 +69,8 @@
 
 [참고] <a href="https://news.mkttalk.com/entry/꿀팁-마크다운Markdown을-HTML로-변환해-주는-온라인-서비스-마케팅톡" target="_blank" rel="noopener noreferrer"_>마크다운(Markdown)을 HTML로 변환해 주는 온라인 서비스 - 마케팅톡 매거진</a>
 
+[참고] <a href="https://news.mkttalk.com/entry/telegram-bot-api-create-alarm-system" target="_blank" rel="noopener noreferrer"_>텔레그램 봇 생성 및 자동 알람 시스템 구축 방법 - 마케팅톡 매거진</a>
+
 [참고] <a href="https://news.trendtalk.kr/onestop-search-engine-online-service/" target="_blank" rel="noopener noreferrer"_>해외 주요 검색 엔진을 한 번의 키워드 입력으로 편리하게 검색해 보세요 - 트렌드톡 매거진</a>
 
 [참고] <a href="https://news.mkttalk.com/entry/꿀팁-중국-주요-동영상-플랫폼-내-영상-컨텐츠를-편리하게-다운로드할-수-있는-서비스-스타트차이나" target="_blank" rel="noopener noreferrer"_>중국 주요 동영상 플랫폼 내 영상 컨텐츠를 편리하게 다운로드할 수 있는 서비스 - 마케팅톡 매거진</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-china-video.md" target="_blank" rel="noopener noreferrer"_>수정 중</a> )
@@ -202,7 +204,7 @@ curl "https://openapi.naver.com/v1/search/news.xml?query=%EC%A4%91%EA%B5%AD&disp
 ***
 <a href="https://www.mkttalk.com/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2018/10/mkttalk-cover-966x200.png#full)</a>
 ***
-<a href="https://www.mkttalk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/03/mkttalk-icon-120x120.png)</a>
+<a href="https://www.mkttalk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2020/11/mkttalk-logo-default-round-01-120x120-1.png)</a>
 ***
 <a href="https://www.mkttalk.com/kakao/" target="_blank" rel="noopener noreferrer"_>![](https://hellotblog.files.wordpress.com/2019/03/kaplan-logo-round-01-150x150.png)</a>
 ***
