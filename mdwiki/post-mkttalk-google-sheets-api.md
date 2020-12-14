@@ -1,6 +1,6 @@
 # 구글 스프레드시트 API 권한 받아서 외부에서 데이터 업데이트/활용 방법 (Google Sheets API) 꿀팁 - 마케팅톡 매거진
 
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/01/mkttalk-youtube-300x300.png" style="max-width:100%; border-radius:1rem;" alt="마케팅톡매거진"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-post-google-sheets-api-get-credentials-01-300x300-1.jpg" style="max-width:100%; border-radius:1rem;" alt="마케팅톡매거진"></a></center>
 
 <!-- <a name="index"></a> -->
 ***
