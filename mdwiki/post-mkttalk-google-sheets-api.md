@@ -8,8 +8,7 @@
 
 - [구글 스프레드시트(Google Sheets) VS 마이크로소프트 엑셀(MS Excel)](#index-00)
 - [구글 스프레드시트(Google Sheets) API 권한 받는 방법](#index-01)
-- [구글 스프레드시트(Google Sheets)에 API 연결 방법](#index-02)
-- [XXXXXXXX](#index-03)
+- [구글 스프레드시트(Google Sheets)에 API 연결 방법 (PHP)](#index-02)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -23,11 +22,17 @@
 
 또한 구글 스프레드시트(Google Sheets)가 제공하는 공식 API를 통해 외부에서 데이터를 자유롭게 활용할 수 있습니다.
 
+***
+- 구글 스프레드시트 (Google Sheets) 메인 페이지 : <a href="https://www.google.com/sheets/about/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
+
+***
+참고 : https://blog.usejournal.com/how-to-use-google-sheets-as-a-cms-or-a-database-f9d8e736fdce (삭제 예정)
+
 <!-- <a name="index-01"></a> -->
 ***
 ## ◼︎ 구글 스프레드시트(Google Sheets) API 권한 받는 방법
 
-<!-- https://blog.usejournal.com/how-to-use-google-sheets-as-a-cms-or-a-database-f9d8e736fdce -->
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://miro.medium.com/max/700/1*hHZB4goBMEl0xigrdGXSlA.gif" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
 먼저 구글 스프레드시트(Google Sheets) 개발자 콘솔에 접속합니다.
 
@@ -36,17 +41,17 @@
 
 ***
 
-click on “Library” in the left menu. You will be able to choose from a range of APIs within Google — in this case, you need to look for “Google Sheets API” and click on “Enable”.
-Now you need to create the credentials to authenticate & access the data from your sheet 🔑. Go back to the dashboard, and click on “Credentials” in the sidebar. If it’s your first time here, you will be asked to create a new project. Click on “Create”, give it a name, and proceed. Once done, you will finally be able to create the credentials. Click on “Create credentials”, and select “Service account key” from the dropdown.
+click on "Library" in the left menu. You will be able to choose from a range of APIs within Google — in this case, you need to look for "Google Sheets API" and click on "Enable".
+Now you need to create the credentials to authenticate & access the data from your sheet. Go back to the dashboard, and click on "Credentials" in the sidebar. If it’s your first time here, you will be asked to create a new project. Click on "Create", give it a name, and proceed. Once done, you will finally be able to create the credentials. Click on "Create credentials", and select "Service account key" from the dropdown.
 
-You will be redirected to a menu where you can create the service key. You can give it any name, select a role (ensure that the role you select has read & write permissions: Project>Owner is a good option), and create a unique email address. Make sure that the key type is JSON, and click on “Create”. The key will be automatically downloaded to your computer — save it inside your server in an accessible place, so you can import it later to your code.
-The email address is very important, and you have to share the previously created sheet with it, giving it read & write permissions. In order to do that, just go back to the sheet, click on “Share”, and under “People” just paste the email address, select “Edit”, and click on done.
+You will be redirected to a menu where you can create the service key. You can give it any name, select a role (ensure that the role you select has read & write permissions: Project>Owner is a good option), and create a unique email address. Make sure that the key type is JSON, and click on "Create". The key will be automatically downloaded to your computer — save it inside your server in an accessible place, so you can import it later to your code.
+The email address is very important, and you have to share the previously created sheet with it, giving it read & write permissions. In order to do that, just go back to the sheet, click on "Share", and under "People" just paste the email address, select "Edit", and click on done.
 
 <!-- <a name="index-02"></a> -->
 ***
-## ◼︎ 구글 스프레드시트(Google Sheets)에 API 연결 방법
+## ◼︎ 구글 스프레드시트(Google Sheets)에 API 연결 방법 (PHP)
 
-In order to connect to the sheet, we’ll be using a simple PHP script, your service key and the sheets URL. To make things easier, I am using the Google API PHP Client library that you can find in GitHub 💁‍♀️. You can install it using composer (follow the guide in the GitHub repository), but if you don’t have it set up, or don’t know how it works, you can download the latest release from this page, save it inside your server (in my case it’s in the “google” folder), and insert the following line on top of your script:
+In order to connect to the sheet, we’ll be using a simple PHP script, your service key and the sheets URL. To make things easier, I am using the Google API PHP Client library that you can find in GitHub. You can install it using composer (follow the guide in the GitHub repository), but if you don’t have it set up, or don’t know how it works, you can download the latest release from this page, save it inside your server (in my case it’s in the "google" folder), and insert the following line on top of your script:
 
 ```
 require_once 'google/vendor/autoload.php';
@@ -58,47 +63,20 @@ $client = new \Google_Client();
 $client->setApplicationName('YOURAPPNAME');
 $client->setScopes([\Google_Service_Sheets::SPREADSHEETS]);
 $client->setAccessType('offline');
-$client->setAuthConfig(__DIR__ . '/servicekey.json');
+$client->setAuthConfig(__DIR__ . '/credentials.json');
 $service = new Google_Service_Sheets($client);
 $spreadsheetId = "YOUR_SHEET_ID";
+$range = 'SHEET_NAME!A1:A5';
+$response = $service->spreadsheets_values->get($spreadsheetId, $range);
 ```
 
 You have to tweak the following parts from the snippet:
 ‘YOURAPPNAME’: The name of your application, it can be anything (no relation with the name of your project in the Google API Console!)
 ‘/servicekey.json’: The directory where you stored the service key that was downloaded previously
-‘YOUR_SHEET_ID’: The ID of your sheet. For example, in this example sheet, https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit, the ID is the part that goes from /d/ to /edit, so it would be “1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms”.
-
-
-<!-- <a name="index-03"></a> -->
-***
-## ◼︎
+‘YOUR_SHEET_ID’: The ID of your sheet. For example, in this example sheet, https://docs.google.com/spreadsheets/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit, the ID is the part that goes from /d/ to /edit, so it would be "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms".
 
 With the authentication set up, you can now access the data from your sheet freely 🧐. In order to read from the sheet, there are several ways to go about it (& explained more in depth in the API documentation), but I will explain the basics to read a specific range or the entire sheet.
-If you want to read a specific range from the sheet, you need to add the following snippet to the script (after the authentication):
 
-```
-$range = 'SHEET_NAME!A1:A5';
-$response = $service->spreadsheets_values->get($spreadsheetId, $range);
-$values = $response->getValues();
-if (empty($values)) {
-   print 'No data found.\n';
-} else {
-   foreach ($values as $row) {
-      for ($i = 0; $i < sizeof($row); $i++) {
-          echo $row[$i].'\n';
-      }
-   }
-}
-```
-Here is a breakdown of the script:
-
-‘SHEET_NAME!A1:A5’: This should include the name of your sheet and the desired range. The name of the sheet tends to be Sheet1 by default, but if you are unsure, you can always see what it is in the bottom left of your sheet. As per the part after the “!” (which you have to keep, so if your sheet is called Sheet1, put “Sheet1!”), you simply have to specify a range from a cell to another, just like you would do in Google Sheets for other purposes.
-Foreach loop: This part simply iterates through the generated array and outputs each cell individually. From that point, you are free to use the data you retrieve for any purpose.
-Alternatively, if you want to read the entire sheet, simply replace the range with the name of the sheet, likewise (without the exclamation mark):
-
-```
-$range = 'SHEET_NAME';
-```
 
 <!-- <a name="index-epilogue"></a> -->
 ***
