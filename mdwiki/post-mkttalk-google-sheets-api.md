@@ -16,11 +16,15 @@
 ***
 ## ◼︎ 구글 스프레드시트(Google Sheets) VS 마이크로소프트 엑셀(MS Excel)
 
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-sheets-vs-ms-excel-image-01-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
 구글 스프레드시트(Google Sheets)는 마이크로소프트 엑셀(MS Excel)과 비슷한 기능을 하는 온라인 도구입니다.
 
 마이크로소프트 엑셀(MS Excel)와는 달리, 온라인에서 사용할 수 있어 협업 등에 장점이 있습니다.
 
 또한 구글 스프레드시트(Google Sheets)가 제공하는 공식 API를 통해 외부에서 데이터를 자유롭게 활용할 수 있습니다.
+
+구글 스프레드시트(Google Sheets) API를 사용하기 위해서, 먼저 연결하고 싶은 새로운 구글 스프레드시트(Google Sheets)를 생성합니다. (기존에 사용하고 있던 스프레드시트가 있다면, 해당 시트를 그대로 이용해도 됩니다.)
 
 ***
 - 구글 스프레드시트 (Google Sheets) 메인 페이지 : <a href="https://www.google.com/sheets/about/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
@@ -32,15 +36,68 @@
 ***
 ## ◼︎ 구글 스프레드시트(Google Sheets) API 권한 받는 방법
 
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://miro.medium.com/max/700/1*hHZB4goBMEl0xigrdGXSlA.gif" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-img-intro-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
-먼저 구글 스프레드시트(Google Sheets) 개발자 콘솔에 접속합니다.
+구글 스프레드시트(Google Sheets) API 권한을 설정하기 위해, 먼저 구글 스프레드시트(Google Sheets) 개발자 콘솔에 접속합니다.
 
 ***
 - 구글 API 콘솔 (Google API Console) : <a href="https://console.cloud.google.com/apis/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-project-img-01-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
+신규 프로젝트를 생성하기 위해, 상단 메뉴의 해당 버튼을 클릭합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-project-image-02-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+프로젝트 이름을 입력한 뒤, 새로운 프로젝트를 생성합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-library-img-01-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+구글 스프레드시트(Google Sheets) API를 활성화하기 위해, "Library" 메뉴를 클릭합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-library-img-02-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+"Google Sheets API"를 찾은 다음, "활성화(Enable)" 버튼을 클릭합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-credentials-img-01-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+프로젝트용 서비스 계정(Service Account)을 생성하기 위해, "Credentials" 메뉴를 클릭합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-credentials-img-02-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+"Create Credentials" 버튼을 클릭한 뒤, "서비스 계정(Service Account)" 메뉴를 선택합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-credentials-img-03-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+계정 권한은 "Owner"를 선택합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-credentials-img-04-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+"서비스 계정(Service Account)" 생성을 완료한 뒤, "Add Key" 버튼을 클릭해서, JSON 형식의 "Private Key" 파일을 다운로드합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-credentials-img-05-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+프로젝트 대시보드에서 "서비스 계정(Service Account)"의 이메일 주소를 확인합니다.
+
+***
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/mkttalk-google-cloud-platform-apis-share-img-01-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+연결하고자 하는 구글 스프레드시트(Google Sheets)에 접속한 뒤, 우측 상단의 "공유하기(Share)" 버튼을 클릭합니다.
+이미 생성해 놓은 서비스 계정(Service Account) 이메일 주소를 입력합니다.
+
+이로써, 구글 스프레드시트(Google Sheets) API를 사용하기 위한 모든 준비가 완료되었습니다.
+
+***
+***
 click on "Library" in the left menu. You will be able to choose from a range of APIs within Google — in this case, you need to look for "Google Sheets API" and click on "Enable".
 Now you need to create the credentials to authenticate & access the data from your sheet. Go back to the dashboard, and click on "Credentials" in the sidebar. If it’s your first time here, you will be asked to create a new project. Click on "Create", give it a name, and proceed. Once done, you will finally be able to create the credentials. Click on "Create credentials", and select "Service account key" from the dropdown.
 
