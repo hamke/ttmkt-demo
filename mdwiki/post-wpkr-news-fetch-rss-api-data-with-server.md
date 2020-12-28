@@ -1,4 +1,4 @@
-# 나만의 RSS 데이터 API로 외부 사이트 최신 글 자동 표시 방법 (워드프레스/티스토리에 유튜브/네이버블로그/브런치 정보 사용 가능) - 워드프레스웹코리아
+# 나만의 RSS 데이터 API로 외부 사이트 최신 글 자동 표시 방법 (워드프레스/티스토리에 유튜브/네이버블로그/브런치 정보 표시 가능) - 워드프레스웹코리아
 
 <!-- ---
 title: "XXXXXXXXXXXXXXXX - 워드프레스웹코리아"
@@ -41,6 +41,7 @@ tags: 꿀팁
 외부 RSS 데이터 -> 내 RSS 데이터 서버 -> 원하는 곳에 불러 온 데이터 표시
 
 ***
+<center><a href="https://www.wp-talk.com/kr/item/rss-api-generator/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/12/rss-api-generator-demo-image-01-800x500-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 - <a href="https://www.wp-talk.com/kr/item/rss-api-generator/demo/" target="_blank"_>RSS 데이터 서버 : 데모 사이트</a>
 
