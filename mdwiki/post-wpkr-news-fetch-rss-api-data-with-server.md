@@ -36,11 +36,13 @@ tags: 꿀팁
 
 <center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
+본인 또는 타인이 운영하고 있는 외부 사이트/블로그의 최신 글 목록 데이터를 손쉽게 가져와서, 원하는 곳에 자유롭게 활용할 수 있습니다.
 
+외부 RSS 데이터 -> 내 RSS 데이터 서버 -> 원하는 곳에 불러 온 데이터 표시
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+- <a href="https://www.wp-talk.com/kr/item/rss-api-generator/demo/" target="_blank"_>RSS 데이터 서버 : 데모 사이트</a>
 
 ***
 
