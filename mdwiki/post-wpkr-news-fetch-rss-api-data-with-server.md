@@ -182,20 +182,6 @@ www.wp-kr.com/subscribe/</a></center>
 </div>
 
 ***
-
-<!-- Google Adsense (WP-TALK : Middle) : Start -->
-<ins class="adsbygoogle"
-   style="display:block"
-   data-ad-client="ca-pub-1087484447886876"
-   data-ad-slot="8762487232"
-   data-ad-format="auto"
-   data-full-width-responsive="false"></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- Google Adsense (WP-TALK : Middle) : End -->
-
-***
 |분류|이름|링크|
 |:-:|:-:|:-:|
 ||||
