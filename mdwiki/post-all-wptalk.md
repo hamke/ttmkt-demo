@@ -212,8 +212,7 @@ x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" r
 
 x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 디자인 및 템플릿 수정을 위해 알아야 할 것들 – 워드프레스웹코리아 (네이버 블로그)</a>
 
-x [참고] <a href="https://blog.naver.com/wp-kr/222200313104" target="_blank" rel="noopener noreferrer"_>워드프레스 중계 서버 시스템으로 외부 데이터 활용 예시 및 필수 꿀팁
-– 워드프레스웹코리아 (네이버 블로그)</a>
+x [참고] <a href="https://blog.naver.com/wp-kr/222200313104" target="_blank" rel="noopener noreferrer"_>워드프레스 중계 서버 시스템으로 외부 데이터 활용 예시 및 필수 꿀팁 – 워드프레스웹코리아 (네이버 블로그)</a>
 
 ***
 [추천] <a href="https://coupa.ng/bgHJQN" target="_blank" rel="noopener noreferrer"_>**워드프레스 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)**</a>
