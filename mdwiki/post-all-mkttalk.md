@@ -73,6 +73,8 @@
 
 [참고] <a href="https://news.mkttalk.com/entry/telegram-bot-api-create-alarm-system" target="_blank" rel="noopener noreferrer"_>텔레그램 봇 생성 및 자동 알람 시스템 구축 방법 - 마케팅톡 매거진</a>
 
+[참고] <a href="https://news.mkttalk.com/entry/easycron-webcron-automation-system" target="_blank" rel="noopener noreferrer"_>이지크론(EasyCron) 웹크론 서비스 회원 가입 및 온라인 자동화 시스템 구축 방법 - 마케팅톡 매거진</a>
+
 [참고] <a href="https://news.trendtalk.kr/onestop-search-engine-online-service/" target="_blank" rel="noopener noreferrer"_>해외 주요 검색 엔진을 한 번의 키워드 입력으로 편리하게 검색해 보세요 - 트렌드톡 매거진</a>
 
 [참고] <a href="https://news.mkttalk.com/entry/꿀팁-중국-주요-동영상-플랫폼-내-영상-컨텐츠를-편리하게-다운로드할-수-있는-서비스-스타트차이나" target="_blank" rel="noopener noreferrer"_>중국 주요 동영상 플랫폼 내 영상 컨텐츠를 편리하게 다운로드할 수 있는 서비스 - 마케팅톡 매거진</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-china-video.md" target="_blank" rel="noopener noreferrer"_>수정 중</a> )
