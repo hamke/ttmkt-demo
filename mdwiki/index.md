@@ -18,8 +18,8 @@ gainNode.connect(audioCtx.destination);
 <!-- Google Adsense (MKTTALK : Middle) -->
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-8106408173466568"
-     data-ad-slot="8421395558"
+     data-ad-client="ca-pub-1087484447886876"
+     data-ad-slot="7181624283"
      data-ad-format="auto"
      data-full-width-responsive="false"></ins>
 <script>
