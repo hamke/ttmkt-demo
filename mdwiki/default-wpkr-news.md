@@ -116,6 +116,8 @@ tags: 꿀팁
 
 - <a href="https://www.wp-talk.com/kr/hosting/" target="_blank"_>워드프레스 설치에 최적화된 추천 호스팅 서비스 모음</a>
 
+- <a href="https://www.wp-talk.com/kr/good-agency/" target="_blank"_>워드프레스 제작업체/에이전시/프리랜서 실력 파악/감별 방법</a>
+
 - <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법</a>
 
 - <a href="https://www.wp-talk.com/go/theme/best/" target="_blank"_>워드프레스 테마 주간 판매 순위 실시간 확인하기</a>
@@ -140,6 +142,10 @@ tags: 꿀팁
 <div id="wpsalenow-plugins-sale"></div>
 <script src="./../js/wpsalenow.js"></script>
 
+<div id="coupang-data"></div>
+<script src="https://www.ttmkt.com/api/coupang/products/search/assets/js/wp-kr-news/"></script>
+
+***
 <center><a href="https://www.wp-kr.com/app/kakaochat/" target="_blank_"><img src="https://hellotblog.files.wordpress.com/2020/09/kakao-openchat-logo-round-01-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아 카카오톡 오픈채팅방"></a></center>
 
 <center><b>워드프레스 및 사이트 제작 정보 공유</b></center>
