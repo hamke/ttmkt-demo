@@ -160,7 +160,7 @@
 [참고] <a href="https://www.wp-talk.com/kr/subscribe/" target="_blank"_>**워드프레스 최신 뉴스 및 꿀팁 정보 구독하기 : www.wp-talk.com/kr/subscribe/**</a>
 
 ***
-[참고] <a href="https://www.wp-talk.com/kr/bad-agency-china/" target="_blank" rel="noopener noreferrer"_>**중국어/중문 웹사이트/홈페이지 엉터리 제작업체/에이전시/프리랜서 특징 및 중국 타겟 사이트 구축 의뢰시 주의 사항**</a>
+[참고] <a href="https://www.wp-talk.com/kr/bad-agency-china/" target="_blank" rel="noopener noreferrer"_>**중국어 홈페이지/쇼핑몰 엉터리 제작업체/에이전시/프리랜서 특징 및 주의 사항**</a>
 
 [참고] <a href="https://news.wp-kr.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스웹코리아</a>
 
