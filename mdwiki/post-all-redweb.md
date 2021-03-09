@@ -26,7 +26,7 @@
 - (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-theme-autumn.md" target="_blank"_>중국 워드프레스(WP) 웹사이트를 위한 추천 테마 : Autumn - 워드프레스톡/트렌드톡 매거진</a>
 
 ***
-[참고] <a href="https://www.wp-talk.com/kr/bad-agency-china/" target="_blank" rel="noopener noreferrer"_>**중국어 홈페이지/쇼핑몰 엉터리 제작업체/에이전시/프리랜서 특징 및 주의 사항**</a>
+[참고] <a href="https://www.wp-talk.com/kr/bad-agency-china/" target="_blank" rel="noopener noreferrer"_>중국어 홈페이지/쇼핑몰 엉터리 제작업체/에이전시/프리랜서 특징 및 주의 사항</a>
 
 [참고] <a href="https://news.wp-kr.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스웹코리아</a>
 
