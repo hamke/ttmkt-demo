@@ -3,6 +3,43 @@
 <a href="https://www.redweb.kr/" target="_blank"_>![](https://hellotblog.files.wordpress.com/2018/10/redweb-korea-banner-966x200.png#full)</a>
 
 ***
+## ◼︎ 홈페이지차이나 (워드프레스)
+
+- **홈페이지차이나 (HomepageChina) : <a href="https://www.homepagechina.com/kr/" target="_blank"_>홈페이지</a>**
+
+***
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-optimization.md" target="_blank"_>워드프레스 웹사이트를 중국형 인터넷 환경에 맞도록 최적화 작업해 드립니다 - 워드프레스톡 매거진</a>**
+
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-wp.md" target="_blank"_>중국형 인터넷 환경에 최적화된 워드프레스 웹사이트 설치 대행해 드립니다 - 워드프레스톡 매거진</a>**
+
+***
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-why-wp.md" target="_blank"_>중국 웹사이트/홈페이지를 워드프레스로 제작해야 하는 이유 - 워드프레스톡 매거진</a>**
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-china-wordpress.md" target="_blank"_>중국 마케팅을 위한 워드프레스 웹사이트/쇼핑몰 제작할 때 알아둬야 할 필수 상식 - 트렌드톡 매거진</a>
+
+**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-china-wp-plugins.md" target="_blank"_>중국 웹사이트를 만들 때 반드시 필요한 워드프레스(WP) 추천 플러그인 - 워드프레스톡/트렌드톡 매거진</a>**
+
+- (미발표) [참고] <a href="http://localhost:2368/wordpress-china-baidu-plugin-redweb/" target="_blank"_>중국 바이두 지도 워드프레스(WP) 플러그인 추천 - 워드프레스톡/트렌드톡 매거진</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-wechat-social-login.md" target="_blank"_>중국 워드프레스(WP) 웹사이트를 위한 추천 플러그인 : WP 소셜 로그인(WP Social Login) - 워드프레스톡/트렌드톡 매거진</a>
+
+- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-theme-autumn.md" target="_blank"_>중국 워드프레스(WP) 웹사이트를 위한 추천 테마 : Autumn - 워드프레스톡/트렌드톡 매거진</a>
+
+***
+[참고] <a href="https://www.wp-talk.com/kr/bad-agency-china/" target="_blank" rel="noopener noreferrer"_>**중국어 홈페이지/쇼핑몰 엉터리 제작업체/에이전시/프리랜서 특징 및 주의 사항**</a>
+
+[참고] <a href="https://news.wp-kr.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스웹코리아</a>
+
+***
+x [참고] <a href="https://blog.naver.com/start-china/222270043466" target="_blank" rel="noopener noreferrer"_>중국어/중국향/중문 사이트가 사용 중인 호스팅 사이트 확인 방법 꿀팁 - 스타트차이나 (네이버 블로그)</a>
+
+x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank"_>중국 워드프레스 웹사이트/쇼핑몰 제작에 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스톡 (네이버 블로그)</a>
+
+x [참고] <a href="https://blog.naver.com/redweb-korea/221376799379" target="_blank"_>중국 워드프레스 웹사이트를 위한 추천 플러그인 : WP 바이두 지도(WP Baidu Map) - 레드웹 (네이버 블로그)</a>
+
+x [참고] <a href="https://blog.naver.com/redweb-korea/221376120335" target="_blank"_>중국 워드프레스 웹사이트를 위한 추천 플러그인 : Advanced Responsive Video Embedder - 레드웹 (네이버 블로그)</a>
+
+***
 ## ◼︎ 레드웹(RedWeb)
 
 - **레드웹(RedWeb) - 중국형 인터넷 환경 최적화 : <a href="https://www.redweb.kr/" target="_blank"_>홈페이지</a> | <a href="https://store.redweb.kr/" target="_blank"_>스토어</a> | <a href="https://store.redweb.kr/guide/" target="_blank"_>가이드</a> | <a href="https://www.redweb.kr/naver-blog/" target="_blank"_>네이버 블로그</a> | <a href="https://www.hellotown.net/talks/d/223" target="_blank"_>WP 상품 리스트</a>**
@@ -194,35 +231,6 @@ x [참고] <a href="https://blog.naver.com/baidu-korea/221374170743" target="_bl
 [참고] <a href="https://news.trendtalk.kr/bluehost-china-hongkong-hosting-register/" target="_blank"_>블루호스트 차이나(Bluehost China)로 홍콩 및 중국 호스팅 서비스 활용하는 방법 - 트렌드톡 매거진</a>
 
 [참고] <a href="https://news.trendtalk.kr/gitee-mayun-china-github-intro/" target="_blank"_>중국판 깃허브(Github), 기티(Gitee, 码云) 서비스 소개 및 회원 가입 방법 - 트렌드톡 매거진</a>
-
-***
-***
-## - 워드프레스
-
-***
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-optimization.md" target="_blank"_>워드프레스 웹사이트를 중국형 인터넷 환경에 맞도록 최적화 작업해 드립니다 - 워드프레스톡 매거진</a>**
-
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-wp.md" target="_blank"_>중국형 인터넷 환경에 최적화된 워드프레스 웹사이트 설치 대행해 드립니다 - 워드프레스톡 매거진</a>**
-
-***
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-china-why-wp.md" target="_blank"_>중국 웹사이트/홈페이지를 워드프레스로 제작해야 하는 이유 - 워드프레스톡 매거진</a>**
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-trendtalk-china-wordpress.md" target="_blank"_>중국 마케팅을 위한 워드프레스 웹사이트/쇼핑몰 제작할 때 알아둬야 할 필수 상식 - 트렌드톡 매거진</a>
-
-**(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-china-wp-plugins.md" target="_blank"_>중국 웹사이트를 만들 때 반드시 필요한 워드프레스(WP) 추천 플러그인 - 워드프레스톡/트렌드톡 매거진</a>**
-
-- (미발표) [참고] <a href="http://localhost:2368/wordpress-china-baidu-plugin-redweb/" target="_blank"_>중국 바이두 지도 워드프레스(WP) 플러그인 추천 - 워드프레스톡/트렌드톡 매거진</a>
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-wechat-social-login.md" target="_blank"_>중국 워드프레스(WP) 웹사이트를 위한 추천 플러그인 : WP 소셜 로그인(WP Social Login) - 워드프레스톡/트렌드톡 매거진</a>
-
-- (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-wp-theme-autumn.md" target="_blank"_>중국 워드프레스(WP) 웹사이트를 위한 추천 테마 : Autumn - 워드프레스톡/트렌드톡 매거진</a>
-
-***
-x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank"_>중국 워드프레스 웹사이트/쇼핑몰 제작에 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스톡 (네이버 블로그)</a>
-
-x [참고] <a href="https://blog.naver.com/redweb-korea/221376799379" target="_blank"_>중국 워드프레스 웹사이트를 위한 추천 플러그인 : WP 바이두 지도(WP Baidu Map) - 레드웹 (네이버 블로그)</a>
-
-x [참고] <a href="https://blog.naver.com/redweb-korea/221376120335" target="_blank"_>중국 워드프레스 웹사이트를 위한 추천 플러그인 : Advanced Responsive Video Embedder - 레드웹 (네이버 블로그)</a>
 
 ***
 ***
