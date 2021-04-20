@@ -100,7 +100,7 @@ sheet.best가 제공하는 API 서비스를 활용하기 위해, "Connection Nam
 더 자세한 sheet.best API 사용 방법은 아래 링크를 통해 확인할 수 있습니다.
 
 ***
-<center>sheet.best API Documentation : <a href="https://docs.sheet.best/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>docs.sheet.best</a></center>
+<center>**sheet.best API Documentation : <a href="https://docs.sheet.best/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>docs.sheet.best</a>**</center>
 
 <!-- <a name="index-epilogue"></a> -->
 ***
