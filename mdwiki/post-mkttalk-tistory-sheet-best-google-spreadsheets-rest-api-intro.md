@@ -7,8 +7,9 @@
 ## ◼︎ 목차 <span style="font-size:0.5em; float:right; padding:0.5em 0 0;"><i class="fas fa-clock"></i> 업데이트 : <span class="post-year"></span>-<span class="post-month-digits"></span>-01</span>
 
 - [구글 스프레드시트(Google Sheets) 소개](#index-00)
-- [Sheet.best 소개 및 회원 가입 방법](#index-01)
-- [Sheet.best REST API 주소 생성 방법](#index-02)
+- [Sheet.best 서비스 소개](#index-01)
+- [Sheet.best 서비스 회원 가입 방법](#index-02)
+- [Sheet.best REST API 주소 생성 방법](#index-03)
 - [맺음말](#index-epilogue)
 - [도움이 될 만한 연관 추천 글](#recommendation)
 
@@ -33,50 +34,73 @@
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-02-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
-
+사용 중인 구글 스프레드시트를 sheet.best에 연결하면, 해당 스프레드시트에 대한 데이터를 REST API를 생성/발급 받을 수 있습니다.
 
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-03-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
+sheet.best는 기본적으로 무료로 사용할 수 있습니다.
+무료 플랜을 사용하면, 총 3개의 스프레드시트의 API를 사용할 수 있고, 매월 500회의 HTTP Request(Call)을 무료로 이용할 수 있습니다.
 
-
-***
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-04-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
-
-
+유료 플랜을 이용하면, 3개 이상의 스프레드시트 API와 매월 500회 이상의 HTTP Request(Call)을 이용할 수 있습니다.
 
 <!-- <a name="index-02"></a> -->
+***
+## ◼︎ sheet.best 서비스 회원 가입 방법
+
+<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-04-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
+
+회원 가입을 위해서 sheet.best의 메인 페이지에서 우측 상단의 "Sign In" 버튼을 클릭합니다.
+
+현재 구글 스프레드시트(Google Sheets) 서비스와 연결된 구글 계정 정보(Gmail)를 입력하면, 자동으로 회원 가입 및 로그인이 완료됩니다.
+
+<!-- <a name="index-03"></a> -->
 ***
 ## ◼︎ Sheet.best REST API 주소 생성 방법
 
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-05-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
-
+sheet.best에 로그인한 뒤, "+ Connection" 버튼을 클릭합니다.
 
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-06-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
+sheet.best가 제공하는 API 서비스를 활용하기 위해, "Connection Name"(원하는 연결 이름)을 입력합니다.
 
+하단의 "Connection" 정보를 입력합니다.
+
+- Origin : Google Spreadsheets
+- Connection URL : 아래 내용 참고
 
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-07-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
-
+새로운 구글 스프레드시트를 생성한 뒤, 우측 상단의 "Share" 버튼을 클릭합니다.
 
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-08-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
-
+설정 내용이 "Anyone with the link"(링크로 누구나 사용 가능), "Editor"(관리자)임을 확인한 뒤, 구글 스프레드시트 공유 링크를 클립보드에 복사("Copy Link")합니다.
 
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-09-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
+구글 스프레드시트 공유 링크를 "Connection URL"에 입력한 뒤, "Connection" 버튼을 클릭하면, 새로운 구글 스프레드시트 연결 카드가 생성됩니다.
 
+신규 생성된 연결 내용을 확인하기 위해, 카드 하단의 "Details" 링크를 클릭합니다.
 
 ***
 <center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/04/mkttalk-sheet-best-guide-image-10-800.png" style="max-width:100%;" alt="마케팅톡매거진"></a></center>
 
+연결 카드의 상세 정보가 표시됩니다.
+"Connection URL" 부분에서 내 구글 스프레드시트에 대한 신규 API 주소(URL)를 확인할 수 있습니다.
 
+이 URL(주소)를 통해 연결된 구글 스프레드시트의 데이터를 프로그램적(Programatically)으로 보기/입력/수정/삭제(CRUD)할 수 있습니다.
+
+더 자세한 sheet.best API 사용 방법은 아래 링크를 통해 확인할 수 있습니다.
+
+***
+<center>sheet.best API Documentation : <a href="https://docs.sheet.best/" class="highlight-disabled" rel="noopener noreferrer" target="_blank"_>docs.sheet.best</a></center>
 
 <!-- <a name="index-epilogue"></a> -->
 ***
