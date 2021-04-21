@@ -21,8 +21,6 @@
 **[꿀팁] <a href="https://www.mkttalk.com/tools/youtube-rss-generator-usage/" class="highlight-disabled" target="_blank"_>유튜브(YouTube) 채널 RSS 피드 주소 간편하게 찾는 방법 모음</a> ( <a href="https://news.mkttalk.com/entry/꿀팁-유튜브YouTube-채널-RSS-주소-간편하게-찾는-방법-채널-ID-활용-마케팅톡" target="_blank" rel="noopener noreferrer"_>마케팅톡 매거진</a> )**
 
 ***
-(미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-tistory-sheet-best-google-spreadsheets-rest-api-intro.md" target="_blank" rel="noopener noreferrer"_>구글 스프레드시트 REST API 활용 방법 꿀팁 (Sheet.best) - 마케팅톡 매거진</a>
-
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-google-sheets-api.md" target="_blank" rel="noopener noreferrer"_>구글 스프레드시트 API 권한 받아서 외부에서 데이터 업데이트/활용 방법 (Google Sheets API) 꿀팁 - 마케팅톡 매거진</a>
 
 (미발표) [참고] <a href="https://demo.ttmkt.com/mdwiki/#!post-mkttalk-news-wordpress-examples.md" target="_blank" rel="noopener noreferrer"_>워드프레스로 만든 사이트 최신 사례/예시 모음 (한국/일본/중국 등) - 마케팅톡 매거진</a>
@@ -83,6 +81,8 @@
 
 ***
 ### ◼︎ 구글/유튜브/애드센스
+
+[참고] <a href="https://news.mkttalk.com/entry/auto-db-google-spreadsheets-api-sheet-best-intro" target="_blank" rel="noopener noreferrer"_>구글 스프레드시트 API 기능 생성 및 데이터 활용 방법 꿀팁 (Sheet.best) - 마케팅톡 매거진</a>
 
 [참고] <a href="https://news.mkttalk.com/entry/youtube-sound-volume-increase-js-mkttalk" target="_blank" rel="noopener noreferrer"_>유튜브 볼륨 최대 음량 제한 없이 높이는 방법 - 마케팅톡 매거진</a>
 
