@@ -32,7 +32,7 @@ tags: 꿀팁
 
 ***
 
-[참고] <a href="XXXXXXXXXXXXXXXX" target="_blank"_>XXXXXXXXXXXXXXXX</a>
+[참고] <a href="https://blog.naver.com/wp-kr/222323034519" target="_blank"_>워드프레스 functions.php 파일 신규 함수(기능) 추가 및 활용 방법</a>
 
 ***
 
