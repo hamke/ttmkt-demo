@@ -219,6 +219,10 @@
 ***
 x [참고] <a href="https://blog.naver.com/wp-kr/221596658265" target="_blank" rel="noopener noreferrer"_>중국 워드프레스 웹사이트 제작을 위해 블루호스트 차이나(Bluehost China) 호스팅을 활용해야 하는 이유 - 워드프레스웹코리아 (네이버 블로그)</a>
 
+x [참고] <a href="https://blog.naver.com/wp-kr/222334848810" target="_blank" rel="noopener noreferrer"_>워드프레스 플러그인 '코드 스니펫(Code Snippets)' 설치 및 활용 방법 – 워드프레스웹코리아 (네이버 블로그)</a>
+
+x [참고] <a href="https://blog.naver.com/wp-kr/222323034519" target="_blank" rel="noopener noreferrer"_>워드프레스 functions.php 파일 신규 함수(기능) 추가 및 활용 방법 – 워드프레스웹코리아 (네이버 블로그)</a>
+
 x [참고] <a href="https://blog.naver.com/wp-kr/221539254598" target="_blank" rel="noopener noreferrer"_>워드프레스 페이지 디자인 및 템플릿 수정을 위해 알아야 할 것들 – 워드프레스웹코리아 (네이버 블로그)</a>
 
 x [참고] <a href="https://blog.naver.com/wp-kr/222200313104" target="_blank" rel="noopener noreferrer"_>워드프레스 중계 서버 시스템으로 외부 데이터 활용 예시 및 필수 꿀팁 – 워드프레스웹코리아 (네이버 블로그)</a>
