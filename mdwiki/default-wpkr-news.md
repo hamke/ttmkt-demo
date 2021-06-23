@@ -88,13 +88,15 @@ tags: 꿀팁
 
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
-<center><a href="https://www.wp-talk.com/kr/examples/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/06/wptalk-wordpress-croissant-online-jp-800x490-1.png" style="max-width:100%;" alt="워드프레스 애널리틱스(WordPress Analytics)"></a></center>
+<center><a href="https://www.wp-talk.com/kr/examples/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/03/wptalk-wordpress-examples-melem-01-800x570-1.png" style="max-width:100%;" alt="워드프레스 애널리틱스(WordPress Analytics)"></a></center>
 
 - <a href="https://www.wp-talk.com/kr/examples/" target="_blank"_>워드프레스로 제작된 사이트 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/examples-woocommerce/" target="_blank"_>워드프레스 우커머스(WooCommerce)로 제작된 쇼핑몰 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a>
 
 - <a href="https://www.wp-talk.com/kr/themes-ranking/" target="_blank"_>워드프레스 인기 테마 실시간 다운로드/판매 순위(랭킹) 및 추천 유료/무료 테마 최신 정보</a>
+
+- <a href="https://www.wp-talk.com/kr/plugins-ranking/" target="_blank"_>워드프레스 인기 플러그인 실시간 다운로드/판매 순위(랭킹) 및 추천 유료/무료 플러그인 최신 정보</a>
 
 - <a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank"_>워드프레스 애널리틱스 (WordPress Analytics) : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인, 제작사 정보 간편 확인 방법</a>
 
@@ -126,11 +128,17 @@ tags: 꿀팁
 
 - <a href="https://www.wp-talk.com/kr/child-theme-builder-usage/" target="_blank"_>워드프레스 차일드(자식)테마를 무료 온라인 빌더로 간편 생성 방법</a>
 
+- <a href="https://www.wp-talk.com/kr/must-know-services/" target="_blank"_>워드프레스 사이트 제작할 때 알아야 할 필수 온라인 툴 서비스 모음</a>
+
+- <a href="https://www.wp-talk.com/kr/useful-sites/" target="_blank"_>워드프레스 개발/입문자 알아두면 유용한 국내/해외 사이트 정보 모음 꿀팁 (영어/한국어/일본어/중국어)</a>
+
+- <a href="https://www.wp-talk.com/kr/good-agency/" target="_blank"_>워드프레스 제작업체/에이전시/프리랜서 실력 간편하게 파악/감별 방법</a>
+
+- <a href="https://www.wp-talk.com/kr/bad-agency-china/" target="_blank"_>중국어 홈페이지/쇼핑몰 엉터리 제작업체/에이전시/프리랜서 특징 및 주의 사항</a>
+
+- <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법</a>
+
 - <a href="https://news.wp-kr.com/wordpress-rest-api-fetch-content" target="_blank"_>워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a>
-
-- <a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank"_>워드프레스 초보자들이 흔히 하는 실수 및 필수 상식</a>
-
-- <a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank"_>워드프레스 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법</a>
 
 - <a href="https://coupa.ng/bgHJQN" target="_blank"_>워드프레스 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a>
 
