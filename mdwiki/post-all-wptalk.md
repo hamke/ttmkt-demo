@@ -134,9 +134,9 @@
 ***
 [참고] <a href="https://www.wp-talk.com/kr/must-read/" target="_blank"_>**워드프레스 입문/초보자가 알아두면 좋은 워드프레스 추천 글 모음 - 워드프레스웹코리아**</a> ( <a href="https://blog.naver.com/wp-kr/221494933645" target="_blank" rel="noopener noreferrer"_>**네이버 블로그**</a> | <a href="https://news.mkttalk.com/entry/wordpress-all-tips" target="_blank_">**마케팅톡 매거진**</a> )
 
-[참고] <a href="https://www.wp-talk.com/kr/basic/" target="_blank"_>**워드프레스(WordPress)란? 시작하기 가이드 및 사용법 총정리 (웹사이트/블로그/쇼핑몰 제작/개발 방법, 호스팅/테마/플러그인 다운로드/설치 매뉴얼, 장점/단점 등) - 워드프레스웹코리아**</a>
+[참고] <a href="https://www.wp-talk.com/kr/101/" target="_blank"_>**워드프레스(WordPress)란? 시작하기 가이드 및 사용법 총정리 (웹사이트/블로그/쇼핑몰 제작/개발 방법, 호스팅/테마/플러그인 다운로드/설치 매뉴얼, 장점/단점 등) - 워드프레스웹코리아**</a>
 
-[참고] <a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank"_>**워드프레스 가이드: 필수 기초 상식 및 자주 찾는 질문(FAQ) 모음 - 워드프레스웹코리아**</a>
+[참고] <a href="https://www.wp-talk.com/kr/faq/" target="_blank"_>**워드프레스 가이드: 필수 기초 상식 및 자주 찾는 질문(FAQ) 모음 - 워드프레스웹코리아**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/lesson/" target="_blank"_>**워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업) - 워드프레스웹코리아**</a> ( <a href="https://demo.ttmkt.com/mdwiki/#!post-wptalk-lesson.md" target="_blank"_>**작성 중**</a> )
 
