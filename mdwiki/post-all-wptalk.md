@@ -166,6 +166,12 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>**워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법**</a>
 
+[참고] <a href="https://www.wp-talk.com/kr/wordpress-make-money/" target="_blank"_>**워드프레스 돈 버는 방법 모음 : 나만의 온라인 자동 수익 시스템 간편 구축/제작 꿀팁 총정리**</a>
+
+[참고] <a href="https://www.wp-kr.com/starter/usage/" target="_blank"_>**워드프레스 온라인 자동화 수익 시스템(사이트/블로그/쇼핑몰 등) 제작/구축에 필요한 추천 프로그램/서비스 정보 모음**</a>
+
+[참고] <a href="https://www.wp-talk.com/kr/why-use-starter/" target="_blank"_>**워드프레스 초보자 필수 상식 : 당신이 워드프레스 사이트 제작을 곧 포기하게 되는 이유**</a>
+
 [참고] <a href="https://www.wp-talk.com/kr/subscribe/" target="_blank"_>**워드프레스 최신 뉴스 및 꿀팁 정보 구독하기 : www.wp-talk.com/kr/subscribe/**</a>
 
 ***
@@ -174,6 +180,8 @@
 [참고] <a href="https://news.wp-kr.com/china-website-loading-speed-slow/" target="_blank" rel="noopener noreferrer"_>중국에서 웹사이트/쇼핑몰에 접속할 때 로딩 속도가 느려지는 이유 - 워드프레스웹코리아</a>
 
 [참고] <a href="https://www.wp-talk.com/go/bluehost/sites/" target="_blank" rel="noopener noreferrer"_>블루호스트(Bluehost) 호스팅 사용중인 워드프레스 사이트 모음</a>
+
+[참고] <a href="https://www.wp-talk.com/go/bluehost/usage/" target="_blank" rel="noopener noreferrer"_>**블루호스트(Bluehost) 호스팅으로 워드프레스 자동 설치 및 간편 시작 가이드**</a>
 
 [참고] <a href="https://www.wp-talk.com/go/siteground/sites/" target="_blank" rel="noopener noreferrer"_>사이트그라운드(SiteGround) 호스팅 사용중인 워드프레스 사이트 모음</a>
 
