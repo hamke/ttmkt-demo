@@ -168,7 +168,7 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/wordpress-make-money/" target="_blank"_>**워드프레스 돈 버는 방법 모음 : 나만의 온라인 자동 수익 시스템 간편 구축/제작 꿀팁 총정리**</a>
 
-[참고] <a href="https://www.wp-kr.com/starter/usage/" target="_blank"_>**워드프레스 온라인 자동화 수익 시스템(사이트/블로그/쇼핑몰 등) 제작/구축에 필요한 추천 프로그램/서비스 정보 모음**</a>
+[참고] <a href="https://www.wp-kr.com/starter/usage/" target="_blank"_>**워드프레스 돈 버는 온라인 자동화 수익 시스템(사이트/블로그/쇼핑몰 등) 제작/구축에 필요한 추천 프로그램/서비스 정보 모음**</a>
 
 [참고] <a href="https://www.wp-talk.com/kr/why-use-starter/" target="_blank"_>**워드프레스 초보자 필수 상식 : 당신이 워드프레스 사이트 제작을 곧 포기하게 되는 이유**</a>
 
