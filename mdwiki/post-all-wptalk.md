@@ -172,6 +172,8 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/why-use-starter/" target="_blank"_>**워드프레스 초보자 필수 상식 : 당신이 워드프레스 사이트 제작을 곧 포기하게 되는 이유**</a>
 
+[참고] <a href="https://www.wp-kr.com/naver-cafe/" target="_blank"_>**워드프레스 오토 머니 챌린지 네이버 카페 - 온라인 수익 자동화 꿀팁 정보 공유 커뮤니티**</a>
+
 [참고] <a href="https://www.wp-talk.com/kr/subscribe/" target="_blank"_>**워드프레스 최신 뉴스 및 꿀팁 정보 구독하기 : www.wp-talk.com/kr/subscribe/**</a>
 
 ***
