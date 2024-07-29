@@ -1,6 +1,6 @@
-# XXXXXXXXXXXXXXXX - 마케팅톡 매거진
+# 워드프레스로 커뮤니티 사이트 만들기 : 테마 및 플러그인 - 마케팅톡 매거진
 
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2021/11/wptalk-coupang-wordpress-auto-posting-system-caution-beginners-01-300x300-1.jpg" style="max-width:800px; border-radius:1rem;" alt="마케팅톡(mkttalk.com)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2023/12/mkttalk-wordpress-auto-community-starter-intro-img-01-300x300-1.png" style="max-width:800px; border-radius:1rem;" alt="마케팅톡(mkttalk.com)"></a></center>
 
 <!-- <a name="index"></a> -->
 ***
@@ -90,7 +90,7 @@
 
 ## ◼︎ 함께 보면 좋은 연관 추천 글
 
-<center style="margin-bottom:1rem;"><a href="https://www.wp-kr.com/item/auto-money-video/" target="_blank"_><img style="width: 100%; max-width: 600px; border-radius: 1rem; border: 1px solid #ddd; margin-bottom: 1.8rem;" src="https://hellotblog.files.wordpress.com/2022/11/wptalk-wordpress-auto-money-video-system-image-banner-sports-01-600.gif" class="box-shadow" alt="마케팅톡(mkttalk.com)"></a></center>
+<center><a href="https://www.wp-kr.com/item/auto-money-video/" target="_blank"_><img style="width: 100%; max-width: 600px; border-radius: 1rem; border: 1px solid #ddd; margin-bottom: 1.8rem;" src="https://hellotblog.files.wordpress.com/2022/11/wptalk-wordpress-auto-money-video-system-image-banner-sports-01-600.gif" class="box-shadow" alt="마케팅톡(mkttalk.com)"></a></center>
 
 [참고] <a href="https://www.mkttalk.com/must-read/" target="_blank"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
 
@@ -108,7 +108,7 @@
 
 ***
 
-<center style="margin-top:1rem; margin-bottom:1rem;><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2024/07/automoneytalk-logo-ai-img-01-150x150-1.png" style="width:80px; max-width:100%; border-radius:1rem;" alt="마케팅톡 매거진(MKTTALK)"></a></center>
+<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="width:80px; max-width:100%; border-radius:1rem;" alt="마케팅톡 매거진(MKTTALK)"></a></center>
 
 ***
 

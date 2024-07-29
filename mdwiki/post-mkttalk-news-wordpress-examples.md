@@ -79,7 +79,7 @@
 
 ## ◼︎ 도움이 될 만한 연관 추천 글
 
-<center><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/04/ttmkt-logo-girl-round-02-120x120.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK.COM)"></a></center>
+<center style="margin-bottom:1rem;"><a href="https://www.mkttalk.com/kakao/" rel="noopener noreferrer" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2024/07/automoneytalk-logo-ai-img-01-150x150-1.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK.COM)"></a></center>
 
 [참고] <a href="https://www.mkttalk.com/must-read/" target="_blank"_>국내외 마케팅 및 비즈니스에 도움이 되는 최신 꿀팁 정보 모음</a>
 
@@ -95,7 +95,7 @@
 
 ***
 
-<center><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK)"></a></center>
+<center style="margin-top:1rem; margin-bottom:1rem;"><a href="https://www.mkttalk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/09/mkttalk-logo-00-120x120.png" style="max-width:100%;" alt="마케팅톡 매거진(MKTTALK)"></a></center>
 
 ***
 

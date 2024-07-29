@@ -6,6 +6,9 @@
 **◼︎ 워드프레스웹코리아 - <a href="https://www.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>홈페이지</a> | <a href="https://school.wp-talk.com/" target="_blank" rel="noopener noreferrer"_>온라인 스쿨</a> | <a href="https://www.wp-talk.com/lesson/" target="_blank" rel="noopener noreferrer"_>레슨</a> ( <a href="https://www.wp-talk.com/classroom/" target="_blank" rel="noopener noreferrer"_>온라인 강의실</a> ) | <a href="https://www.wordpress101.kr/" target="_blank" rel="noopener noreferrer"_>101</a> | <a href="https://www.wp-talk.com/119/" target="_blank" rel="noopener noreferrer"_>119</a> | <a href="https://news.wp-kr.com/" target="_blank" rel="noopener noreferrer"_>매거진</a> | <a href="https://www.wp-talk.com/naver-blog/" target="_blank" rel="noopener noreferrer"_>네이버 블로그</a> | <a href="https://www.wp-talk.com/naver-cafe/" target="_blank" rel="noopener noreferrer"_>네이버 카페</a> | <a href="https://www.facebook.com/wptalk/" target="_blank" rel="noopener noreferrer"_>페이스북</a> | <a href="https://www.wp-talk.com/onoffmix/" target="_blank" rel="noopener noreferrer"_>온오프믹스</a>**
 
 ***
+**(미발표) <a href="http://localhost:8080/i/~resources/ttmkt-demo/mdwiki/#!post-wordpress-auto-interstitial-ads-system.md" target="_blank" rel="noopener noreferrer"_>워드프레스 오토 "콘텐츠 열람 전" 자동 광고 시스템 소개 및 사용 가이드</a>**
+
+***
 **(미발표) [필수] <a href="https://demo.ttmkt.com/mdwiki/#!post-wpkr-news-wordpress-hooks.md" target="_blank" rel="noopener noreferrer"_>워드프레스 오토 시스템에 자주 사용되는 워드프레스 액션/필터 훅(Hooks) 모음</a>**
 
 ***
