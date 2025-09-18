@@ -24,7 +24,7 @@ tags:
 
 ## ◼︎ XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 ***
 
@@ -36,7 +36,7 @@ tags:
 
 ## 1. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 
 
@@ -50,7 +50,7 @@ tags:
 
 ## 2. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 
 
@@ -64,7 +64,7 @@ tags:
 
 ## 3. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 
 
@@ -169,7 +169,7 @@ www.wp-kr.com/subscribe/</a></center>
 - OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 ***
 <center><a href="https://www.wp-talk.com/kr/sale/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-sale-now-image-01-800x560.png" style="max-width:100%;" alt="워드프레스 최신 테마/플러그인/호스팅 실시간 할인/무료 정보 모음(WordPress Item Sale Now)"></a></center>
@@ -177,7 +177,7 @@ www.wp-kr.com/subscribe/</a></center>
 ***
 <div class="focus-zone-center">
 
-<a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a>
+<a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a>
 
 **<a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>워드프레스 차일드 테마 빌더(WordPress Child Theme Builder)<br>www.wp-talk.com/app/child-theme-builder/</a>**
 

@@ -22,7 +22,7 @@ tags: 꿀팁
 
 ## ◼︎ XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 ***
 
@@ -34,7 +34,7 @@ tags: 꿀팁
 
 ## 1. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 본인 또는 타인이 운영하고 있는 외부 사이트/블로그의 최신 글 목록 데이터를 손쉽게 가져와서, 원하는 곳에 자유롭게 활용할 수 있습니다.
 
@@ -51,7 +51,7 @@ tags: 꿀팁
 
 ## 2. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 
 
@@ -65,7 +65,7 @@ tags: 꿀팁
 
 ## 3. XXXXXXXXXXXXXXXX
 
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 
 
@@ -170,7 +170,7 @@ www.wp-kr.com/subscribe/</a></center>
 - OOOOOOOOO : <a href="https://www.wp-talk.com/" rel="noopener noreferrer" target="_blank"_>바로 가기</a>
 
 ***
-<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 ***
 <center><a href="https://www.wp-talk.com/kr/sale/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2019/10/wptalk-wordpress-sale-now-image-01-800x560.png" style="max-width:100%;" alt="워드프레스 최신 테마/플러그인/호스팅 실시간 할인/무료 정보 모음(WordPress Item Sale Now)"></a></center>
@@ -178,7 +178,7 @@ www.wp-kr.com/subscribe/</a></center>
 ***
 <div class="focus-zone-center">
 
-<a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-logo-girl-round-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a>
+<a href="https://www.wp-talk.com/kakao/" target="_blank"_><img src="https://hellotblog.wordpress.com/wp-content/uploads/2025/03/automoneytalk-logo-ai-img-01-120x120-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a>
 
 **<a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank"_>워드프레스 차일드 테마 빌더(WordPress Child Theme Builder)<br>www.wp-talk.com/app/child-theme-builder/</a>**
 

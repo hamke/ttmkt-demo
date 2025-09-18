@@ -169,6 +169,8 @@
 
 [참고] <a href="https://www.wp-talk.com/kr/bad-lessons/" target="_blank"_>**워드프레스 엉터리 교육/강의/유튜브/블로그의 특징 및 추천 학습 방법**</a>
 
+[참고] <a href="https://www.wp-talk.com/kr/clients-what-to-do/" target="_blank"_>**웹사이트/홈페이지 제작을 의뢰할 때 고객(클라이언트) 준비 사항**</a>
+
 [참고] <a href="https://www.wp-talk.com/kr/wordpress-make-money/" target="_blank"_>**워드프레스 돈 버는 방법 모음 : 나만의 온라인 자동 수익 시스템 간편 구축/제작 꿀팁 총정리**</a>
 
 [참고] <a href="https://www.wp-kr.com/starter/usage/" target="_blank"_>**워드프레스 돈 버는 온라인 자동화 수익 시스템(사이트/블로그/쇼핑몰 등) 제작/구축에 필요한 추천 프로그램/서비스 정보 모음**</a>
